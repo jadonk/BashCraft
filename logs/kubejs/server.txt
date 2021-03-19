@@ -1,0 +1,50 @@
+[21:55:55] [INFO] Hello, World! (You will see this line every time server resources reload)
+[21:55:55] [INFO] Loaded 1/1 KubeJS server scripts in 0.04 s
+[21:55:55] [INFO] Loaded script server_scripts:script.js in 0.015 s
+[21:55:55] [INFO] Scripts loaded
+[21:55:55] [INFO] Scanning recipes...
+[21:55:56] [INFO] [blocks] Found 176 tags, added 0 objects, removed 0 objects
+[21:55:56] [INFO] [items] Found 243 tags, added 0 objects, removed 0 objects
+[21:55:56] [INFO] [fluids] Found 3 tags, added 0 objects, removed 0 objects
+[21:55:56] [INFO] [entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[21:55:56] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:56] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:56] [INFO] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:flag_light_blue_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:flag_light_blue_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:flag_green_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:flag_green_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:flag_light_gray_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:flag_light_gray_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_16[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_17[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_18[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_19[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_12[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_13[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_14[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_15[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_10[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_11[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_23[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_20[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_21[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_22[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:flag_gray_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:flag_gray_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_8[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_7[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_6[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_5[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_4[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_3[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_2[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_1[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_9[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:flag_magenta_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:flag_magenta_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:flag_orange_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:flag_orange_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+[21:55:56] [WARN] Failed to parse recipe 'boss_tools:moonslabrezept[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+[21:55:56] [WARN] Failed to parse recipe boss_tools:moonslabrezept[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+[21:55:57] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects

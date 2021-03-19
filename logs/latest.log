@@ -1,0 +1,309 @@
+[21:55:41] [main/INFO]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[21:55:41] [main/INFO]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 11.0.10 by AdoptOpenJDK
+[21:55:41] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[21:55:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/data/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[21:55:41] [main/INFO]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:-1]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21:55:41] [main/INFO]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:-1]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21:55:41] [main/INFO]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:-1]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21:55:41] [main/INFO]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:-1]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[21:55:42] [main/INFO]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[21:55:42] [main/WARN]: Reference map 'examplemod.refmap.json' for boss_tools.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:55:45] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_1`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:45] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_2`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:45] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_3`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:45] [modloading-worker-10/INFO]: Forge mod loading, version 36.1.0, for MC 1.16.5 with MCP 20210115.111550
+[21:55:45] [modloading-worker-10/INFO]: MinecraftForge v36.1.0 Initialized
+[21:55:45] [modloading-worker-8/INFO]: [cam72cam.mod.ModCore:<init>:69]: Welcome to UniversalModCore!
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock_component`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_large_wrench`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_hook`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_augment`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_manual`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail_part`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_plate`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_cast_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_conductor_whistle`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_paint_brush`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_golden_spike`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_radio_control_card`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_switch_key`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-8/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_track_exchanger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:46] [modloading-worker-1/INFO]: [net.mrscauthd.boss_tools.PlayerCameraRocket:<init>:28]: EventFOVRegister
+[21:55:46] [modloading-worker-15/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[21:55:46] [modloading-worker-15/INFO]: Loaded script startup_scripts:script.js in 0.168 s
+[21:55:46] [modloading-worker-15/INFO]: Loaded 1/1 KubeJS startup scripts in 0.361 s
+[21:55:46] [modloading-worker-15/INFO]: Loaded common.properties
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carfreight`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carpassenger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `cartank`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `handcar`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivediesel`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivesteam`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `tender`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21:55:47] [Forge Version Check/INFO]: [obfuscate] Starting version check at https://raw.githubusercontent.com/MrCrayfish/Obfuscate/master/update.json
+[21:55:47] [modloading-worker-12/INFO]: Loading stock models.
+[21:55:48] [Forge Version Check/INFO]: [obfuscate] Found status: BETA Current: 0.6.0 Target: null
+[21:55:48] [Forge Version Check/INFO]: [reusable_rockets] Starting version check at https://maxhenkel.de/update/reusable_rockets.json
+[21:55:48] [modloading-worker-11/INFO]: Loading Models 1% : Russell Snow Plow
+[21:55:48] [modloading-worker-6/INFO]: Loading Models 3% : Firefly
+[21:55:48] [modloading-worker-3/INFO]: Loading Models 5% : Slag Car 1
+[21:55:48] [modloading-worker-15/INFO]: Loading Models 7% : Rail & Tie Car
+[21:55:48] [modloading-worker-12/INFO]: Loading Models 9% : PRR P70 Coach 1
+[21:55:48] [modloading-worker-3/INFO]: Loading Models 11% : Hand Car
+[21:55:49] [modloading-worker-4/INFO]: Loading Models 13% : 5500 Series Stockcar
+[21:55:49] [modloading-worker-9/INFO]: Loading Models 15% : Iron Duke
+[21:55:49] [modloading-worker-15/INFO]: Loading Models 17% : Waycar
+[21:55:49] [Forge Version Check/INFO]: [reusable_rockets] Found status: UP_TO_DATE Current: 1.16.5-1.0.1 Target: null
+[21:55:49] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:55:49] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 36.1.0 Target: null
+[21:55:49] [modloading-worker-15/INFO]: Loading Models 19% : Cooke Tender
+[21:55:49] [modloading-worker-13/INFO]: Loading Models 21% : DSP&P Mogul
+[21:55:49] [modloading-worker-4/INFO]: Loading Models 23% : Tank US 2
+[21:55:49] [modloading-worker-3/INFO]: Loading Models 25% : Kamx T
+[21:55:49] [modloading-worker-12/INFO]: Loading Models 26% : Box Car X26
+[21:55:49] [modloading-worker-1/INFO]: Loading Models 28% : D&RGW K36
+[21:55:49] [modloading-worker-3/INFO]: Loading Models 30% : K36 Tender
+[21:55:49] [modloading-worker-6/INFO]: Loading Models 32% : Rodgers Ten Wheeler
+[21:55:49] [modloading-worker-11/INFO]: Loading Models 34% : 1000 Series Gondola
+[21:55:49] [modloading-worker-8/INFO]: Loading Models 36% : GE C44-9CW
+[21:55:49] [modloading-worker-10/INFO]: Loading Models 38% : Skookum 2-4-4-2
+[21:55:49] [modloading-worker-13/INFO]: Loading Models 40% : Skookum Tender
+[21:55:49] [modloading-worker-2/INFO]: Loading Models 42% : E6 Atlantic
+[21:55:50] [modloading-worker-3/INFO]: Loading Models 44% : Rodgers Ten Wheeler Tender
+[21:55:50] [modloading-worker-10/INFO]: Loading Models 46% : E6 Atlantic Tender
+[21:55:50] [modloading-worker-13/INFO]: Loading Models 48% : drg class 01 tender
+[21:55:50] [modloading-worker-11/INFO]: Loading Models 50% : 3000 Series Boxcar
+[21:55:50] [modloading-worker-3/INFO]: Loading Models 51% : USRA Hopper 55T
+[21:55:50] [modloading-worker-8/INFO]: Loading Models 53% : SW1500
+[21:55:50] [modloading-worker-2/INFO]: Loading Models 55% : A1 Peppercorn Tender
+[21:55:50] [modloading-worker-10/INFO]: Loading Models 57% : K4 Pacific Tender
+[21:55:50] [modloading-worker-12/INFO]: Loading Models 59% : PRR B70 Baggage
+[21:55:50] [modloading-worker-1/INFO]: Loading Models 61% : ATTX Flatcar 1
+[21:55:50] [modloading-worker-15/INFO]: Loading Models 63% : BR Coach MK1
+[21:55:51] [modloading-worker-1/INFO]: Loading Models 65% : DW Gondola
+[21:55:51] [modloading-worker-11/INFO]: Loading Models 67% : RS-1
+[21:55:51] [modloading-worker-15/INFO]: Loading Models 69% : USRA Boxcar Class RR-40
+[21:55:51] [modloading-worker-6/INFO]: Loading Models 71% : br01
+[21:55:51] [modloading-worker-9/INFO]: Loading Models 73% : Big Boy (4000 class)
+[21:55:51] [modloading-worker-13/INFO]: Loading Models 75% : GE B40-8
+[21:55:51] [modloading-worker-12/INFO]: Loading Models 76% : 70T Hopper SLSF
+[21:55:51] [modloading-worker-15/INFO]: Loading Models 78% : A5 Slope Tender
+[21:55:51] [modloading-worker-6/INFO]: Loading Models 80% : Class B-B-70/70-4HM829 Boxcab
+[21:55:51] [modloading-worker-10/INFO]: Loading Models 82% : Class 38 Tender
+[21:55:51] [modloading-worker-3/INFO]: Loading Models 84% : N5c Caboose
+[21:55:51] [modloading-worker-4/INFO]: Loading Models 86% : Class 38
+[21:55:51] [modloading-worker-9/INFO]: Loading Models 88% : PRR Flatcar 1
+[21:55:51] [modloading-worker-2/INFO]: Loading Models 90% : Big Boy (4000 class) Tender
+[21:55:51] [modloading-worker-13/INFO]: Loading Models 92% : GE B40-8w
+[21:55:52] [modloading-worker-15/INFO]: Loading Models 94% : A5 Switcher
+[21:55:52] [modloading-worker-8/INFO]: Loading Models 96% : EMD SD40-2
+[21:55:52] [modloading-worker-1/INFO]: Loading Models 98% : A1 Peppercorn
+[21:55:52] [modloading-worker-11/INFO]: Loading Models 100% : K4 Pacific
+[21:55:52] [modloading-worker-12/INFO]: Generating height maps.
+[21:55:52] [modloading-worker-1/INFO]: Generating Heightmap 1% : GE C44-9CW
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 3% : USRA Hopper 55T
+[21:55:52] [modloading-worker-3/INFO]: Generating Heightmap 5% : Waycar
+[21:55:52] [modloading-worker-10/INFO]: Generating Heightmap 7% : 1000 Series Gondola
+[21:55:52] [modloading-worker-8/INFO]: Generating Heightmap 9% : Rail & Tie Car
+[21:55:52] [modloading-worker-11/INFO]: Generating Heightmap 11% : PRR P70 Coach 1
+[21:55:52] [modloading-worker-13/INFO]: Generating Heightmap 13% : 5500 Series Stockcar
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 15% : Slag Car 1
+[21:55:52] [modloading-worker-9/INFO]: Generating Heightmap 17% : Russell Snow Plow
+[21:55:52] [modloading-worker-2/INFO]: Generating Heightmap 19% : E6 Atlantic Tender
+[21:55:52] [modloading-worker-15/INFO]: Generating Heightmap 21% : Skookum 2-4-4-2
+[21:55:52] [modloading-worker-2/INFO]: Generating Heightmap 23% : K4 Pacific Tender
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 25% : N5c Caboose
+[21:55:52] [modloading-worker-3/INFO]: Generating Heightmap 26% : E6 Atlantic
+[21:55:52] [modloading-worker-9/INFO]: Generating Heightmap 28% : Skookum Tender
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 30% : Hand Car
+[21:55:52] [modloading-worker-8/INFO]: Generating Heightmap 32% : Cooke Tender
+[21:55:52] [modloading-worker-10/INFO]: Generating Heightmap 34% : 3000 Series Boxcar
+[21:55:52] [modloading-worker-13/INFO]: Generating Heightmap 36% : BR Coach MK1
+[21:55:52] [modloading-worker-15/INFO]: Generating Heightmap 38% : br01
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 40% : PRR Flatcar 1
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 42% : Kamx T
+[21:55:52] [modloading-worker-8/INFO]: Generating Heightmap 44% : ATTX Flatcar 1
+[21:55:52] [modloading-worker-9/INFO]: Generating Heightmap 46% : drg class 01 tender
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 48% : Rodgers Ten Wheeler Tender
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 50% : Tank US 2
+[21:55:52] [modloading-worker-10/INFO]: Generating Heightmap 51% : K36 Tender
+[21:55:52] [modloading-worker-2/INFO]: Generating Heightmap 53% : Class 38 Tender
+[21:55:52] [modloading-worker-8/INFO]: Generating Heightmap 55% : DW Gondola
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 57% : 70T Hopper SLSF
+[21:55:52] [modloading-worker-8/INFO]: Generating Heightmap 59% : PRR B70 Baggage
+[21:55:52] [modloading-worker-10/INFO]: Generating Heightmap 61% : USRA Boxcar Class RR-40
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 63% : Firefly
+[21:55:52] [modloading-worker-11/INFO]: Generating Heightmap 65% : Box Car X26
+[21:55:52] [modloading-worker-2/INFO]: Generating Heightmap 67% : A5 Slope Tender
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 69% : Iron Duke
+[21:55:52] [modloading-worker-4/INFO]: Generating Heightmap 71% : D&RGW K36
+[21:55:52] [modloading-worker-11/INFO]: Generating Heightmap 73% : Rodgers Ten Wheeler
+[21:55:52] [modloading-worker-2/INFO]: Generating Heightmap 75% : A1 Peppercorn Tender
+[21:55:52] [modloading-worker-3/INFO]: Generating Heightmap 76% : Class 38
+[21:55:52] [modloading-worker-2/INFO]: Generating Heightmap 78% : Big Boy (4000 class) Tender
+[21:55:52] [modloading-worker-13/INFO]: Generating Heightmap 80% : GE B40-8
+[21:55:52] [modloading-worker-9/INFO]: Generating Heightmap 82% : Big Boy (4000 class)
+[21:55:52] [modloading-worker-10/INFO]: Generating Heightmap 84% : SW1500
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 86% : RS-1
+[21:55:52] [modloading-worker-11/INFO]: Generating Heightmap 88% : EMD SD40-2
+[21:55:52] [modloading-worker-1/INFO]: Generating Heightmap 90% : Class B-B-70/70-4HM829 Boxcab
+[21:55:52] [modloading-worker-15/INFO]: Generating Heightmap 92% : A1 Peppercorn
+[21:55:52] [modloading-worker-10/INFO]: Generating Heightmap 94% : GE B40-8w
+[21:55:52] [modloading-worker-3/INFO]: Generating Heightmap 96% : A5 Switcher
+[21:55:52] [modloading-worker-6/INFO]: Generating Heightmap 98% : DSP&P Mogul
+[21:55:52] [modloading-worker-13/INFO]: Generating Heightmap 100% : K4 Pacific
+[21:55:53] [modloading-worker-12/INFO]: Loading tracks.
+[21:55:53] [modloading-worker-12/INFO]: Loading Tracks 33% : default
+[21:55:53] [modloading-worker-12/INFO]: Loading Tracks 66% : concrete
+[21:55:53] [modloading-worker-12/INFO]: Loading Tracks 100% : railsonly
+[21:55:53] [main/INFO]: Initializing Packet Registries
+[21:55:53] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien, use EntityAttributeCreationEvent instead.
+[21:55:53] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:star_crawler, use EntityAttributeCreationEvent instead.
+[21:55:53] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_tier_3, use EntityAttributeCreationEvent instead.
+[21:55:53] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_tier_2, use EntityAttributeCreationEvent instead.
+[21:55:53] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:landing_gear, use EntityAttributeCreationEvent instead.
+[21:55:53] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket, use EntityAttributeCreationEvent instead.
+[21:55:53] [modloading-worker-11/WARN]: Unsafe tag access before load, try to avoid this if possible
+[21:55:53] [modloading-worker-11/WARN]: Unsafe tag access before load, try to avoid this if possible
+[21:55:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:55:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:55:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:55:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:55:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:55:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:55:55] [main/WARN]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[21:55:55] [main/WARN]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[21:55:55] [main/INFO]: Hello, World! (You will see this line every time server resources reload)
+[21:55:55] [main/INFO]: Loaded script server_scripts:script.js in 0.015 s
+[21:55:55] [main/INFO]: Loaded 1/1 KubeJS server scripts in 0.04 s
+[21:55:55] [main/INFO]: Scripts loaded
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:crafting_shaped
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:stonecutting
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:smelting
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:blasting
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:smoking
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:campfire_cooking
+[21:55:55] [main/INFO]: Registered custom recipe handler for type minecraft:smithing
+[21:55:55] [main/INFO]: Scanning recipes...
+[21:55:55] [main/INFO]: Reloading ResourceManager: KubeJS Virtual Data Pack [low priority], Default, forge-1.16.5-36.1.0-universal.jar, reusable_rockets-1.16.5-1.0.1.jar, rhino-1.7.13-build.14.jar, obfuscate-0.6.0-1.16.3.jar, BiomesOPlenty-1.16.4-13.0.0.431-universal.jar, Space-Bosstools-1.16.4-4.6.jar, Waystones_1.16.5-7.4.0.jar, architectury-1.8.130-forge.jar, kubejs-1605.3.6-build.172-forge.jar, journeymap-1.16.5-5.7.1.jar, ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar, TrackAPI-1.16.4-forge-1.2.1.jar, UniversalModCore-1.16.4-forge-1.0.1.jar, KubeJS Resource Pack [data], KubeJS Virtual Data Pack [high priority]
+[21:55:56] [Worker-Main-13/INFO]: [blocks] Found 176 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/INFO]: [items] Found 243 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/INFO]: [fluids] Found 3 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/INFO]: [entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/INFO]: [potions] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/INFO]: [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/INFO]: [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:flag_light_blue_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:flag_light_blue_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:flag_green_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:flag_green_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:flag_light_gray_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:flag_light_gray_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_16[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_17[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_18[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_19[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_12[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_13[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_14[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_15[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_10[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_11[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_23[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_20[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_21[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_22[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:flag_gray_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:flag_gray_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_8[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_7[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_6[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_5[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_4[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_3[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_2[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_1[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_9[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:flag_magenta_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:flag_magenta_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:flag_orange_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:flag_orange_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe 'boss_tools:moonslabrezept[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+[21:55:56] [Worker-Main-13/WARN]: Failed to parse recipe boss_tools:moonslabrezept[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+[21:55:56] [Worker-Main-13/INFO]: Found 1153 recipes and 0 failed recipes in 154.1 ms
+[21:55:56] [Worker-Main-13/INFO]: Posted recipe events in 645.6 μs
+[21:55:56] [Worker-Main-13/INFO]: Modified & removed recipes in 32.37 ms
+[21:55:56] [Worker-Main-13/INFO]: Added recipes in 544.9 μs
+[21:55:56] [Worker-Main-13/INFO]: Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[21:55:57] [Worker-Main-13/INFO]: [functions] Found 0 tags, added 0 objects, removed 0 objects
+[21:55:57] [Worker-Main-13/INFO]: Loaded 1147 advancements
+[21:55:58] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[21:55:58] [main/INFO]: Registry Block: Found a missing id from the world kubejs:example_block
+[21:55:58] [main/INFO]: Registry Block: Found a missing id from the world kubejs:test_block
+[21:55:58] [main/WARN]: Registry Block: Object did not get ID it asked for. Name: immersiverailroading:block_rail_preview Expected: 1090 Got: 1092
+[21:55:58] [main/WARN]: Registry Block: Object did not get ID it asked for. Name: immersiverailroading:block_rail_gag Expected: 1091 Got: 1093
+[21:55:58] [main/WARN]: Registry Block: Object did not get ID it asked for. Name: immersiverailroading:block_rail Expected: 1092 Got: 1094
+[21:55:58] [main/WARN]: Registry Block: Object did not get ID it asked for. Name: immersiverailroading:multiblock Expected: 1093 Got: 1095
+[21:55:58] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[21:55:58] [Server thread/INFO]: Loading properties
+[21:55:58] [Server thread/INFO]: Default game type: CREATIVE
+[21:55:58] [Server thread/INFO]: Generating keypair
+[21:55:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:55:59] [Server thread/INFO]: Using epoll channel type
+[21:55:59] [Server thread/INFO]: Loading JourneyMap Forge Configs
+[21:55:59] [Thread-0/INFO]: Loading JourneyMap Forge Configs
+[21:55:59] [Thread-0/INFO]: Loading JourneyMap Forge Configs
+[21:55:59] [Server thread/INFO]: Preparing level "world"
+[21:55:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:56:00] [Server thread/INFO]: Preparing spawn area: 0%
+[21:56:00] [Server thread/INFO]: Preparing spawn area: 0%
+[21:56:00] [Server thread/INFO]: Preparing spawn area: 0%
+[21:56:00] [Server thread/INFO]: Time elapsed: 1276 ms
+[21:56:00] [Server thread/INFO]: Done (1.549s)! For help, type "help"
+[21:56:00] [Server thread/INFO]: Starting remote control listener
+[21:56:00] [Server thread/INFO]: Thread RCON Listener started
+[21:56:00] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[21:56:01] [User Authenticator #1/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[21:56:01] [Netty Epoll Server IO #1/ERROR]: Channels [universalmodcore:cam72cam.mod] rejected their client side version number
+[21:56:01] [Netty Epoll Server IO #1/ERROR]: Terminating connection with client, mismatched mod list
+[21:56:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d7cbd24[id=03cf92d8-97c3-44e7-97e8-b8dcb6cdca61,name=BashTag3,properties={textures=[com.mojang.authlib.properties.Property@25d6c03]},legacy=false] (/192.168.0.10:55520) lost connection: Connection closed - mismatched mod channel list
+[21:56:08] [User Authenticator #2/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[21:56:08] [Netty Epoll Server IO #2/ERROR]: Channels [universalmodcore:cam72cam.mod] rejected their client side version number
+[21:56:08] [Netty Epoll Server IO #2/ERROR]: Terminating connection with client, mismatched mod list
+[21:56:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@22cf0fc7[id=03cf92d8-97c3-44e7-97e8-b8dcb6cdca61,name=BashTag3,properties={textures=[com.mojang.authlib.properties.Property@74b2179b]},legacy=false] (/192.168.0.10:55524) lost connection: Connection closed - mismatched mod channel list
+[22:00:43] [User Authenticator #3/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[22:00:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4b413f5b
+[22:00:45] [Server thread/INFO]: BashTag3[/192.168.0.10:55660] logged in with entity id 263 at (41.5, 108.0, 93.5)
+[22:00:45] [Server thread/INFO]: BashTag3 joined the game
+[22:00:53] [Server thread/ERROR]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[22:06:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[22:06:48] [Server thread/INFO]: [Rcon: Set the time to 1000]
+[22:07:02] [Server thread/INFO]: [Rcon: Set the time to 1000]
+[22:07:18] [Server thread/INFO]: [Rcon: Set the weather to clear]
+[22:08:48] [Server thread/INFO]: [Rcon: Gamerule doMobSpawning is now set to: false]
+[22:09:44] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[22:10:08] [User Authenticator #4/INFO]: UUID of player BashTag1 is f099d823-24b8-4bc9-a1bf-5b8203b20fd9
+[22:10:11] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@293e5452
+[22:10:11] [Server thread/INFO]: BashTag1[/192.168.0.11:62367] logged in with entity id 474 at (126.5, 65.0, 119.5)
+[22:10:11] [Server thread/INFO]: BashTag1 joined the game
+[22:10:18] [Server thread/ERROR]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[22:11:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[22:11:12] [Server thread/INFO]: [Rcon: Teleported BashTag1 to BashTag3]
+[22:11:12] [Server thread/WARN]: BashTag1 moved too quickly! -216.73750001192093,-14.220100958122899,850.6516728125039
+[22:11:24] [Server thread/WARN]: BashTag3 moved too quickly! 311.73750001192093,-0.1875,-257.8788234025752
+[22:11:32] [Server thread/WARN]: BashTag1 moved too quickly! 310.8764089173295,-0.1875,-260.0485502138854
+[22:12:42] [Server thread/INFO]: [Rcon: Set the time to 1000]
+[22:14:59] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
