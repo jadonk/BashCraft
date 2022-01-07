@@ -1,6 +1,3 @@
-# Space-Bosstools-Config #
-Alien Spawn = true
-Alien Ruin Structure = true
-Meteor Structure = true
-Oxygen System = true
-Star Crawler = true
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8e88767cda191551e4798bd75bbbe538deac5f3b9bbf95758d61510973f482
+size 138

@@ -1,7 +1,3 @@
-# Enable forge global version checking
-versionCheck = true
-# does the splashscreen run
-splashscreen = true
-defaultConfigPath = "defaultconfigs"
-maxThreads = -1
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d518df026f0b4fe17ed15e81c83c37fae5770b51596282e5432d1fce66090f00
+size 161
