@@ -428,3 +428,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
 [05:18:55] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@11aa0079
 [05:18:55] [Server thread/INFO]: BashTag3[/192.168.0.10:47722] logged in with entity id 651 at (-544.9151642871059, 77.0, -87.1021487642831)
 [05:18:55] [Server thread/INFO]: BashTag3 joined the game
+[05:20:23] [Server thread/INFO]: Villager VillagerEntity['Villager'/38, l='ServerLevel[Bash World]', x=228.13, y=76.00, z=-266.42] died, message: 'Villager was slain by Drowned'
+[05:20:29] [Server thread/INFO]: Villager VillagerEntity['Villager'/74, l='ServerLevel[Bash World]', x=206.30, y=69.00, z=-240.46] died, message: 'Villager was slain by Drowned'
+[05:20:30] [Server thread/INFO]: BashTag3 lost connection: Disconnected
+[05:20:30] [Server thread/INFO]: BashTag3 left the game
+[05:23:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[05:23:38] [Server thread/INFO]: [Rcon: Saved the game]
+[05:24:06] [Server thread/INFO]: [Rcon: Set the time to 1000]
+[05:26:52] [User Authenticator #2/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[05:26:55] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ca9d2b9
+[05:26:55] [Server thread/INFO]: BashTag3[/192.168.0.10:47868] logged in with entity id 994 at (-1470.5, 63.0, 122.5)
+[05:26:55] [Server thread/INFO]: BashTag3 joined the game
+[05:32:50] [Server thread/WARN]: BashTag3 moved too quickly! -899.2922509094496,-12.0,190.03095921067052
+[05:32:50] [Server thread/WARN]: BashTag3 moved too quickly! -899.2922509094496,-12.0,190.03095921067052
+[05:34:17] [Server thread/INFO]: BashTag3 lost connection: Disconnected
+[05:34:17] [Server thread/INFO]: BashTag3 left the game
+[05:34:25] [Server thread/INFO]: [Rcon: Saved the game]
