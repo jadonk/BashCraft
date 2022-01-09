@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e45c59d4f6ece7609554a22997a5a38a3530b3019905e98caab125d899017b2
-size 769
+
+#World generation related options.
+[overworld]
+	#Type of rainfall zones to use during biome placement.
+	#Allowed Values: SMALL_ZONES, MEDIUM_ZONES, LARGE_ZONES, RANDOM
+	rainfall_variation_scheme = "MEDIUM_ZONES"
+	#Enhance vanilla biomes by adding additional decoration.
+	enhance_vanilla_biomes = true
+	#The size of generated biomes.
+	#Allowed Values: TINY, SMALL, MEDIUM, LARGE, HUGE
+	biome_size = "MEDIUM"
+	#Type of temperature zones to use during biome placement.
+	#Allowed Values: LATITUDE, SMALL_ZONES, MEDIUM_ZONES, LARGE_ZONES, RANDOM
+	temperature_variation_scheme = "MEDIUM_ZONES"
+	#Enable nether generation from Biomes O' Plenty.
+	use_bop_nether = true
+	#The size of generated rivers.
+	#Allowed Values: TINY, SMALL, MEDIUM, LARGE, HUGE
+	river_size = "MEDIUM"
+

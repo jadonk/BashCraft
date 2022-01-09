@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55c992b7e9fe0c07ae54f36f31104a85ebda7571a01f623ff20df4acfdcc9b0c
-size 303
+
+#General configuration settings
+[general]
+	#Defines a default world type to use. The vanilla default world type is represented by 'default'.
+	#The modded world types are registry names which should include the registry namespace, such as 'examplemod:example_world_type'.
+	defaultWorldType = "default"
+
