@@ -1,37 +1,618 @@
-[22:18:58] [Server thread/INFO]: Stopping server
-[22:18:58] [Server thread/INFO]: Saving players
-[22:18:58] [Server thread/INFO]: Saving worlds
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
-[22:18:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[22:18:58] [RCON Client /127.0.0.1 #2/INFO]: [Rcon: Stopping the server]
-[22:18:58] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:orbit_moon
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_moon): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:orbit_mars
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mars): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:orbit_mercury
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mercury): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:umlaufbahnerde
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (umlaufbahnerde): All chunks are saved
-[22:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_moon): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mars): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mercury): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (umlaufbahnerde): All chunks are saved
-[22:18:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[22:18:58] [Server thread/INFO]: Thread RCON Listener stopped
+[00:46:50] [main/INFO]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[00:46:50] [main/INFO]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_212 by IcedTea
+[00:46:50] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[00:46:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/data/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[00:46:51] [main/WARN]: Mod file Mod File: /data/mods/MTS_Official_Pack_V23.jar is missing mods.toml file
+[00:46:51] [main/WARN]: File /data/mods/MTS_Official_Pack_V23.jar has been ignored - it is invalid
+[00:46:51] [main/INFO]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[00:46:51] [main/WARN]: Reference map 'examplemod.refmap.json' for boss_tools.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:46:56] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_1`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:56] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_2`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:56] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_3`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:56] [modloading-worker-10/INFO]: Forge mod loading, version 36.1.0, for MC 1.16.5 with MCP 20210115.111550
+[00:46:56] [modloading-worker-10/INFO]: MinecraftForge v36.1.0 Initialized
+[00:46:56] [modloading-worker-15/INFO]: [cam72cam.mod.ModCore:<init>:69]: Welcome to UniversalModCore!
+[00:46:56] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:56] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock_component`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_large_wrench`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_hook`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_augment`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_manual`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail_part`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_plate`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_cast_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_conductor_whistle`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_paint_brush`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_golden_spike`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_radio_control_card`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_switch_key`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-15/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_track_exchanger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:57] [modloading-worker-3/INFO]: [net.mrscauthd.boss_tools.PlayerCameraRocket:<init>:28]: EventFOVRegister
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carfreight`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carpassenger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `cartank`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `handcar`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivediesel`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivesteam`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `tender`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[00:46:59] [modloading-worker-15/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[00:46:59] [modloading-worker-15/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[00:46:59] [Forge Version Check/INFO]: [obfuscate] Starting version check at https://raw.githubusercontent.com/MrCrayfish/Obfuscate/master/update.json
+[00:46:59] [modloading-worker-11/INFO]: Loading stock models.
+[00:47:01] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[00:47:02] [Forge Version Check/INFO]: [obfuscate] Found status: BETA Current: 0.6.0 Target: null
+[00:47:02] [Forge Version Check/INFO]: [reusable_rockets] Starting version check at https://maxhenkel.de/update/reusable_rockets.json
+[00:47:02] [modloading-worker-3/INFO]: Loading Models 1% : E6 Atlantic Tender
+[00:47:02] [modloading-worker-6/INFO]: Loading Models 3% : Firefly
+[00:47:02] [modloading-worker-11/INFO]: Loading Models 5% : PRR P70 Coach 1
+[00:47:02] [modloading-worker-10/INFO]: Loading Models 7% : Iron Duke
+[00:47:03] [modloading-worker-3/INFO]: Loading Models 9% : K4 Pacific Tender
+[00:47:03] [modloading-worker-10/INFO]: Loading Models 11% : Rail & Tie Car
+[00:47:03] [modloading-worker-11/INFO]: Loading Models 13% : Box Car X26
+[00:47:03] [modloading-worker-10/INFO]: Loading Models 15% : Waycar
+[00:47:03] [modloading-worker-4/INFO]: Loading Models 17% : DSP&P Mogul
+[00:47:03] [modloading-worker-6/INFO]: Loading Models 19% : Rodgers Ten Wheeler
+[00:47:03] [modloading-worker-8/INFO]: Loading Models 21% : D&RGW K36
+[00:47:03] [modloading-worker-3/INFO]: Loading Models 23% : Class 38 Tender
+[00:47:03] [modloading-worker-2/INFO]: Loading Models 25% : E6 Atlantic
+[00:47:04] [modloading-worker-11/INFO]: Loading Models 26% : PRR B70 Baggage
+[00:47:04] [modloading-worker-8/INFO]: Loading Models 28% : A5 Slope Tender
+[00:47:04] [modloading-worker-15/INFO]: Loading Models 30% : GE C44-9CW
+[00:47:04] [modloading-worker-1/INFO]: Loading Models 32% : A1 Peppercorn
+[00:47:04] [modloading-worker-2/INFO]: Loading Models 34% : RS-1
+[00:47:04] [modloading-worker-6/INFO]: Loading Models 36% : A5 Switcher
+[00:47:04] [modloading-worker-10/INFO]: Loading Models 38% : 5500 Series Stockcar
+[00:47:04] [modloading-worker-9/INFO]: Loading Models 40% : Skookum 2-4-4-2
+[00:47:04] [Forge Version Check/INFO]: [reusable_rockets] Found status: OUTDATED Current: 1.16.5-1.0.1 Target: 1.16.5-1.1.2
+[00:47:04] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:47:04] [modloading-worker-10/INFO]: Loading Models 42% : USRA Hopper 55T
+[00:47:04] [modloading-worker-13/INFO]: Loading Models 44% : Big Boy (4000 class)
+[00:47:04] [modloading-worker-4/INFO]: Loading Models 46% : A1 Peppercorn Tender
+[00:47:04] [modloading-worker-12/INFO]: Loading Models 48% : Class 38
+[00:47:04] [modloading-worker-2/INFO]: Loading Models 50% : Slag Car 1
+[00:47:04] [modloading-worker-11/INFO]: Loading Models 51% : ATTX Flatcar 1
+[00:47:04] [modloading-worker-6/INFO]: Loading Models 53% : Cooke Tender
+[00:47:05] [modloading-worker-1/INFO]: Loading Models 55% : Russell Snow Plow
+[00:47:05] [modloading-worker-15/INFO]: Loading Models 57% : SW1500
+[00:47:05] [modloading-worker-2/INFO]: Loading Models 59% : Hand Car
+[00:47:05] [modloading-worker-8/INFO]: Loading Models 61% : Big Boy (4000 class) Tender
+[00:47:05] [modloading-worker-11/INFO]: Loading Models 63% : DW Gondola
+[00:47:05] [modloading-worker-13/INFO]: Loading Models 65% : PRR Flatcar 1
+[00:47:05] [modloading-worker-3/INFO]: Loading Models 67% : br01
+[00:47:05] [modloading-worker-4/INFO]: Loading Models 69% : 70T Hopper SLSF
+[00:47:05] [modloading-worker-1/INFO]: Loading Models 71% : 3000 Series Boxcar
+[00:47:05] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 36.1.0 Target: 36.2.20
+[00:47:05] [Forge Version Check/INFO]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+[00:47:05] [modloading-worker-10/INFO]: Loading Models 73% : N5c Caboose
+[00:47:05] [modloading-worker-11/INFO]: Loading Models 75% : Skookum Tender
+[00:47:05] [Forge Version Check/INFO]: [immersiveposts] Found status: OUTDATED Current: 4.1.0 Target: 4.3.0-1
+[00:47:05] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16/changelog.json
+[00:47:05] [modloading-worker-4/INFO]: Loading Models 76% : K36 Tender
+[00:47:05] [modloading-worker-1/INFO]: Loading Models 78% : Class B-B-70/70-4HM829 Boxcab
+[00:47:05] [Forge Version Check/INFO]: [immersiveengineering] Found status: BETA Current: 1.16.5-5.0.0-135 Target: null
+[00:47:05] [modloading-worker-2/INFO]: Loading Models 80% : Kamx T
+[00:47:05] [modloading-worker-4/INFO]: Loading Models 82% : Rodgers Ten Wheeler Tender
+[00:47:05] [modloading-worker-3/INFO]: Loading Models 84% : USRA Boxcar Class RR-40
+[00:47:05] [modloading-worker-13/INFO]: Loading Models 86% : Tank US 2
+[00:47:05] [modloading-worker-12/INFO]: Loading Models 88% : 1000 Series Gondola
+[00:47:05] [modloading-worker-11/INFO]: Loading Models 90% : drg class 01 tender
+[00:47:05] [modloading-worker-6/INFO]: Loading Models 92% : BR Coach MK1
+[00:47:06] [modloading-worker-10/INFO]: Loading Models 94% : GE B40-8w
+[00:47:06] [modloading-worker-8/INFO]: Loading Models 96% : GE B40-8
+[00:47:06] [modloading-worker-15/INFO]: Loading Models 98% : EMD SD40-2
+[00:47:06] [modloading-worker-9/INFO]: Loading Models 100% : K4 Pacific
+[00:47:06] [modloading-worker-11/INFO]: Generating height maps.
+[00:47:06] [modloading-worker-11/INFO]: Generating Heightmap 1% : GE C44-9CW
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 3% : Rodgers Ten Wheeler Tender
+[00:47:06] [modloading-worker-12/INFO]: Generating Heightmap 5% : 70T Hopper SLSF
+[00:47:06] [modloading-worker-6/INFO]: Generating Heightmap 7% : Box Car X26
+[00:47:06] [modloading-worker-13/INFO]: Generating Heightmap 9% : Skookum Tender
+[00:47:06] [modloading-worker-4/INFO]: Generating Heightmap 11% : Russell Snow Plow
+[00:47:06] [modloading-worker-2/INFO]: Generating Heightmap 13% : ATTX Flatcar 1
+[00:47:06] [modloading-worker-10/INFO]: Generating Heightmap 15% : Cooke Tender
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 17% : Rail & Tie Car
+[00:47:06] [modloading-worker-9/INFO]: Generating Heightmap 19% : PRR P70 Coach 1
+[00:47:06] [modloading-worker-3/INFO]: Generating Heightmap 21% : BR Coach MK1
+[00:47:06] [modloading-worker-8/INFO]: Generating Heightmap 23% : PRR B70 Baggage
+[00:47:06] [modloading-worker-10/INFO]: Generating Heightmap 25% : Skookum 2-4-4-2
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 26% : DW Gondola
+[00:47:06] [modloading-worker-2/INFO]: Generating Heightmap 28% : E6 Atlantic
+[00:47:06] [modloading-worker-6/INFO]: Generating Heightmap 30% : A1 Peppercorn Tender
+[00:47:06] [modloading-worker-4/INFO]: Generating Heightmap 32% : 1000 Series Gondola
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 34% : E6 Atlantic Tender
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 36% : Waycar
+[00:47:06] [modloading-worker-12/INFO]: Generating Heightmap 38% : USRA Boxcar Class RR-40
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 40% : 5500 Series Stockcar
+[00:47:06] [modloading-worker-13/INFO]: Generating Heightmap 42% : drg class 01 tender
+[00:47:06] [modloading-worker-10/INFO]: Generating Heightmap 44% : br01
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 46% : K4 Pacific Tender
+[00:47:06] [modloading-worker-8/INFO]: Generating Heightmap 48% : K36 Tender
+[00:47:06] [modloading-worker-6/INFO]: Generating Heightmap 50% : Big Boy (4000 class) Tender
+[00:47:06] [modloading-worker-8/INFO]: Generating Heightmap 51% : Firefly
+[00:47:06] [modloading-worker-13/INFO]: Generating Heightmap 53% : GE B40-8
+[00:47:06] [modloading-worker-8/INFO]: Generating Heightmap 55% : Iron Duke
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 57% : Class 38 Tender
+[00:47:06] [modloading-worker-12/INFO]: Generating Heightmap 59% : Big Boy (4000 class)
+[00:47:06] [modloading-worker-4/INFO]: Generating Heightmap 61% : 3000 Series Boxcar
+[00:47:06] [modloading-worker-8/INFO]: Generating Heightmap 63% : D&RGW K36
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 65% : Slag Car 1
+[00:47:06] [modloading-worker-2/INFO]: Generating Heightmap 67% : Class 38
+[00:47:06] [modloading-worker-4/INFO]: Generating Heightmap 69% : USRA Hopper 55T
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 71% : Hand Car
+[00:47:06] [modloading-worker-10/INFO]: Generating Heightmap 73% : Rodgers Ten Wheeler
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 75% : Kamx T
+[00:47:06] [modloading-worker-4/INFO]: Generating Heightmap 76% : N5c Caboose
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 78% : A5 Slope Tender
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 80% : Tank US 2
+[00:47:06] [modloading-worker-9/INFO]: Generating Heightmap 82% : SW1500
+[00:47:06] [modloading-worker-3/INFO]: Generating Heightmap 84% : DSP&P Mogul
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 86% : RS-1
+[00:47:06] [modloading-worker-6/INFO]: Generating Heightmap 88% : EMD SD40-2
+[00:47:06] [modloading-worker-1/INFO]: Generating Heightmap 90% : A1 Peppercorn
+[00:47:06] [modloading-worker-13/INFO]: Generating Heightmap 92% : GE B40-8w
+[00:47:06] [modloading-worker-15/INFO]: Generating Heightmap 94% : K4 Pacific
+[00:47:06] [modloading-worker-11/INFO]: Generating Heightmap 96% : Class B-B-70/70-4HM829 Boxcab
+[00:47:06] [modloading-worker-4/INFO]: Generating Heightmap 98% : PRR Flatcar 1
+[00:47:06] [modloading-worker-2/INFO]: Generating Heightmap 100% : A5 Switcher
+[00:47:07] [modloading-worker-11/INFO]: Loading tracks.
+[00:47:07] [modloading-worker-11/INFO]: Loading Tracks 33% : default
+[00:47:07] [modloading-worker-11/INFO]: Loading Tracks 66% : concrete
+[00:47:07] [modloading-worker-11/INFO]: Loading Tracks 100% : railsonly
+[00:47:07] [main/INFO]: Initializing Packet Registries
+[00:47:07] [main/ERROR]: NetworkDirection channel worldinfo:world_id already registered.
+[00:47:07] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien, use EntityAttributeCreationEvent instead.
+[00:47:07] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:star_crawler, use EntityAttributeCreationEvent instead.
+[00:47:07] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_tier_3, use EntityAttributeCreationEvent instead.
+[00:47:07] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_tier_2, use EntityAttributeCreationEvent instead.
+[00:47:07] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:landing_gear, use EntityAttributeCreationEvent instead.
+[00:47:07] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket, use EntityAttributeCreationEvent instead.
+[00:47:07] [modloading-worker-3/WARN]: Unsafe tag access before load, try to avoid this if possible
+[00:47:07] [modloading-worker-3/WARN]: Unsafe tag access before load, try to avoid this if possible
+[00:47:09] [main/WARN]: Mods loaded with 1 warnings
+[00:47:09] [main/WARN]: File MTS_Official_Pack_V23.jar is not a valid mod file
+[00:47:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:47:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:47:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:47:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:47:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:47:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:47:10] [main/WARN]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[00:47:10] [main/WARN]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[00:47:10] [main/INFO]: Reloading ResourceManager: Default, reusable_rockets-1.16.5-1.0.1.jar, obfuscate-0.6.0-1.16.3.jar, forge-1.16.5-36.1.0-universal.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Space-Bosstools-1.16.4-4.6.jar, Waystones_1.16.5-7.4.0.jar, architectury-1.8.130-forge.jar, journeymap-1.16.5-5.7.1.jar, ImmersiveEngineering-1.16.5-5.0.0-135.jar, ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar, TrackAPI-1.16.4-forge-1.2.1.jar, Borealis-1.1.6.jar, UniversalModCore-1.16.4-forge-1.0.1.jar, instantbuildings-1-16-5-1-0-1.jar, buildinggadgets-1.16.5-3.8.0.jar, cc-tweaked-1.16.4-1.95.3.jar, movingelevators-1.2.34-mc1.16.5.jar, forgemod_VoxelMap-1.10.12_for_1.16.5.jar, ImmersivePetroleum-1.16.5-3.3.0-4.jar, immersiveposts-1.16.5-4.1.0.jar
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:flag_light_blue_recpie
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:flag_green_recpie
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:flag_light_gray_recpie
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_rail181945806511034654597 as it's serializer returned null
+[00:47:11] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_switch_key-84006989511034654597 as it's serializer returned null
+[00:47:11] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_manual55986923111034654597 as it's serializer returned null
+[00:47:11] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_large_wrench212634435111034654597 as it's serializer returned null
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:flag_orange_recpie
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:flag_gray_recpie
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:flag_magenta_recpie
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_hook-11685643911034654597 as it's serializer returned null
+[00:47:11] [Worker-Main-13/ERROR]: Parsing error loading recipe boss_tools:moonslabrezept
+com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[00:47:11] [Worker-Main-13/INFO]: Loaded 28 recipes
+[00:47:12] [Worker-Main-13/INFO]: Loaded 1760 advancements
+[00:47:12] [Worker-Main-13/INFO]: Loading Distillation Recipes.
+[00:47:12] [Worker-Main-13/INFO]: Loading Reservoirs.
+[00:47:12] [Worker-Main-13/INFO]: Loading Coker-Unit Recipes.
+[00:47:12] [Worker-Main-13/INFO]: Loading Sulfur Recovery Recipes.
+[00:47:12] [Worker-Main-13/INFO]: Finished recipe profiler for Arc Recycling, took 50 milliseconds
+[00:47:12] [Worker-Main-13/INFO]: Recipes for potions: minecraft:harming, minecraft:long_weakness, minecraft:long_swiftness, minecraft:turtle_master, minecraft:long_regeneration, minecraft:long_strength, minecraft:long_leaping, minecraft:long_turtle_master, minecraft:strong_poison, minecraft:strong_leaping, minecraft:weakness, minecraft:thick, minecraft:long_invisibility, minecraft:slowness, minecraft:regeneration, minecraft:strong_strength, minecraft:strong_healing, minecraft:slow_falling, minecraft:invisibility, minecraft:strong_turtle_master, minecraft:long_slow_falling, minecraft:awkward, minecraft:fire_resistance, minecraft:night_vision, minecraft:poison, minecraft:long_poison, minecraft:strong_slowness, minecraft:strong_regeneration, minecraft:strong_harming, minecraft:long_slowness, minecraft:healing, minecraft:water_breathing, minecraft:leaping, minecraft:strong_swiftness, minecraft:long_fire_resistance, minecraft:mundane, minecraft:strength, minecraft:long_night_vision, minecraft:swiftness, minecraft:long_water_breathing, minecraft:water
+[00:47:13] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[00:47:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[00:47:14] [Server thread/INFO]: Loading properties
+[00:47:14] [Server thread/INFO]: Default game type: CREATIVE
+[00:47:14] [Server thread/INFO]: Generating keypair
+[00:47:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:47:14] [Server thread/INFO]: Using epoll channel type
+[00:47:15] [Server thread/INFO]: Loading JourneyMap Forge Configs
+[00:47:15] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[00:47:15] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[00:47:15] [Server thread/INFO]: Preparing level "world"
+[00:47:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:47:15] [Server thread/INFO]: Preparing spawn area: 0%
+[00:47:15] [Server thread/INFO]: Preparing spawn area: 0%
+[00:47:16] [Server thread/INFO]: Preparing spawn area: 0%
+[00:47:17] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[00:47:17] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[00:47:17] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[00:47:18] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[00:47:18] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[00:47:19] [Worker-Main-14/INFO]: Preparing spawn area: 87%
+[00:47:19] [Netty Epoll Server IO #1/INFO]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[00:47:19] [Server thread/INFO]: Preparing spawn area: 92%
+[00:47:20] [Server thread/INFO]: Time elapsed: 4937 ms
+[00:47:20] [Server thread/INFO]: Done (5.058s)! For help, type "help"
+[00:47:20] [Server thread/INFO]: Starting remote control listener
+[00:47:20] [Server thread/INFO]: Thread RCON Listener started
+[00:47:20] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[01:15:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:15:58] [Server thread/INFO]: [Rcon: Stopping the server]
+[01:15:58] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:15:58] [Server thread/INFO]: Stopping server
+[01:15:58] [Server thread/INFO]: Saving players
+[01:15:58] [Server thread/INFO]: Saving worlds
+[01:15:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:orbit_moon
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_moon): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:orbit_mars
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mars): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:orbit_mercury
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mercury): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:umlaufbahnerde
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (umlaufbahnerde): All chunks are saved
+[01:15:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_moon): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mars): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (orbit_mercury): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (umlaufbahnerde): All chunks are saved
+[01:15:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[01:15:59] [Server thread/INFO]: Thread RCON Listener stopped
