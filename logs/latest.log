@@ -1,64 +1,45 @@
-[03:04:24] [main/INFO]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
-[03:04:24] [main/INFO]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_212 by IcedTea
-[03:04:24] [main/INFO]: Added Lets Encrypt root certificates as additional trust
-[03:04:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/data/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[03:04:25] [main/INFO]: Launching target 'fmlserver' with arguments [--gameDir, .]
-[03:04:29] [main/FATAL]: Error during pre-loading phase
-net.minecraftforge.fml.ModLoadingException: Mod §eboss_tools§r requires §6forge§r §o36.2.0 or above§r
-§7Currently, §6forge§r§7 is §o36.1.0
-	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:64) ~[forge:?]
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) ~[?:1.8.0_212]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:270) ~[?:1.8.0_212]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_212]
-	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:114) ~[forge:?]
-	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:148) ~[forge:?]
-	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:44) ~[forge:?]
-	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_212]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_212]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_212]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:51) ~[forge-1.16.5-36.1.0.jar:36.1]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.0.9.jar:?]
-	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63) [forge-1.16.5-36.1.0.jar:?]
-	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60) [forge-1.16.5-36.1.0.jar:?]
-	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57) [forge-1.16.5-36.1.0.jar:?]
-[03:04:29] [main/INFO]: [net.minecraft.crash.CrashReport:func_85057_a:196]: Negative index in crash report handler (16/18)
-[03:04:29] [main/FATAL]: Crash report saved to ./crash-reports/crash-2022-02-12_03.04.29-fml.txt
-[03:04:29] [main/FATAL]: Failed to start the minecraft server
-net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
-	Mod §eboss_tools§r requires §6forge§r §o36.2.0 or above§r
-§7Currently, §6forge§r§7 is §o36.1.0
-]
-	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:172) ~[forge:?]
-	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:44) ~[forge:?]
-	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_212]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_212]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_212]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:51) ~[forge-1.16.5-36.1.0.jar:36.1]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.0.9.jar:?]
-	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63) [forge-1.16.5-36.1.0.jar:?]
-	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60) [forge-1.16.5-36.1.0.jar:?]
-	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57) [forge-1.16.5-36.1.0.jar:?]
+[19:11:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[19:11:28] [Server thread/INFO]: [Rcon: Saved the game]
+[19:11:35] [Server thread/INFO]: [Rcon: Stopping the server]
+[19:11:35] [Server thread/INFO]: Stopping server
+[19:11:35] [Server thread/INFO]: Saving players
+[19:11:35] [Server thread/INFO]: Saving worlds
+[19:11:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars_orbit
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury_orbit
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon_orbit
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:overworld_orbit
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[19:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus_orbit
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[19:11:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[19:11:36] [Server thread/INFO]: Thread RCON Listener stopped
+[19:11:36] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[19:11:36] [Server thread/INFO]: Thread RCON Client /127.0.0.1 stopped

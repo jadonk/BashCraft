@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-02-12 04:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
@@ -457,8 +463,10 @@
       "flower_meadow": "2021-09-11 04:01:20 +0000",
       "meadow_forest": "2021-09-11 04:01:05 +0000",
       "tundra_bog": "2021-09-12 19:34:41 +0000",
+      "orchard": "2022-02-12 05:08:15 +0000",
       "snowy_maple_forest": "2021-09-10 23:41:34 +0000",
       "coniferous_forest": "2021-09-11 02:28:01 +0000",
+      "tall_dead_forest": "2022-02-12 05:38:44 +0000",
       "coniferous_lakes": "2021-09-11 03:09:37 +0000",
       "cherry_blossom_grove": "2022-01-15 07:46:37 +0000",
       "seasonal_orchard": "2021-09-12 19:39:12 +0000",
@@ -1210,16 +1218,23 @@
       "minecraft:desert": "2022-01-15 07:47:05 +0000",
       "minecraft:frozen_river": "2021-09-14 22:18:08 +0000",
       "minecraft:deep_frozen_ocean": "2021-09-12 19:50:15 +0000",
+      "minecraft:birch_forest": "2022-02-12 03:44:13 +0000",
       "minecraft:snowy_beach": "2021-09-10 23:41:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-09-12 19:56:17 +0000",
       "minecraft:savanna_plateau": "2022-01-15 08:05:47 +0000",
       "minecraft:beach": "2021-09-12 15:26:01 +0000",
+      "minecraft:dark_forest": "2022-02-12 03:15:12 +0000",
       "minecraft:river": "2021-09-10 23:40:21 +0000",
       "minecraft:lukewarm_ocean": "2021-09-12 19:56:15 +0000",
       "minecraft:snowy_taiga": "2021-09-14 22:32:39 +0000",
+      "minecraft:birch_forest_hills": "2022-02-12 03:59:25 +0000",
       "minecraft:wooded_mountains": "2021-12-19 19:46:01 +0000",
+      "minecraft:wooded_hills": "2022-02-12 04:05:44 +0000",
       "minecraft:stone_shore": "2021-09-14 22:17:32 +0000",
-      "minecraft:savanna": "2022-01-15 08:05:50 +0000"
+      "minecraft:swamp": "2022-02-12 04:15:03 +0000",
+      "minecraft:snowy_taiga_hills": "2022-02-12 03:46:14 +0000",
+      "minecraft:savanna": "2022-01-15 08:05:50 +0000",
+      "minecraft:plains": "2022-02-12 03:15:21 +0000"
     },
     "done": false
   },
@@ -2352,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-02-12 04:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-09-11 01:33:38 +0000"
@@ -2736,6 +2757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2022-02-12 05:44:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_uranium_to_ingot_uranium": {
     "criteria": {
       "has_storage_uranium": "2021-09-12 12:16:03 +0000"
@@ -2781,6 +2808,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum": {
     "criteria": {
       "has_ore_aluminum": "2021-09-12 12:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-02-12 16:19:56 +0000"
     },
     "done": true
   },
@@ -2919,6 +2952,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-09-11 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2022-02-12 05:44:29 +0000"
     },
     "done": true
   },
