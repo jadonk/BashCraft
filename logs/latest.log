@@ -2011,3 +2011,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04:26:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
 [04:26:57] [Server thread/INFO]: [Rcon: Saved the game]
 [04:27:02] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[04:30:42] [Server thread/INFO]: BashTag1 lost connection: Disconnected
+[04:30:42] [Server thread/INFO]: BashTag1 left the game
+[04:31:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:31:08] [Server thread/INFO]: [Rcon: Saved the game]
+[04:31:09] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:31:09] [Server thread/INFO]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[04:31:09] [Server thread/INFO]: Stopping server
+[04:31:09] [Server thread/INFO]: Saving players
+[04:31:09] [Server thread/INFO]: Saving worlds
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/mushroom_fox:forgotten_keep
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars_orbit
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus_orbit
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:overworld_orbit
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon_orbit
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury_orbit
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[04:31:10] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[04:31:10] [Server thread/INFO]: Thread RCON Listener stopped
+[04:31:10] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[04:31:10] [Server thread/INFO]: Thread RCON Client /127.0.0.1 stopped
