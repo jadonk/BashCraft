@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/acacia_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-09-11 16:15:58 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2021-09-12 12:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
     },
     "done": true
   },
@@ -260,6 +272,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-04-09 01:24:01 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/acacia_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
     },
     "done": true
   },
@@ -461,6 +479,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/birch_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_acacia_shovel": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -509,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/granite_countertop_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/dark_oak_torch": {
     "criteria": {
       "has_coal": "2022-02-27 17:55:53 +0000"
@@ -536,6 +566,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2021-09-11 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/dark_oak_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
     },
     "done": true
   },
@@ -899,6 +935,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/dark_oak_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-09-11 01:33:38 +0000"
@@ -1043,6 +1085,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_slab": {
     "criteria": {
       "has_coke": "2021-09-12 21:30:23 +0000"
@@ -1100,6 +1148,12 @@
   "cfm:recipes/cfm/spruce_mail_box": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/birch_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
     },
     "done": true
   },
@@ -1313,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_spruce_sword": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -1334,6 +1394,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2021-09-11 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
     },
     "done": true
   },
@@ -1744,9 +1810,21 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/jungle_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2022-04-09 01:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
     },
     "done": true
   },
@@ -1852,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/diorite_countertop_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-09-11 00:12:36 +0000"
@@ -1930,6 +2014,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/oak_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2022-01-15 08:38:16 +0000"
@@ -1978,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/granite_countertop_from_polished_granite_slab_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2022-06-11 03:28:28 +0000"
@@ -2017,6 +2113,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2022-02-27 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/jungle_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
     },
     "done": true
   },
@@ -2236,6 +2338,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/crimson_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-09-11 03:33:12 +0000"
@@ -2425,6 +2533,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2021-09-12 15:20:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2022-10-09 05:26:40 +0000"
     },
     "done": true
   },
@@ -3004,6 +3118,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2022-10-09 05:26:40 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_spruce_hoe": {
     "criteria": {
       "has_material": "2022-02-27 17:59:40 +0000"
@@ -3151,6 +3271,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2022-02-25 23:22:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
     },
     "done": true
   },
@@ -3382,6 +3508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-07-29 23:53:08 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_crimson_shovel": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -3499,6 +3631,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-09-11 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/warped_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
     },
     "done": true
   },
@@ -4294,6 +4432,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-04-23 01:05:26 +0000",
+      "minecraft:zoglin": "2022-09-10 00:35:32 +0000",
       "minecraft:spider": "2022-06-11 02:49:25 +0000",
       "minecraft:zombified_piglin": "2022-02-26 02:09:02 +0000",
       "minecraft:husk": "2022-02-25 18:39:27 +0000",
@@ -4476,6 +4615,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2022-06-11 03:28:28 +0000"
@@ -4509,6 +4654,12 @@
   "ilikewood:recipes/redstone/crimson_lectern": {
     "criteria": {
       "has_book": "2022-02-28 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
     },
     "done": true
   },
@@ -4896,6 +5047,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/spruce_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2021-09-12 20:00:05 +0000"
@@ -5114,6 +5271,7 @@
       "minecraft:deep_lukewarm_ocean": "2021-09-12 19:56:17 +0000",
       "minecraft:birch_forest_hills": "2022-02-12 03:59:25 +0000",
       "minecraft:wooded_hills": "2022-02-12 04:05:44 +0000",
+      "minecraft:giant_tree_taiga_hills": "2022-10-09 04:28:34 +0000",
       "minecraft:savanna": "2022-01-15 08:05:50 +0000",
       "minecraft:plains": "2022-02-12 03:15:21 +0000"
     },
@@ -5158,6 +5316,12 @@
   "cfm:recipes/cfm/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/warped_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
     },
     "done": true
   },
@@ -5326,6 +5490,12 @@
   "computercraft:recipes/computercraft/computer_advanced": {
     "criteria": {
       "has_components": "2021-09-11 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2022-10-09 05:26:40 +0000"
     },
     "done": true
   },
@@ -5761,21 +5931,27 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_table": {
-    "criteria": {
-      "has_planks": "2022-06-11 03:28:28 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2022-06-11 03:20:07 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2022-06-11 03:28:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_cooler": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/crimson_granite_pantry": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
     },
     "done": true
   },
@@ -5811,8 +5987,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-07-29 23:59:30 +0000",
       "cooked_beef": "2022-02-24 16:47:16 +0000",
       "beef": "2022-02-24 16:46:17 +0000",
+      "porkchop": "2022-07-29 23:53:40 +0000",
       "mutton": "2022-02-24 18:10:36 +0000",
       "cooked_mutton": "2022-06-11 03:17:16 +0000",
       "apple": "2022-01-15 08:18:04 +0000",
@@ -6078,6 +6256,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/oak_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/building_blocks/spruce_panels_slab_from_spruce_planks_sawmilling": {
     "criteria": {
       "has_planks": "2022-06-11 03:20:50 +0000"
@@ -6241,6 +6425,12 @@
   "immersiveengineering:main/craft_workbench": {
     "criteria": {
       "workbench": "2022-02-27 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
     },
     "done": true
   },
@@ -6646,6 +6836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/diorite_countertop_from_polished_diorite_slab_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2021-09-12 19:21:16 +0000"
@@ -6850,6 +7046,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-07-29 23:34:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_cooler": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
@@ -6889,6 +7091,18 @@
   "ilikewood:recipes/tools/diamond_jungle_hoe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/spruce_diorite_pantry": {
+    "criteria": {
+      "has_polished_diorite": "2022-07-30 00:28:38 +0000"
     },
     "done": true
   },

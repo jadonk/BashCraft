@@ -1,222 +1,222 @@
-[00:49:48] [main/INFO]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
-[00:49:48] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_212 by IcedTea
-[00:49:48] [main/INFO]: Added Lets Encrypt root certificates as additional trust
-[00:49:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/data/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[00:49:50] [main/ERROR]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
-[00:49:50] [main/INFO]: Launching target 'fmlserver' with arguments [--gameDir, .]
-[00:49:50] [main/WARN]: Reference map 'immersivecooking.refmap.json' for immersivecooking.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:49:55] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_1`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:55] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_2`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:55] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_3`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Forge mod loading, version 36.2.26, for MC 1.16.5 with MCP 20210115.111550
-[00:49:56] [modloading-worker-4/INFO]: MinecraftForge v36.2.26 Initialized
-[00:49:56] [modloading-worker-4/INFO]: [cam72cam.mod.ModCore:<init>:69]: Welcome to UniversalModCore!
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock_component`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_large_wrench`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_hook`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_augment`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_manual`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail_part`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_plate`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_cast_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_conductor_whistle`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_paint_brush`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_golden_spike`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_radio_control_card`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_switch_key`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:49:56] [modloading-worker-4/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_track_exchanger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:distillationtower} has been registered twice for the same name immersivepetroleum:distillationtower.
-[00:50:00] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:pumpjack} has been registered twice for the same name immersivepetroleum:pumpjack.
-[00:50:00] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:cokerunit} has been registered twice for the same name immersivepetroleum:cokerunit.
-[00:50:00] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:hydrotreater} has been registered twice for the same name immersivepetroleum:hydrotreater.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carfreight`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carpassenger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `cartank`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `handcar`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivediesel`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivesteam`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:00] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `tender`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
-[00:50:01] [main/INFO]: Loading sounds.
-[00:50:01] [modloading-worker-13/INFO]: common setup
-[00:50:01] [modloading-worker-8/INFO]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
-[00:50:01] [Forge Version Check/INFO]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[00:50:01] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
-[00:50:01] [modloading-worker-9/INFO]: Loading stock models.
-[00:50:04] [modloading-worker-13/INFO]: Loading Models 1% : Class B-B-70/70-4HM829 Boxcab
-[00:50:04] [modloading-worker-6/INFO]: Loading Models 3% : E6 Atlantic Tender
-[00:50:04] [Forge Version Check/INFO]: [jeiintegration] Found status: BETA Current: 7.0.1.15 Target: null
-[00:50:04] [Forge Version Check/INFO]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[00:50:04] [modloading-worker-12/INFO]: Loading Models 5% : Firefly
-[00:50:05] [modloading-worker-5/INFO]: Loading Models 7% : Rail & Tie Car
-[00:50:05] [modloading-worker-11/INFO]: Loading Models 9% : PRR P70 Coach 1
-[00:50:05] [modloading-worker-6/INFO]: Loading Models 11% : K4 Pacific Tender
-[00:50:05] [modloading-worker-10/INFO]: Loading Models 13% : GE B40-8
-[00:50:05] [modloading-worker-1/INFO]: Loading Models 15% : SW1500
-[00:50:05] [modloading-worker-5/INFO]: Loading Models 17% : Waycar
-[00:50:05] [Forge Version Check/INFO]: [configured] Found status: BETA_OUTDATED Current: 1.5.0 Target: 1.5.2
-[00:50:05] [Forge Version Check/INFO]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[00:50:05] [Forge Version Check/INFO]: [backpacked] Found status: BETA_OUTDATED Current: 2.0.3 Target: 2.1.6
-[00:50:05] [Forge Version Check/INFO]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
-[00:50:05] [Forge Version Check/INFO]: [obfuscate] Found status: BETA_OUTDATED Current: 0.6.2 Target: 0.6.3
-[00:50:05] [Forge Version Check/INFO]: [vehicle] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/vehicle/update.json
-[00:50:05] [modloading-worker-6/INFO]: Loading Models 19% : Class 38 Tender
-[00:50:05] [Forge Version Check/INFO]: [vehicle] Found status: BETA Current: 0.45.2 Target: null
-[00:50:05] [Forge Version Check/INFO]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[00:50:05] [modloading-worker-12/INFO]: Loading Models 21% : Iron Duke
-[00:50:05] [Forge Version Check/INFO]: [cfm] Found status: BETA Current: 7.0.0-pre22 Target: 7.0.0-pre22
-[00:50:05] [Forge Version Check/INFO]: [reusable_rockets] Starting version check at https://maxhenkel.de/update/reusable_rockets.json
-[00:50:06] [modloading-worker-10/INFO]: Loading Models 23% : GE B40-8w
-[00:50:06] [modloading-worker-11/INFO]: Loading Models 25% : Box Car X26
-[00:50:06] [modloading-worker-6/INFO]: Loading Models 26% : A5 Slope Tender
-[00:50:06] [modloading-worker-5/INFO]: Loading Models 28% : 5500 Series Stockcar
-[00:50:06] [modloading-worker-4/INFO]: Loading Models 30% : Skookum 2-4-4-2
-[00:50:06] [modloading-worker-10/INFO]: Loading Models 32% : Cooke Tender
-[00:50:06] [modloading-worker-15/INFO]: Loading Models 34% : E6 Atlantic
-[00:50:06] [modloading-worker-5/INFO]: Loading Models 36% : Slag Car 1
-[00:50:06] [modloading-worker-9/INFO]: Loading Models 38% : GE C44-9CW
-[00:50:06] [modloading-worker-3/INFO]: Loading Models 40% : EMD SD40-2
-[00:50:06] [modloading-worker-5/INFO]: Loading Models 42% : Hand Car
-[00:50:06] [modloading-worker-1/INFO]: Loading Models 44% : Class 38
-[00:50:06] [modloading-worker-13/INFO]: Loading Models 46% : A1 Peppercorn
-[00:50:06] [modloading-worker-12/INFO]: Loading Models 48% : D&RGW K36
-[00:50:07] [modloading-worker-6/INFO]: Loading Models 50% : A1 Peppercorn Tender
-[00:50:07] [modloading-worker-15/INFO]: Loading Models 51% : RS-1
-[00:50:07] [modloading-worker-11/INFO]: Loading Models 53% : PRR B70 Baggage
-[00:50:07] [modloading-worker-5/INFO]: Loading Models 55% : Kamx T
-[00:50:07] [modloading-worker-15/INFO]: Loading Models 57% : K36 Tender
-[00:50:07] [modloading-worker-6/INFO]: Loading Models 59% : Skookum Tender
-[00:50:07] [modloading-worker-10/INFO]: Loading Models 61% : BR Coach MK1
-[00:50:07] [modloading-worker-3/INFO]: Loading Models 63% : Big Boy (4000 class) Tender
-[00:50:07] [modloading-worker-8/INFO]: Loading Models 65% : Big Boy (4000 class)
-[00:50:07] [modloading-worker-5/INFO]: Loading Models 67% : Tank US 2
-[00:50:07] [modloading-worker-9/INFO]: Loading Models 69% : DSP&P Mogul
-[00:50:07] [modloading-worker-4/INFO]: Loading Models 71% : br01
-[00:50:07] [modloading-worker-15/INFO]: Loading Models 73% : 70T Hopper SLSF
-[00:50:07] [modloading-worker-10/INFO]: Loading Models 75% : Russell Snow Plow
-[00:50:08] [modloading-worker-1/INFO]: Loading Models 76% : A5 Switcher
-[00:50:08] [modloading-worker-3/INFO]: Loading Models 78% : Rodgers Ten Wheeler Tender
-[00:50:08] [modloading-worker-8/INFO]: Loading Models 80% : USRA Boxcar Class RR-40
-[00:50:08] [modloading-worker-11/INFO]: Loading Models 82% : ATTX Flatcar 1
-[00:50:08] [modloading-worker-6/INFO]: Loading Models 84% : drg class 01 tender
-[00:50:08] [modloading-worker-12/INFO]: Loading Models 86% : Rodgers Ten Wheeler
-[00:50:08] [modloading-worker-15/INFO]: Loading Models 88% : DW Gondola
-[00:50:08] [modloading-worker-5/INFO]: Loading Models 90% : USRA Hopper 55T
-[00:50:08] [modloading-worker-1/INFO]: Loading Models 92% : 3000 Series Boxcar
-[00:50:08] [modloading-worker-4/INFO]: Loading Models 94% : PRR Flatcar 1
-[00:50:08] [modloading-worker-9/INFO]: Loading Models 96% : 1000 Series Gondola
-[00:50:08] [modloading-worker-10/INFO]: Loading Models 98% : N5c Caboose
-[00:50:08] [Forge Version Check/INFO]: [reusable_rockets] Found status: OUTDATED Current: 1.16.5-1.0.1 Target: 1.16.5-1.1.2
-[00:50:08] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[00:50:08] [modloading-worker-13/INFO]: Loading Models 100% : K4 Pacific
-[00:50:08] [modloading-worker-9/INFO]: Generating height maps.
-[00:50:08] [modloading-worker-13/INFO]: Generating Heightmap 1% : PRR P70 Coach 1
-[00:50:08] [modloading-worker-4/INFO]: Generating Heightmap 3% : E6 Atlantic
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 5% : USRA Hopper 55T
-[00:50:08] [modloading-worker-11/INFO]: Generating Heightmap 7% : USRA Boxcar Class RR-40
-[00:50:08] [modloading-worker-12/INFO]: Generating Heightmap 9% : 70T Hopper SLSF
-[00:50:08] [modloading-worker-6/INFO]: Generating Heightmap 11% : DW Gondola
-[00:50:08] [modloading-worker-5/INFO]: Generating Heightmap 13% : ATTX Flatcar 1
-[00:50:08] [modloading-worker-8/INFO]: Generating Heightmap 15% : Russell Snow Plow
-[00:50:08] [modloading-worker-15/INFO]: Generating Heightmap 17% : Skookum 2-4-4-2
-[00:50:08] [modloading-worker-10/INFO]: Generating Heightmap 19% : GE C44-9CW
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 21% : Cooke Tender
-[00:50:08] [modloading-worker-9/INFO]: Generating Heightmap 23% : Rail & Tie Car
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 25% : N5c Caboose
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 26% : BR Coach MK1
-[00:50:08] [modloading-worker-11/INFO]: Generating Heightmap 28% : PRR B70 Baggage
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 30% : PRR Flatcar 1
-[00:50:08] [modloading-worker-6/INFO]: Generating Heightmap 32% : Skookum Tender
-[00:50:08] [modloading-worker-8/INFO]: Generating Heightmap 34% : 1000 Series Gondola
-[00:50:08] [modloading-worker-12/INFO]: Generating Heightmap 36% : Big Boy (4000 class)
-[00:50:08] [modloading-worker-15/INFO]: Generating Heightmap 38% : br01
-[00:50:08] [modloading-worker-4/INFO]: Generating Heightmap 40% : Class 38
-[00:50:08] [modloading-worker-6/INFO]: Generating Heightmap 42% : drg class 01 tender
-[00:50:08] [modloading-worker-5/INFO]: Generating Heightmap 44% : Rodgers Ten Wheeler Tender
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 46% : 3000 Series Boxcar
-[00:50:08] [modloading-worker-9/INFO]: Generating Heightmap 48% : Waycar
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 50% : Slag Car 1
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 51% : K36 Tender
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 53% : Hand Car
-[00:50:08] [modloading-worker-5/INFO]: Generating Heightmap 55% : A1 Peppercorn
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 57% : Kamx T
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 59% : 5500 Series Stockcar
-[00:50:08] [modloading-worker-9/INFO]: Generating Heightmap 61% : A5 Switcher
-[00:50:08] [modloading-worker-8/INFO]: Generating Heightmap 63% : E6 Atlantic Tender
-[00:50:08] [modloading-worker-11/INFO]: Generating Heightmap 65% : K4 Pacific
-[00:50:08] [modloading-worker-8/INFO]: Generating Heightmap 67% : K4 Pacific Tender
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 69% : Tank US 2
-[00:50:08] [modloading-worker-4/INFO]: Generating Heightmap 71% : A1 Peppercorn Tender
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 73% : Firefly
-[00:50:08] [modloading-worker-3/INFO]: Generating Heightmap 75% : Box Car X26
-[00:50:08] [modloading-worker-6/INFO]: Generating Heightmap 76% : Class 38 Tender
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 78% : Iron Duke
-[00:50:08] [modloading-worker-4/INFO]: Generating Heightmap 80% : Big Boy (4000 class) Tender
-[00:50:08] [modloading-worker-1/INFO]: Generating Heightmap 82% : D&RGW K36
-[00:50:09] [modloading-worker-15/INFO]: Generating Heightmap 84% : Rodgers Ten Wheeler
-[00:50:09] [modloading-worker-9/INFO]: Generating Heightmap 86% : RS-1
-[00:50:09] [modloading-worker-3/INFO]: Generating Heightmap 88% : GE B40-8
-[00:50:09] [modloading-worker-8/INFO]: Generating Heightmap 90% : DSP&P Mogul
-[00:50:09] [modloading-worker-4/INFO]: Generating Heightmap 92% : Class B-B-70/70-4HM829 Boxcab
-[00:50:09] [modloading-worker-4/INFO]: Generating Heightmap 94% : GE B40-8w
-[00:50:09] [modloading-worker-15/INFO]: Generating Heightmap 96% : A5 Slope Tender
-[00:50:09] [modloading-worker-6/INFO]: Generating Heightmap 98% : SW1500
-[00:50:09] [modloading-worker-13/INFO]: Generating Heightmap 100% : EMD SD40-2
-[00:50:09] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 36.2.26 Target: 36.2.34
-[00:50:09] [Forge Version Check/INFO]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
-[00:50:09] [Forge Version Check/INFO]: [immersiveposts] Found status: OUTDATED Current: 4.1.0 Target: 4.3.0-1
-[00:50:09] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
-[00:50:09] [Forge Version Check/INFO]: [immersiveengineering] Found status: OUTDATED Current: 1.16.5-5.0.6-141 Target: 1.16.5-5.1.0-148
-[00:50:09] [modloading-worker-9/INFO]: Loading tracks.
-[00:50:09] [modloading-worker-9/INFO]: Loading Tracks 33% : default
-[00:50:09] [modloading-worker-9/INFO]: Loading Tracks 66% : concrete
-[00:50:09] [modloading-worker-9/INFO]: Loading Tracks 100% : railsonly
-[00:50:09] [main/INFO]: Initializing Packet Registries
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:pygro, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:mogler, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien_zombie, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:star_crawler, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t1, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t2, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t3, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:lander, use EntityAttributeCreationEvent instead.
-[00:50:09] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RoverEntity
-[00:50:09] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rover, use EntityAttributeCreationEvent instead.
-[00:50:09] [modloading-worker-1/WARN]: Unsafe tag access before load, try to avoid this if possible
-[00:50:09] [modloading-worker-1/WARN]: Unsafe tag access before load, try to avoid this if possible
-[00:50:15] [main/ERROR]: Error adding element: Spread too big: 8 > 5
-[00:50:15] [main/ERROR]: Error adding element: Spread too big: 6 > 5
-[00:50:15] [main/ERROR]: Feature: Not a JSON object: "minecraft:red_mushroom_swamp"; Not a JSON object: "minecraft:brown_mushroom_swamp"; Not a JSON object: "minecraft:patch_waterlilly"; Not a JSON object: "minecraft:patch_dead_bush"; Not a JSON object: "minecraft:patch_grass_normal"; Not a JSON object: "minecraft:flower_swamp"; Not a JSON object: "minecraft:swamp_tree"
-[00:50:15] [main/ERROR]: Feature: Not a JSON object: "minecraft:patch_pumpkin"; Not a JSON object: "minecraft:patch_sugar_cane"; Not a JSON object: "minecraft:patch_tall_grass"; Not a JSON object: "minecraft:patch_berry_decorated"
-[00:50:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:50:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:50:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:50:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:50:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:50:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:50:15] [main/WARN]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[00:50:15] [main/WARN]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[00:50:15] [main/INFO]: Reloading ResourceManager: Default, reusable_rockets-1.16.5-1.0.1.jar, obfuscate-0.6.2-1.16.3.jar, forge-1.16.5-36.2.26-universal.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Space-BossTools-1.16.5-5.5d.jar, Waystones_1.16.5-7.4.0.jar, architectury-1.8.130-forge.jar, journeymap-1.16.5-5.7.1.jar, ImmersiveEngineering-1.16.5-5.0.6-141.jar, ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar, TrackAPI-1.16.4-forge-1.2.1.jar, Borealis-1.1.6.jar, UniversalModCore-1.16.4-forge-1.0.1.jar, instantbuildings-1-16-5-1-0-1.jar, buildinggadgets-1.16.5-3.8.0.jar, cc-tweaked-1.16.4-1.95.3.jar, movingelevators-1.2.34-mc1.16.5.jar, ImmersivePetroleum-1.16.5-3.3.0-11.jar, immersiveposts-1.16.5-4.1.0.jar, simpleplanes-1.16.5-4.6.0.jar, jeiintegration_1.16.5-7.0.1.15.jar, worldedit-mod-7.2.5-dist.jar, spIIfix.jar, FarmersDelight-1.16.5-0.5.4.jar, immersivecooking-1.0.1.jar, MushroomFoxMod_V.4.2_1.16.5.jar, jei-1.16.5-7.7.1.150.jar, abnormals_core-1.16.5-3.3.0.jar, personality-1.16.5-1.0.3.jar, upgrade_aquatic-1.16.5-3.1.2.jar, Wilds+Version+2.8.jar, extraboats-1.16.5-2.1.1.jar, autumnity-1.16.5-2.1.2.jar, configured-1.5.0-mc1.16.5.jar, YungsApi-1.16.4-Forge-13.jar, backpacked-2.0.3-mc1.16.5.jar, environmental-1.16.5-1.1.1.jar, vehicle-mod-0.45.2-1.16.3.jar, bamboo_blocks-1.16.5-3.0.1.jar, cfm-7.0.0pre22-1.16.3.jar, ilikewood-1.16.5-6.3.0.0.jar, TravelersTitles-1.16.4-1.5.jar, exlinefurniture-1.16.5-2.0.jar
-[00:50:16] [Worker-Main-14/INFO]: Loot Modification Manager has loaded 0 sets of modifiers
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_white_recipe2
+[03:48:40] [main/INFO]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[03:48:40] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_212 by IcedTea
+[03:48:40] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[03:48:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/data/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[03:48:41] [main/ERROR]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
+[03:48:41] [main/INFO]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[03:48:41] [main/WARN]: Reference map 'immersivecooking.refmap.json' for immersivecooking.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:46] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_1`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:46] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_2`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:46] [main/INFO]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_3`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-15/INFO]: Forge mod loading, version 36.2.26, for MC 1.16.5 with MCP 20210115.111550
+[03:48:47] [modloading-worker-15/INFO]: MinecraftForge v36.2.26 Initialized
+[03:48:47] [modloading-worker-10/INFO]: [cam72cam.mod.ModCore:<init>:69]: Welcome to UniversalModCore!
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock_component`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_large_wrench`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_hook`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_augment`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_manual`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail_part`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_plate`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_cast_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_conductor_whistle`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_paint_brush`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_golden_spike`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_radio_control_card`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_switch_key`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:47] [modloading-worker-10/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_track_exchanger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:distillationtower} has been registered twice for the same name immersivepetroleum:distillationtower.
+[03:48:51] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:pumpjack} has been registered twice for the same name immersivepetroleum:pumpjack.
+[03:48:51] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:cokerunit} has been registered twice for the same name immersivepetroleum:cokerunit.
+[03:48:51] [main/WARN]: Registry minecraft:block: The object Block{immersivepetroleum:hydrotreater} has been registered twice for the same name immersivepetroleum:hydrotreater.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carfreight`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carpassenger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `cartank`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `handcar`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivediesel`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivesteam`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Potentially Dangerous alternative prefix `immersiverailroading` for name `tender`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[03:48:51] [main/INFO]: Loading sounds.
+[03:48:52] [modloading-worker-15/INFO]: common setup
+[03:48:52] [modloading-worker-1/INFO]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[03:48:52] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[03:48:52] [Forge Version Check/INFO]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[03:48:52] [modloading-worker-9/INFO]: Loading stock models.
+[03:48:54] [Forge Version Check/INFO]: [jeiintegration] Found status: BETA Current: 7.0.1.15 Target: null
+[03:48:54] [Forge Version Check/INFO]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[03:48:54] [modloading-worker-15/INFO]: Loading Models 1% : K4 Pacific Tender
+[03:48:54] [modloading-worker-11/INFO]: Loading Models 3% : E6 Atlantic Tender
+[03:48:54] [Forge Version Check/INFO]: [configured] Found status: BETA_OUTDATED Current: 1.5.0 Target: 1.5.3
+[03:48:54] [Forge Version Check/INFO]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[03:48:54] [modloading-worker-13/INFO]: Loading Models 5% : Class 38 Tender
+[03:48:54] [modloading-worker-1/INFO]: Loading Models 7% : A5 Slope Tender
+[03:48:54] [modloading-worker-5/INFO]: Loading Models 9% : PRR P70 Coach 1
+[03:48:54] [modloading-worker-11/INFO]: Loading Models 11% : Russell Snow Plow
+[03:48:54] [Forge Version Check/INFO]: [backpacked] Found status: BETA_OUTDATED Current: 2.0.3 Target: 2.1.8
+[03:48:54] [Forge Version Check/INFO]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[03:48:54] [modloading-worker-12/INFO]: Loading Models 13% : RS-1
+[03:48:54] [Forge Version Check/INFO]: [obfuscate] Found status: BETA_OUTDATED Current: 0.6.2 Target: 0.6.3
+[03:48:54] [Forge Version Check/INFO]: [vehicle] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/vehicle/update.json
+[03:48:55] [modloading-worker-10/INFO]: Loading Models 15% : GE B40-8
+[03:48:55] [Forge Version Check/INFO]: [vehicle] Found status: BETA Current: 0.45.2 Target: null
+[03:48:55] [Forge Version Check/INFO]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[03:48:55] [modloading-worker-1/INFO]: Loading Models 17% : Class B-B-70/70-4HM829 Boxcab
+[03:48:55] [Forge Version Check/INFO]: [cfm] Found status: BETA Current: 7.0.0-pre22 Target: 7.0.0-pre22
+[03:48:55] [Forge Version Check/INFO]: [reusable_rockets] Starting version check at https://maxhenkel.de/update/reusable_rockets.json
+[03:48:55] [modloading-worker-15/INFO]: Loading Models 19% : Rail & Tie Car
+[03:48:55] [modloading-worker-8/INFO]: Loading Models 21% : A1 Peppercorn Tender
+[03:48:55] [modloading-worker-15/INFO]: Loading Models 23% : Waycar
+[03:48:55] [modloading-worker-5/INFO]: Loading Models 25% : Box Car X26
+[03:48:55] [modloading-worker-11/INFO]: Loading Models 26% : 1000 Series Gondola
+[03:48:55] [modloading-worker-13/INFO]: Loading Models 28% : Firefly
+[03:48:55] [modloading-worker-6/INFO]: Loading Models 30% : Big Boy (4000 class) Tender
+[03:48:56] [modloading-worker-4/INFO]: Loading Models 32% : GE C44-9CW
+[03:48:56] [modloading-worker-10/INFO]: Loading Models 34% : GE B40-8w
+[03:48:56] [modloading-worker-6/INFO]: Loading Models 36% : USRA Hopper 55T
+[03:48:56] [modloading-worker-11/INFO]: Loading Models 38% : 3000 Series Boxcar
+[03:48:56] [modloading-worker-1/INFO]: Loading Models 40% : Rodgers Ten Wheeler
+[03:48:56] [modloading-worker-3/INFO]: Loading Models 42% : E6 Atlantic
+[03:48:56] [modloading-worker-15/INFO]: Loading Models 44% : 5500 Series Stockcar
+[03:48:56] [modloading-worker-5/INFO]: Loading Models 46% : PRR B70 Baggage
+[03:48:56] [modloading-worker-13/INFO]: Loading Models 48% : Iron Duke
+[03:48:56] [modloading-worker-9/INFO]: Loading Models 50% : Skookum 2-4-4-2
+[03:48:56] [modloading-worker-4/INFO]: Loading Models 51% : SW1500
+[03:48:56] [modloading-worker-1/INFO]: Loading Models 53% : Slag Car 1
+[03:48:56] [modloading-worker-15/INFO]: Loading Models 55% : Kamx T
+[03:48:56] [modloading-worker-1/INFO]: Loading Models 57% : Hand Car
+[03:48:57] [Forge Version Check/INFO]: [reusable_rockets] Found status: OUTDATED Current: 1.16.5-1.0.1 Target: 1.16.5-1.1.2
+[03:48:57] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03:48:57] [modloading-worker-8/INFO]: Loading Models 59% : br01
+[03:48:57] [modloading-worker-6/INFO]: Loading Models 61% : N5c Caboose
+[03:48:57] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 36.2.26 Target: 36.2.34
+[03:48:57] [Forge Version Check/INFO]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+[03:48:57] [modloading-worker-15/INFO]: Loading Models 63% : Tank US 2
+[03:48:57] [Forge Version Check/INFO]: [immersiveposts] Found status: OUTDATED Current: 4.1.0 Target: 4.3.0-1
+[03:48:57] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
+[03:48:57] [modloading-worker-12/INFO]: Loading Models 65% : Big Boy (4000 class)
+[03:48:57] [modloading-worker-6/INFO]: Loading Models 67% : Cooke Tender
+[03:48:57] [Forge Version Check/INFO]: [immersiveengineering] Found status: OUTDATED Current: 1.16.5-5.0.6-141 Target: 1.16.5-5.1.0-148
+[03:48:57] [modloading-worker-5/INFO]: Loading Models 69% : ATTX Flatcar 1
+[03:48:57] [modloading-worker-12/INFO]: Loading Models 71% : USRA Boxcar Class RR-40
+[03:48:57] [modloading-worker-15/INFO]: Loading Models 73% : 70T Hopper SLSF
+[03:48:57] [modloading-worker-13/INFO]: Loading Models 75% : D&RGW K36
+[03:48:57] [modloading-worker-8/INFO]: Loading Models 76% : PRR Flatcar 1
+[03:48:57] [modloading-worker-5/INFO]: Loading Models 78% : DW Gondola
+[03:48:57] [modloading-worker-9/INFO]: Loading Models 80% : DSP&P Mogul
+[03:48:58] [modloading-worker-15/INFO]: Loading Models 82% : K36 Tender
+[03:48:58] [modloading-worker-13/INFO]: Loading Models 84% : Rodgers Ten Wheeler Tender
+[03:48:58] [modloading-worker-1/INFO]: Loading Models 86% : A5 Switcher
+[03:48:58] [modloading-worker-8/INFO]: Loading Models 88% : drg class 01 tender
+[03:48:58] [modloading-worker-12/INFO]: Loading Models 90% : Skookum Tender
+[03:48:58] [modloading-worker-10/INFO]: Loading Models 92% : A1 Peppercorn
+[03:48:58] [modloading-worker-6/INFO]: Loading Models 94% : BR Coach MK1
+[03:48:58] [modloading-worker-11/INFO]: Loading Models 96% : K4 Pacific
+[03:48:58] [modloading-worker-4/INFO]: Loading Models 98% : EMD SD40-2
+[03:48:58] [modloading-worker-3/INFO]: Loading Models 100% : Class 38
+[03:48:58] [modloading-worker-9/INFO]: Generating height maps.
+[03:48:58] [modloading-worker-9/INFO]: Generating Heightmap 1% : PRR P70 Coach 1
+[03:48:58] [modloading-worker-10/INFO]: Generating Heightmap 3% : GE B40-8
+[03:48:58] [modloading-worker-3/INFO]: Generating Heightmap 5% : GE C44-9CW
+[03:48:58] [modloading-worker-1/INFO]: Generating Heightmap 7% : A1 Peppercorn Tender
+[03:48:58] [modloading-worker-5/INFO]: Generating Heightmap 9% : RS-1
+[03:48:58] [modloading-worker-12/INFO]: Generating Heightmap 11% : E6 Atlantic Tender
+[03:48:58] [modloading-worker-4/INFO]: Generating Heightmap 13% : Rail & Tie Car
+[03:48:58] [modloading-worker-8/INFO]: Generating Heightmap 15% : Russell Snow Plow
+[03:48:58] [modloading-worker-11/INFO]: Generating Heightmap 17% : Skookum 2-4-4-2
+[03:48:58] [modloading-worker-13/INFO]: Generating Heightmap 19% : Cooke Tender
+[03:48:58] [modloading-worker-15/INFO]: Generating Heightmap 21% : ATTX Flatcar 1
+[03:48:58] [modloading-worker-6/INFO]: Generating Heightmap 23% : E6 Atlantic
+[03:48:59] [modloading-worker-12/INFO]: Generating Heightmap 25% : K4 Pacific Tender
+[03:48:59] [modloading-worker-13/INFO]: Generating Heightmap 26% : BR Coach MK1
+[03:48:59] [modloading-worker-12/INFO]: Generating Heightmap 28% : Class 38 Tender
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 30% : 1000 Series Gondola
+[03:48:59] [modloading-worker-11/INFO]: Generating Heightmap 32% : br01
+[03:48:59] [modloading-worker-12/INFO]: Generating Heightmap 34% : A5 Slope Tender
+[03:48:59] [modloading-worker-1/INFO]: Generating Heightmap 36% : Big Boy (4000 class) Tender
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 38% : 3000 Series Boxcar
+[03:48:59] [modloading-worker-12/INFO]: Generating Heightmap 40% : SW1500
+[03:48:59] [modloading-worker-9/INFO]: Generating Heightmap 42% : Box Car X26
+[03:48:59] [modloading-worker-4/INFO]: Generating Heightmap 44% : Waycar
+[03:48:59] [modloading-worker-15/INFO]: Generating Heightmap 46% : DW Gondola
+[03:48:59] [modloading-worker-13/INFO]: Generating Heightmap 48% : K36 Tender
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 50% : USRA Hopper 55T
+[03:48:59] [modloading-worker-5/INFO]: Generating Heightmap 51% : Skookum Tender
+[03:48:59] [modloading-worker-4/INFO]: Generating Heightmap 53% : 5500 Series Stockcar
+[03:48:59] [modloading-worker-13/INFO]: Generating Heightmap 55% : 70T Hopper SLSF
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 57% : N5c Caboose
+[03:48:59] [modloading-worker-12/INFO]: Generating Heightmap 59% : EMD SD40-2
+[03:48:59] [modloading-worker-13/INFO]: Generating Heightmap 61% : USRA Boxcar Class RR-40
+[03:48:59] [modloading-worker-5/INFO]: Generating Heightmap 63% : drg class 01 tender
+[03:48:59] [modloading-worker-9/INFO]: Generating Heightmap 65% : PRR B70 Baggage
+[03:48:59] [modloading-worker-6/INFO]: Generating Heightmap 67% : Class 38
+[03:48:59] [modloading-worker-15/INFO]: Generating Heightmap 69% : Slag Car 1
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 71% : PRR Flatcar 1
+[03:48:59] [modloading-worker-10/INFO]: Generating Heightmap 73% : GE B40-8w
+[03:48:59] [modloading-worker-5/INFO]: Generating Heightmap 75% : Big Boy (4000 class)
+[03:48:59] [modloading-worker-13/INFO]: Generating Heightmap 76% : Rodgers Ten Wheeler Tender
+[03:48:59] [modloading-worker-13/INFO]: Generating Heightmap 78% : A1 Peppercorn
+[03:48:59] [modloading-worker-4/INFO]: Generating Heightmap 80% : Class B-B-70/70-4HM829 Boxcab
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 82% : Kamx T
+[03:48:59] [modloading-worker-1/INFO]: Generating Heightmap 84% : Hand Car
+[03:48:59] [modloading-worker-15/INFO]: Generating Heightmap 86% : K4 Pacific
+[03:48:59] [modloading-worker-1/INFO]: Generating Heightmap 88% : Firefly
+[03:48:59] [modloading-worker-4/INFO]: Generating Heightmap 90% : Iron Duke
+[03:48:59] [modloading-worker-9/INFO]: Generating Heightmap 92% : D&RGW K36
+[03:48:59] [modloading-worker-8/INFO]: Generating Heightmap 94% : Tank US 2
+[03:48:59] [modloading-worker-11/INFO]: Generating Heightmap 96% : Rodgers Ten Wheeler
+[03:48:59] [modloading-worker-1/INFO]: Generating Heightmap 98% : A5 Switcher
+[03:48:59] [modloading-worker-4/INFO]: Generating Heightmap 100% : DSP&P Mogul
+[03:48:59] [modloading-worker-9/INFO]: Loading tracks.
+[03:48:59] [modloading-worker-9/INFO]: Loading Tracks 33% : default
+[03:48:59] [modloading-worker-9/INFO]: Loading Tracks 66% : concrete
+[03:48:59] [modloading-worker-9/INFO]: Loading Tracks 100% : railsonly
+[03:48:59] [main/INFO]: Initializing Packet Registries
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:pygro, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:mogler, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien_zombie, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:star_crawler, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t1, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t2, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t3, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:lander, use EntityAttributeCreationEvent instead.
+[03:48:59] [main/WARN]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RoverEntity
+[03:48:59] [main/WARN]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rover, use EntityAttributeCreationEvent instead.
+[03:48:59] [modloading-worker-13/WARN]: Unsafe tag access before load, try to avoid this if possible
+[03:48:59] [modloading-worker-13/WARN]: Unsafe tag access before load, try to avoid this if possible
+[03:49:04] [main/ERROR]: Error adding element: Spread too big: 8 > 5
+[03:49:04] [main/ERROR]: Error adding element: Spread too big: 6 > 5
+[03:49:05] [main/ERROR]: Feature: Not a JSON object: "minecraft:patch_pumpkin"; Not a JSON object: "minecraft:patch_sugar_cane"; Not a JSON object: "minecraft:patch_tall_grass"; Not a JSON object: "minecraft:patch_berry_decorated"
+[03:49:05] [main/ERROR]: Feature: Not a JSON object: "minecraft:red_mushroom_swamp"; Not a JSON object: "minecraft:brown_mushroom_swamp"; Not a JSON object: "minecraft:patch_waterlilly"; Not a JSON object: "minecraft:patch_dead_bush"; Not a JSON object: "minecraft:patch_grass_normal"; Not a JSON object: "minecraft:flower_swamp"; Not a JSON object: "minecraft:swamp_tree"
+[03:49:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:49:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:49:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:49:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:49:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:49:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:49:05] [main/WARN]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[03:49:05] [main/WARN]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[03:49:05] [main/INFO]: Reloading ResourceManager: Default, reusable_rockets-1.16.5-1.0.1.jar, obfuscate-0.6.2-1.16.3.jar, forge-1.16.5-36.2.26-universal.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Space-BossTools-1.16.5-5.5d.jar, Waystones_1.16.5-7.4.0.jar, architectury-1.8.130-forge.jar, journeymap-1.16.5-5.7.1.jar, ImmersiveEngineering-1.16.5-5.0.6-141.jar, ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar, TrackAPI-1.16.4-forge-1.2.1.jar, Borealis-1.1.6.jar, UniversalModCore-1.16.4-forge-1.0.1.jar, instantbuildings-1-16-5-1-0-1.jar, buildinggadgets-1.16.5-3.8.0.jar, cc-tweaked-1.16.4-1.95.3.jar, movingelevators-1.2.34-mc1.16.5.jar, ImmersivePetroleum-1.16.5-3.3.0-11.jar, immersiveposts-1.16.5-4.1.0.jar, simpleplanes-1.16.5-4.6.0.jar, jeiintegration_1.16.5-7.0.1.15.jar, worldedit-mod-7.2.5-dist.jar, spIIfix.jar, FarmersDelight-1.16.5-0.5.4.jar, immersivecooking-1.0.1.jar, MushroomFoxMod_V.4.2_1.16.5.jar, jei-1.16.5-7.7.1.150.jar, abnormals_core-1.16.5-3.3.0.jar, personality-1.16.5-1.0.3.jar, upgrade_aquatic-1.16.5-3.1.2.jar, Wilds+Version+2.8.jar, extraboats-1.16.5-2.1.1.jar, autumnity-1.16.5-2.1.2.jar, configured-1.5.0-mc1.16.5.jar, YungsApi-1.16.4-Forge-13.jar, backpacked-2.0.3-mc1.16.5.jar, environmental-1.16.5-1.1.1.jar, vehicle-mod-0.45.2-1.16.3.jar, bamboo_blocks-1.16.5-3.0.1.jar, cfm-7.0.0pre22-1.16.3.jar, ilikewood-1.16.5-6.3.0.0.jar, TravelersTitles-1.16.4-1.5.jar, exlinefurniture-1.16.5-2.0.jar
+[03:49:06] [Worker-Main-13/INFO]: Loot Modification Manager has loaded 0 sets of modifiers
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_white_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -279,10 +279,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/INFO]: Skipping loading recipe immersiverailroading:item_switch_key-84006989511034654597 as it's serializer returned null
-[00:50:16] [Worker-Main-14/INFO]: Skipping loading recipe immersiverailroading:item_manual55986923111034654597 as it's serializer returned null
-[00:50:16] [Worker-Main-14/INFO]: Skipping loading recipe immersiverailroading:item_large_wrench212634435111034654597 as it's serializer returned null
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_light_gray_recipe2
+[03:49:06] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_switch_key-84006989511034654597 as it's serializer returned null
+[03:49:06] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_manual55986923111034654597 as it's serializer returned null
+[03:49:06] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_large_wrench212634435111034654597 as it's serializer returned null
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_light_gray_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -345,7 +345,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_cyan_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_cyan_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -408,7 +408,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_gray_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_gray_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -471,7 +471,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe cfm:craft_sofa
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe cfm:craft_sofa
 com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
 	at com.mrcrayfish.vehicle.crafting.VehicleRecipeSerializer.read(VehicleRecipeSerializer.java:48) ~[vehicle:0.45.2-1.16.3]
 	at com.mrcrayfish.vehicle.crafting.VehicleRecipeSerializer.func_199425_a_(VehicleRecipeSerializer.java:23) ~[vehicle:0.45.2-1.16.3]
@@ -527,8 +527,8 @@ com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/INFO]: Skipping loading recipe immersiverailroading:item_rail181945806511034654597 as it's serializer returned null
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_orange_recipe2
+[03:49:06] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_rail181945806511034654597 as it's serializer returned null
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_orange_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -591,7 +591,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_brown_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_brown_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -654,7 +654,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe vehicle:boost_ramp
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe vehicle:boost_ramp
 com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -718,7 +718,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_yellow_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_yellow_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -781,8 +781,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/INFO]: Skipping loading recipe immersiverailroading:item_hook-11685643911034654597 as it's serializer returned null
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe vehicle:steep_boost_ramp
+[03:49:06] [Worker-Main-13/INFO]: Skipping loading recipe immersiverailroading:item_hook-11685643911034654597 as it's serializer returned null
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe vehicle:steep_boost_ramp
 com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -846,7 +846,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_black_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_black_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -909,8 +909,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/INFO]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_purple_recipe2
+[03:49:06] [Worker-Main-13/INFO]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_purple_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -973,7 +973,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_lime_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_lime_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1036,7 +1036,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_light_blue_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_light_blue_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1099,7 +1099,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe vehicle:boost_pad
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe vehicle:boost_pad
 com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1158,7 +1158,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_red_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_red_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1221,7 +1221,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_green_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_green_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1284,7 +1284,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_blue_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_blue_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1347,7 +1347,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_pink_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_pink_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1410,7 +1410,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_magenta_recipe2
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:acacia_chair_magenta_recipe2
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1473,7 +1473,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:oak_bird_house_recipe
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:oak_bird_house_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_bird_house'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1532,7 +1532,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_bird_hous
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/ERROR]: Parsing error loading recipe exlinefurniture:spruce_chair_purple_recipe
+[03:49:06] [Worker-Main-13/ERROR]: Parsing error loading recipe exlinefurniture:spruce_chair_purple_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:light_purplet'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1596,9 +1596,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:light_purplet'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:16] [Worker-Main-14/INFO]: Loaded 47 recipes
-[00:50:16] [Worker-Main-14/INFO]: Advancement Modification Manager has loaded 11 sets of modifiers
-[00:50:17] [Worker-Main-14/ERROR]: Couldn't parse loot table exlinefurniture:blocks/oak_dog_house
+[03:49:06] [Worker-Main-13/INFO]: Loaded 47 recipes
+[03:49:06] [Worker-Main-13/INFO]: Advancement Modification Manager has loaded 11 sets of modifiers
+[03:49:07] [Worker-Main-13/ERROR]: Couldn't parse loot table exlinefurniture:blocks/oak_dog_house
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'exlinefurniture:oak_dog_house'
 	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1707,7 +1707,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:17] [Worker-Main-14/ERROR]: Couldn't parse loot table exlinefurniture:blocks/oak_bird_house
+[03:49:07] [Worker-Main-13/ERROR]: Couldn't parse loot table exlinefurniture:blocks/oak_bird_house
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'exlinefurniture:oak_bird_house'
 	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
@@ -1816,250 +1816,152 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
-[00:50:18] [Worker-Main-14/INFO]: Loaded 3378 advancements
-[00:50:18] [Worker-Main-14/INFO]: Loading Distillation Recipes.
-[00:50:18] [Worker-Main-14/INFO]: Loading Reservoirs.
-[00:50:18] [Worker-Main-14/INFO]: Loading Coker-Unit Recipes.
-[00:50:18] [Worker-Main-14/INFO]: Loading Sulfur Recovery Recipes.
-[00:50:18] [Worker-Main-14/INFO]: Loaded 55 Slabfish Types
-[00:50:18] [Worker-Main-14/INFO]: Loaded 16 Sweater Types
-[00:50:18] [Worker-Main-14/INFO]: Loaded 19 Backpack Types
-[00:50:18] [Worker-Main-14/INFO]: Finished recipe profiler for Arc Recycling, took 76 milliseconds
-[00:50:18] [Worker-Main-14/INFO]: Recipes for potions: minecraft:mundane, environmental:vitality_strong, minecraft:invisibility, upgrade_aquatic:vibing_strong, minecraft:strong_leaping, minecraft:strong_slowness, upgrade_aquatic:insomnia_strong, minecraft:strong_healing, minecraft:long_slowness, minecraft:long_poison, minecraft:harming, minecraft:slowness, minecraft:long_fire_resistance, upgrade_aquatic:restfulness_strong, minecraft:regeneration, minecraft:strong_strength, upgrade_aquatic:repellence_strong, upgrade_aquatic:restfulness, upgrade_aquatic:insomnia, environmental:vitality, upgrade_aquatic:vibing, minecraft:water, minecraft:awkward, minecraft:long_leaping, minecraft:healing, minecraft:strong_poison, upgrade_aquatic:vibing_long, minecraft:fire_resistance, minecraft:long_swiftness, minecraft:long_water_breathing, minecraft:long_slow_falling, minecraft:slow_falling, minecraft:water_breathing, minecraft:leaping, minecraft:strong_harming, minecraft:night_vision, minecraft:strong_swiftness, minecraft:long_strength, minecraft:strong_turtle_master, minecraft:long_regeneration, minecraft:thick, minecraft:long_invisibility, minecraft:strong_regeneration, minecraft:weakness, minecraft:poison, upgrade_aquatic:repellence, minecraft:long_night_vision, minecraft:strength, upgrade_aquatic:repellence_long, autumnity:extension, minecraft:long_turtle_master, minecraft:turtle_master, minecraft:long_weakness, minecraft:swiftness
-[00:50:21] [main/INFO]: Injecting existing registry data into this CLIENT instance
-[00:50:21] [main/INFO]: Registry minecraft:block: Found a missing id from the world boss_tools:energy_cable
-[00:50:21] [main/INFO]: Registry minecraft:block: Found a missing id from the world boss_tools:oxygen_bullet_generator
-[00:50:21] [main/INFO]: Registry minecraft:block: Found a missing id from the world boss_tools:rocket_launch_pad_base
-[00:50:25] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:50:25] [Server thread/INFO]: Loading properties
-[00:50:25] [Server thread/INFO]: Default game type: CREATIVE
-[00:50:25] [Server thread/INFO]: Generating keypair
-[00:50:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:50:25] [Server thread/INFO]: Using epoll channel type
-[00:50:25] [Server thread/INFO]: Loading JourneyMap Forge Configs
-[00:50:25] [Server thread/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
-[00:50:25] [Server thread/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
-[00:50:25] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
-[00:50:25] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
-[00:50:25] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
-[00:50:25] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
-[00:50:25] [Server thread/INFO]: Preparing level "world"
-[00:50:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:50:26] [Server thread/INFO]: Preparing spawn area: 0%
-[00:50:26] [Server thread/INFO]: Preparing spawn area: 0%
-[00:50:26] [Server thread/INFO]: Preparing spawn area: 30%
-[00:50:26] [Server thread/INFO]: Time elapsed: 1200 ms
-[00:50:26] [Server thread/INFO]: Done (1.365s)! For help, type "help"
-[00:50:26] [Server thread/INFO]: Starting remote control listener
-[00:50:26] [Server thread/INFO]: Thread RCON Listener started
-[00:50:26] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[00:50:27] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@20cc92]
-[00:50:27] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[00:53:07] [User Authenticator #1/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
-[00:53:12] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d9f84c7
-[00:53:12] [Server thread/INFO]: BashTag3[/172.17.0.1:59166] logged in with entity id 169 at (-104.5, 62.0, -527.5)
-[00:53:12] [Server thread/INFO]: BashTag3 joined the game
-[00:53:18] [Server thread/ERROR]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[00:54:57] [User Authenticator #2/INFO]: UUID of player BashTag1 is f099d823-24b8-4bc9-a1bf-5b8203b20fd9
-[00:55:02] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2515d01
-[00:55:02] [Server thread/INFO]: BashTag1[/192.168.0.204:40498] logged in with entity id 208 at (89.5, 78.05000000000001, -392.5)
-[00:55:02] [Server thread/INFO]: BashTag1 joined the game
-[00:55:10] [Server thread/ERROR]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[00:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[01:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[01:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[01:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:08:08] [Server thread/INFO]: BashTag3 has made the advancement [Enchanter]
-[01:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:09:48] [Server thread/INFO]: Villager VillagerEntity['Villager'/462, l='ServerLevel[Bash World]', x=-479.37, y=139.50, z=-833.69] died, message: 'Villager hit the ground too hard'
-[01:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
-[01:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:32:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[01:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:00:43] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 0.67519814929841
-[02:05:25] [Server thread/WARN]: defineId called for: class net.minecraft.entity.monster.SpiderEntity from class net.spicybanana.wilds.entity.KoalaEntity$CustomEntity
-[02:23:35] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.6856812869805253,-4.498935053739828,-9.17189815899701
-[02:23:35] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.8502727517904418,-4.9235331558183475,-10.066551916655499
-[02:23:39] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -2.0053312346133225,-2.8911721178667165,-10.81645771043577
-[02:23:39] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -2.261427124592217,-3.1942512142042574,-12.19695533134609
-[02:23:39] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -2.518754066665167,-3.474173644285159,-13.583926287215036
-[02:23:39] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -2.777194703534974,-3.7292629686038623,-14.976738654205747
-[02:26:07] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.3577535557229794,-0.9881149215839429,-10.295394769191262
-[02:26:07] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.4625466342015443,-1.0669110207883392,-11.089070846841423
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.3607369707928,-0.27789586341951633,-10.183738777105646
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.4639184516622663,-0.3042335992738572,-10.955090128650227
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.5669067934006762,-0.33129480280827295,-11.724897792511001
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.669705888628073,-0.35908538082543373,-12.493192817548334
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.7723198736542827,-0.387611163348879,-13.26000649922753
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.874752703480226,-0.41687786771234414,-14.025370316581757
-[02:26:13] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -1.9770083725949235,-0.44689106564307224,-14.789316023009633
-[02:31:05] [Worker-Main-642/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:31:05] [Worker-Main-642/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:31:05] [Worker-Main-642/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:31:05] [Worker-Main-642/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:31:05] [Worker-Main-642/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:31:05] [Worker-Main-642/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:31:13] [Server thread/WARN]: BashTag3 moved too quickly! -0.37157741289945534,0.0,-10.88255077798749
-[02:32:35] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 0.3940737491427626
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
-[02:41:44] [Worker-Main-680/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
-[02:41:44] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -0.05563464648741956,-0.6961332886238409,-10.591286498897716
-[02:41:44] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -0.05940909530465888,-0.7503819964746157,-11.304948448227151
-[02:41:44] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -0.06318971606708601,-0.805559199002019,-12.019561910094126
-[02:41:51] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-595, y=65, z=-6737} but found not block entity block Block{minecraft:dirt} at location
-[02:41:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-595, y=65, z=-6737}
-[02:42:11] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -0.04638358353054173,-0.750454958179958,-10.704396024571906
-[02:42:11] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -0.04968233682416212,-0.7294370213289056,-11.459672208471602
-[02:42:34] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -4.96551548286152,-6.756872678099256,6.4036721339434735
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-658, y=28, z=-7154} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-658, y=28, z=-7154}
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-659, y=28, z=-7154} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-659, y=28, z=-7154}
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-660, y=28, z=-7153} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-660, y=28, z=-7153}
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-658, y=27, z=-7161} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-658, y=27, z=-7161}
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-658, y=26, z=-7161} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-658, y=26, z=-7161}
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-658, y=27, z=-7163} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-658, y=27, z=-7163}
-[02:43:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-658, y=26, z=-7163} but found not block entity block Block{minecraft:stone} at location
-[02:43:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-658, y=26, z=-7163}
-[02:43:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-657, y=26, z=-7181} but found not block entity block Block{minecraft:granite} at location
-[02:43:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-657, y=26, z=-7181}
-[02:43:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-657, y=26, z=-7180} but found not block entity block Block{minecraft:granite} at location
-[02:43:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-657, y=26, z=-7180}
-[02:43:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-628, y=30, z=-7170} but found not block entity block Block{minecraft:stone} at location
-[02:43:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-628, y=30, z=-7170}
-[02:43:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-628, y=29, z=-7170} but found not block entity block Block{minecraft:stone} at location
-[02:43:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-628, y=29, z=-7170}
-[02:43:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-656, y=26, z=-7180} but found not block entity block Block{minecraft:granite} at location
-[02:43:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-656, y=26, z=-7180}
-[02:43:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-656, y=26, z=-7181} but found not block entity block Block{minecraft:granite} at location
-[02:43:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=-656, y=26, z=-7181}
-[02:43:37] [Server thread/INFO]: Villager VillagerEntity['Librarian'/13127, l='ServerLevel[Bash World]', x=-656.18, y=26.00, z=-7178.19] died, message: 'Librarian suffocated in a wall'
-[02:43:37] [Server thread/INFO]: Villager VillagerEntity['Armorer'/13133, l='ServerLevel[Bash World]', x=-629.23, y=30.00, z=-7169.47] died, message: 'Armorer suffocated in a wall'
-[03:16:56] [Server thread/INFO]: [BashTag1: Set own game mode to Survival Mode]
-[03:17:10] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
-[03:27:52] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
-[03:38:24] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
-[03:43:17] [Server thread/WARN]: BashTag3 moved too quickly! 77.70256469604192,48.0,-1147.0800707355183
-[03:50:17] [Server thread/INFO]: BashTag1 fell from a high place
-[04:11:11] [Server thread/INFO]: BashTag1 has made the advancement [Getting an Upgrade]
-[04:20:38] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
-[04:20:54] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
-[04:26:30] [Server thread/INFO]: BashTag3 lost connection: Disconnected
-[04:26:30] [Server thread/INFO]: BashTag3 left the game
-[04:26:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:26:57] [Server thread/INFO]: [Rcon: Saved the game]
-[04:27:02] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[04:30:42] [Server thread/INFO]: BashTag1 lost connection: Disconnected
-[04:30:42] [Server thread/INFO]: BashTag1 left the game
-[04:31:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:31:08] [Server thread/INFO]: [Rcon: Saved the game]
-[04:31:09] [Server thread/INFO]: [Rcon: Stopping the server]
-[04:31:09] [Server thread/INFO]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
-[04:31:09] [Server thread/INFO]: Stopping server
-[04:31:09] [Server thread/INFO]: Saving players
-[04:31:09] [Server thread/INFO]: Saving worlds
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/mushroom_fox:forgotten_keep
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars_orbit
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus_orbit
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:overworld_orbit
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon_orbit
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[04:31:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury_orbit
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[04:31:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[04:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[04:31:10] [Thread-1/INFO]: Loading JourneyMap Forge Configs
-[04:31:10] [Server thread/INFO]: Thread RCON Listener stopped
-[04:31:10] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[04:31:10] [Server thread/INFO]: Thread RCON Client /127.0.0.1 stopped
+[03:49:07] [Worker-Main-13/INFO]: Loaded 3378 advancements
+[03:49:07] [Worker-Main-13/INFO]: Loading Distillation Recipes.
+[03:49:07] [Worker-Main-13/INFO]: Loading Reservoirs.
+[03:49:07] [Worker-Main-13/INFO]: Loading Coker-Unit Recipes.
+[03:49:07] [Worker-Main-13/INFO]: Loading Sulfur Recovery Recipes.
+[03:49:07] [Worker-Main-13/INFO]: Finished recipe profiler for Arc Recycling, took 115 milliseconds
+[03:49:07] [Worker-Main-13/INFO]: Loaded 55 Slabfish Types
+[03:49:07] [Worker-Main-13/INFO]: Loaded 16 Sweater Types
+[03:49:07] [Worker-Main-13/INFO]: Loaded 19 Backpack Types
+[03:49:07] [Worker-Main-13/INFO]: Recipes for potions: minecraft:strong_leaping, upgrade_aquatic:vibing, environmental:vitality_strong, minecraft:regeneration, minecraft:long_strength, upgrade_aquatic:restfulness, minecraft:long_weakness, upgrade_aquatic:insomnia, minecraft:long_water_breathing, upgrade_aquatic:insomnia_strong, minecraft:strength, minecraft:fire_resistance, minecraft:awkward, minecraft:water, minecraft:water_breathing, minecraft:long_fire_resistance, upgrade_aquatic:repellence_strong, upgrade_aquatic:vibing_strong, minecraft:turtle_master, minecraft:long_slowness, environmental:vitality, minecraft:leaping, minecraft:strong_strength, minecraft:long_invisibility, minecraft:long_poison, minecraft:invisibility, upgrade_aquatic:repellence_long, minecraft:strong_regeneration, minecraft:long_swiftness, minecraft:strong_swiftness, upgrade_aquatic:vibing_long, minecraft:strong_harming, minecraft:strong_turtle_master, minecraft:long_regeneration, minecraft:long_night_vision, upgrade_aquatic:repellence, minecraft:long_leaping, minecraft:swiftness, minecraft:harming, minecraft:healing, minecraft:strong_healing, minecraft:long_turtle_master, minecraft:strong_poison, upgrade_aquatic:restfulness_strong, autumnity:extension, minecraft:thick, minecraft:strong_slowness, minecraft:slowness, minecraft:mundane, minecraft:slow_falling, minecraft:long_slow_falling, minecraft:weakness, minecraft:night_vision, minecraft:poison
+[03:49:11] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[03:49:11] [main/INFO]: Registry minecraft:block: Found a missing id from the world boss_tools:energy_cable
+[03:49:11] [main/INFO]: Registry minecraft:block: Found a missing id from the world boss_tools:oxygen_bullet_generator
+[03:49:11] [main/INFO]: Registry minecraft:block: Found a missing id from the world boss_tools:rocket_launch_pad_base
+[03:49:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[03:49:14] [Server thread/INFO]: Loading properties
+[03:49:14] [Server thread/INFO]: Default game type: CREATIVE
+[03:49:14] [Server thread/INFO]: Generating keypair
+[03:49:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:49:14] [Server thread/INFO]: Using epoll channel type
+[03:49:14] [Server thread/INFO]: Loading JourneyMap Forge Configs
+[03:49:14] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[03:49:14] [Thread-1/INFO]: Loading JourneyMap Forge Configs
+[03:49:14] [Server thread/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[03:49:14] [Server thread/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[03:49:14] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[03:49:14] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[03:49:14] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[03:49:14] [Thread-1/INFO]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[03:49:14] [Server thread/INFO]: Preparing level "world"
+[03:49:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:49:15] [Server thread/INFO]: Preparing spawn area: 0%
+[03:49:15] [Server thread/INFO]: Preparing spawn area: 0%
+[03:49:15] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[03:49:16] [Server thread/INFO]: Time elapsed: 1445 ms
+[03:49:16] [Server thread/INFO]: Done (1.620s)! For help, type "help"
+[03:49:16] [Server thread/INFO]: Starting remote control listener
+[03:49:16] [Server thread/INFO]: Thread RCON Listener started
+[03:49:16] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[03:49:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1e561df1]
+[03:49:17] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[03:50:05] [User Authenticator #1/INFO]: UUID of player BashTag1 is f099d823-24b8-4bc9-a1bf-5b8203b20fd9
+[03:50:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@73e81a04
+[03:50:10] [Server thread/INFO]: BashTag1[/192.168.0.204:42792] logged in with entity id 236 at (114.69999998807907, 78.0, -386.2329453799165)
+[03:50:10] [Server thread/INFO]: BashTag1 joined the game
+[03:50:15] [Server thread/ERROR]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[03:50:27] [User Authenticator #2/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[03:50:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@74d6cff5
+[03:50:32] [Server thread/INFO]: BashTag3[/172.17.0.1:57970] logged in with entity id 279 at (93.49435166705483, 90.23748879498292, -423.1195517280369)
+[03:50:32] [Server thread/INFO]: BashTag3 joined the game
+[03:50:38] [Server thread/ERROR]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[04:09:20] [Server thread/WARN]: BashTag3 moved too quickly! 4.592672204207247,0.0,-9.040931914082876
+[04:09:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:11:49] [Server thread/WARN]: BashTag3 moved too quickly! -10.548639191243183,0.0,2.7007696886336134
+[04:12:25] [Server thread/INFO]: Villager VillagerEntity['Armorer'/3927, l='ServerLevel[Bash World]', x=-3712.40, y=5.55, z=-788.46] died, message: 'Armorer tried to swim in lava'
+[04:13:51] [Server thread/WARN]: BashTag3 moved too quickly! -10.88870616490567,0.0,-0.005731303339189253
+[04:14:18] [Server thread/INFO]: Villager VillagerEntity['Villager'/6378, l='ServerLevel[Bash World]', x=-6080.28, y=73.00, z=-938.37] died, message: 'Villager suffocated in a wall'
+[04:14:19] [Server thread/INFO]: Villager VillagerEntity['Villager'/6427, l='ServerLevel[Bash World]', x=-6123.63, y=64.00, z=-959.28] died, message: 'Villager suffocated in a wall'
+[04:14:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6355, y=13, z=-940} but found not block entity block Block{minecraft:stone} at location
+[04:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6355, y=13, z=-940}
+[04:14:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6355, y=12, z=-940} but found not block entity block Block{minecraft:stone} at location
+[04:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6355, y=12, z=-940}
+[04:14:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6365, y=9, z=-912} but found not block entity block Block{minecraft:stone} at location
+[04:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6365, y=9, z=-912}
+[04:14:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6366, y=9, z=-911} but found not block entity block Block{minecraft:gravel} at location
+[04:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=-6366, y=9, z=-911}
+[04:14:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6365, y=9, z=-911} but found not block entity block Block{minecraft:stone} at location
+[04:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6365, y=9, z=-911}
+[04:14:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6366, y=9, z=-912} but found not block entity block Block{minecraft:gravel} at location
+[04:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=-6366, y=9, z=-912}
+[04:14:23] [Server thread/WARN]: BashTag3 moved too quickly! -10.888776909014268,0.0,0.05010987805349032
+[04:14:31] [Server thread/INFO]: Villager VillagerEntity['Librarian'/6695, l='ServerLevel[Bash World]', x=-6363.63, y=9.00, z=-910.51] died, message: 'Librarian suffocated in a wall'
+[04:18:03] [Worker-Main-182/WARN]: defineId called for: class net.minecraft.entity.monster.SpiderEntity from class net.spicybanana.wilds.entity.KoalaEntity$CustomEntity
+[04:18:28] [Server thread/WARN]: BashTag3 moved too quickly! -10.888308078079717,0.0,-0.008174105846592283
+[04:19:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-8018, y=30, z=-527} but found not block entity block Block{minecraft:stone} at location
+[04:19:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8018, y=30, z=-527}
+[04:19:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-8017, y=30, z=-528} but found not block entity block Block{minecraft:stone} at location
+[04:19:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8017, y=30, z=-528}
+[04:19:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-8017, y=30, z=-527} but found not block entity block Block{minecraft:stone} at location
+[04:19:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8017, y=30, z=-527}
+[04:19:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-8032, y=28, z=-528} but found not block entity block Block{minecraft:stone} at location
+[04:19:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8032, y=28, z=-528}
+[04:19:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-8034, y=28, z=-522} but found not block entity block Block{minecraft:stone} at location
+[04:19:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-8034, y=28, z=-522}
+[04:19:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-8034, y=29, z=-522} but found not block entity block Block{minecraft:andesite} at location
+[04:19:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-8034, y=29, z=-522}
+[04:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5492ms or 109 ticks behind
+[04:24:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -10.338851665193943,-1.3932768600981547,-1.211926505810311
+[04:24:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -11.491717657801019,-1.5367870205358827,-1.346352880632935
+[04:24:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -12.645159773049727,-1.6780923971738275,-1.480705856902432
+[04:24:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -13.799115063507543,-1.8171966267146047,-1.614978440897744
+[04:24:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -14.953521211717998,-1.9541020580215331,-1.7491638914433452
+[04:24:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -16.108316410263342,-2.0888102353958686,-1.883255238186507
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -3.1777985814828753,-2.0213912192991614,-10.371460648826314
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -3.9003154107381306,-2.3690631280390875,-12.029444225756606
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -4.678840990833578,-2.720556370129472,-13.661257762168134
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -5.5131538920786625,-3.076115172092784,-15.264645961266297
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! 7.5275461639785135,3.2411726921699398,14.383936011730384
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! 7.5275461639785135,3.2411726921699398,14.383936011730384
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! 7.5275461639785135,3.2411726921699398,14.383936011730384
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! 7.5275461639785135,3.2411726921699398,14.383936011730384
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! 6.79336479184758,2.8817426093476257,12.73268004317788
+[04:24:50] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! 5.987399945532616,2.524607046580499,11.114440371540923
+[04:29:21] [Worker-Main-236/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[04:29:21] [Worker-Main-236/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[04:29:21] [Worker-Main-236/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[04:29:21] [Worker-Main-236/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[04:29:21] [Worker-Main-236/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[04:29:21] [Worker-Main-236/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[04:29:54] [Worker-Main-217/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[04:29:54] [Worker-Main-217/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[04:29:54] [Worker-Main-217/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[04:38:07] [Server thread/WARN]: Block entity invalid: minecraft:chest @ BlockPos{x=-6392, y=34, z=-524}
+[04:38:07] [Server thread/WARN]: Block entity invalid: minecraft:beehive @ BlockPos{x=-6384, y=33, z=-526}
+[04:38:07] [Server thread/WARN]: Block entity invalid: minecraft:campfire @ BlockPos{x=-6384, y=32, z=-526}
+[04:38:07] [Server thread/WARN]: Block entity invalid: minecraft:beehive @ BlockPos{x=-6382, y=33, z=-526}
+[04:38:07] [Server thread/WARN]: Block entity invalid: minecraft:campfire @ BlockPos{x=-6382, y=32, z=-526}
+[04:39:08] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6742, y=14, z=-431} but found not block entity block Block{minecraft:stone} at location
+[04:39:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6742, y=14, z=-431}
+[04:39:08] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6742, y=14, z=-429} but found not block entity block Block{minecraft:stone} at location
+[04:39:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6742, y=14, z=-429}
+[04:39:08] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6742, y=13, z=-431} but found not block entity block Block{minecraft:stone} at location
+[04:39:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6742, y=13, z=-431}
+[04:39:08] [Server thread/WARN]: Tried to load a DUMMY block entity @ BlockPos{x=-6742, y=13, z=-429} but found not block entity block Block{minecraft:stone} at location
+[04:39:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-6742, y=13, z=-429}
+[04:39:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -9.584749628696045,-1.9805455077551812,-3.2320182594988864
+[04:39:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -10.475816291884257,-2.158167016518348,-3.521149357889499
+[04:39:29] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved too quickly! -11.369899414780775,-2.3352613612349558,-3.810252116382344
+[04:40:14] [Server thread/INFO]: Villager VillagerEntity['Librarian'/18917, l='ServerLevel[Bash World]', x=-8004.82, y=25.00, z=-512.81] died, message: 'Librarian suffocated in a wall'
+[04:40:16] [Server thread/INFO]: Villager VillagerEntity['Armorer'/18961, l='ServerLevel[Bash World]', x=-8031.88, y=29.00, z=-521.25] died, message: 'Armorer suffocated in a wall'
+[04:41:55] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 0.4571895050498824
+[04:41:55] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 1.014168156168921
+[04:41:55] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 1.556225064467185
+[04:41:55] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 1.0837071193731163
+[04:42:34] [Server thread/INFO]: [BashTag1: Set the time to 1000]
+[04:54:05] [Server thread/INFO]: [BashTag3: Set the time to 1000]
+[05:05:14] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 0.25538486549339723
+[05:05:24] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 0.5263701283207519
+[05:05:25] [Server thread/WARN]: Large Plane (vehicle of BashTag1) moved wrongly! 0.4001721112292671
+[05:08:07] [Server thread/INFO]: Villager VillagerEntity['Armorer'/22369, l='ServerLevel[Bash World]', x=-6354.59, y=13.00, z=-937.63] died, message: 'Armorer suffocated in a wall'
+[05:19:48] [Server thread/INFO]: [BashTag3: Teleported BashTag1 to BashTag3]
+[05:29:34] [Server thread/INFO]: BashTag1 lost connection: Disconnected
+[05:29:34] [Server thread/INFO]: BashTag1 left the game
+[06:08:57] [Server thread/INFO]: Villager VillagerEntity['Villager'/118, l='ServerLevel[Bash World]', x=72.98, y=81.50, z=-296.04] died, message: 'Villager hit the ground too hard'
+[18:16:56] [Server thread/INFO]: BashTag3 lost connection: Disconnected
+[18:16:56] [Server thread/INFO]: BashTag3 left the game
+[18:17:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[18:17:14] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
