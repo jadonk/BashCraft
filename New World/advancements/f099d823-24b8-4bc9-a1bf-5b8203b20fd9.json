@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2022-10-16 21:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-11 16:31:38 +0000"
@@ -722,6 +728,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-09-12 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2022-10-16 22:15:13 +0000"
     },
     "done": true
   },
@@ -2164,6 +2176,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/piggy_backpack": {
+    "criteria": {
+      "has_item": "2022-12-09 23:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
@@ -2656,6 +2674,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2022-12-09 23:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-09-11 01:59:11 +0000"
@@ -2707,6 +2731,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-09-11 03:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-12-09 21:18:56 +0000"
     },
     "done": true
   },
@@ -3295,6 +3325,12 @@
   "wilds:enter_the_savanna": {
     "criteria": {
       "enter_the_savanna": "2022-02-25 18:31:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/stripped_log_to_wood": {
+    "criteria": {
+      "has_log": "2022-10-16 22:14:29 +0000"
     },
     "done": true
   },
@@ -5439,6 +5475,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2022-10-16 21:34:15 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_spruce_shovel": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
@@ -5874,6 +5916,12 @@
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_wool": "2021-09-11 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/planks": {
+    "criteria": {
+      "has_log": "2022-10-16 22:14:29 +0000"
     },
     "done": true
   },
@@ -6602,6 +6650,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2022-10-16 21:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-09-11 00:40:53 +0000"
@@ -7217,6 +7271,12 @@
   "cfm:recipes/cfm/green_picket_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-12-09 21:18:56 +0000"
     },
     "done": true
   },

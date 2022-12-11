@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2022-10-16 21:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2022-02-12 06:47:40 +0000"
@@ -1565,6 +1571,12 @@
     },
     "done": true
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2022-12-09 22:45:06 +0000"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/fence_gold": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 16:48:46 +0000"
@@ -2434,6 +2446,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/piggy_backpack": {
+    "criteria": {
+      "has_item": "2022-12-09 23:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-09-12 18:51:27 +0000"
@@ -2914,6 +2932,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2022-12-09 22:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-09-11 01:59:29 +0000"
@@ -2965,6 +2989,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-09-11 03:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-12-09 21:15:41 +0000"
     },
     "done": true
   },
@@ -3139,6 +3169,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wooden_barrel": {
     "criteria": {
       "has_treated_planks": "2022-06-11 01:52:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2022-10-16 22:19:30 +0000"
     },
     "done": true
   },
@@ -3745,6 +3781,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-09-12 15:37:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2022-10-16 22:19:30 +0000"
     },
     "done": true
   },
@@ -5363,6 +5405,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2022-10-16 21:33:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-09-12 11:19:15 +0000"
@@ -6009,6 +6057,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2022-10-16 21:33:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete_slab_from_concrete_stonecutting": {
     "criteria": {
       "has_concrete": "2022-04-09 01:08:19 +0000"
@@ -6591,6 +6645,7 @@
       "baked_potato": "2021-09-11 02:40:32 +0000",
       "beef": "2022-02-27 03:18:00 +0000",
       "salmon": "2022-02-27 02:09:33 +0000",
+      "cooked_chicken": "2022-12-09 21:16:16 +0000",
       "rabbit_stew": "2022-04-23 00:33:31 +0000",
       "apple": "2022-04-16 00:29:04 +0000",
       "bread": "2022-01-30 01:27:38 +0000",
@@ -7230,6 +7285,12 @@
   "ilikewood:recipes/tools/diamond_acacia_hoe": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2022-10-16 21:33:05 +0000"
     },
     "done": true
   },
@@ -7904,6 +7965,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-11 04:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-12-09 21:15:41 +0000"
     },
     "done": true
   },
