@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:boar_killed_player": {
+    "criteria": {
+      "boar_kill": "2023-01-28 02:38:23 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_acacia_shovel": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -32,6 +38,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2021-09-12 19:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2021-09-12 13:45:46 +0000"
@@ -188,6 +206,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-23 13:49:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -263,6 +287,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-09-12 15:20:20 +0000"
@@ -272,6 +302,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-02-23 20:18:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -308,6 +344,12 @@
   "ilikewood:recipes/tools/golden_acacia_pickaxe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
     },
     "done": true
   },
@@ -389,6 +431,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2023-01-28 03:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-11 16:31:38 +0000"
@@ -422,6 +470,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2022-02-25 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -941,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-09-11 03:33:12 +0000"
@@ -956,6 +1016,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-09-11 01:33:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -1007,6 +1073,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-02-27 04:36:31 +0000"
@@ -1016,6 +1088,12 @@
   "ilikewood:recipes/decorations/spruce_post_from_spruce_log_sawmilling": {
     "criteria": {
       "has_log": "2022-06-11 03:20:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_chest": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
     },
     "done": true
   },
@@ -1154,6 +1232,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2021-09-11 17:15:47 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_dark_oak_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -1307,6 +1391,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-11 16:31:38 +0000"
@@ -1457,6 +1547,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/building_blocks/acacia_panels_from_acacia_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
@@ -1559,6 +1655,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2023-01-28 03:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2021-09-11 17:31:30 +0000"
@@ -1580,6 +1682,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-09-12 11:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -1648,6 +1756,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_ingot": "2022-02-27 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/building_blocks/acacia_panels_stairs_from_acacia_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -1840,9 +1954,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2023-01-28 03:25:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2021-09-11 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -1879,6 +2005,12 @@
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
     },
     "done": true
   },
@@ -2029,6 +2161,12 @@
   "immersivecooking:recipes/immersivecooking/oak_granite_pantry": {
     "criteria": {
       "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice": {
+    "criteria": {
+      "has_cubes": "2023-01-28 02:22:00 +0000"
     },
     "done": true
   },
@@ -2200,6 +2338,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-01-15 08:38:16 +0000"
@@ -2239,6 +2383,12 @@
   "ilikewood:recipes/combat/oak_bow": {
     "criteria": {
       "has_string": "2022-02-25 17:47:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -2341,6 +2491,18 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-06-11 03:29:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -2455,6 +2617,12 @@
   "ilikewood:recipes/tools/iron_spruce_axe": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2023-01-28 03:25:56 +0000"
     },
     "done": true
   },
@@ -2698,9 +2866,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2022-02-25 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_builder": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
     },
     "done": true
   },
@@ -2812,6 +2992,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/white_crimson_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2021-09-12 13:38:46 +0000"
@@ -2821,6 +3007,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -3076,6 +3268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2022-02-25 18:27:39 +0000"
@@ -3220,6 +3418,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/building_blocks/acacia_panels_from_acacia_log_sawmilling": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_crimson_shovel": {
     "criteria": {
       "has_material": "2022-02-27 17:59:40 +0000"
@@ -3337,6 +3541,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2022-02-12 16:19:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -3736,6 +3946,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-09-11 16:24:34 +0000"
@@ -3763,6 +3979,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2021-09-11 17:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2023-01-28 03:19:53 +0000"
     },
     "done": true
   },
@@ -3805,6 +4027,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-09-12 13:45:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2023-01-28 03:19:53 +0000"
     },
     "done": true
   },
@@ -4018,6 +4246,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/raw_pasta_from_eggs": {
+    "criteria": {
+      "has_wheat": "2023-01-28 03:19:53 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2022-01-30 01:50:14 +0000"
@@ -4027,6 +4261,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2021-09-11 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_hat": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -4075,6 +4315,12 @@
   "ilikewood:recipes/building_blocks/birch_bookshelf": {
     "criteria": {
       "has_book": "2022-02-28 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_crate": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -4147,6 +4393,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-23 13:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -4390,6 +4642,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2022-02-25 23:22:23 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_acacia_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -4909,6 +5167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_warped_shovel": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -5089,6 +5353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-01-28 03:31:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2021-09-12 20:00:05 +0000"
@@ -5173,6 +5443,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/dark_oak_fishing_rod": {
     "criteria": {
       "has_string": "2022-02-25 17:47:22 +0000"
@@ -5182,6 +5458,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2021-09-12 12:54:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_table": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -5224,6 +5506,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-09-11 03:11:14 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_warped_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -5391,6 +5679,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_desk": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_oak_pickaxe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -5490,6 +5784,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2021-10-09 03:15:24 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/acacia_stick_from_acacia_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -5661,6 +5961,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/acacia_post": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2021-09-11 03:18:56 +0000"
@@ -5676,6 +5982,12 @@
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_log": "2022-06-11 03:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -5706,6 +6018,12 @@
   "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2022-02-27 17:50:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -5763,6 +6081,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/building_blocks/acacia_panels_slab_from_acacia_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/redstone/acacia_lectern": {
     "criteria": {
       "has_book": "2022-02-28 00:42:09 +0000"
@@ -5784,6 +6108,12 @@
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2022-04-09 01:24:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_jungle_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -5820,6 +6150,12 @@
   "ilikewood:recipes/tools/golden_jungle_sword": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-01-28 03:19:53 +0000"
     },
     "done": true
   },
@@ -5913,6 +6249,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/raw_pasta_from_water": {
+    "criteria": {
+      "has_wheat": "2023-01-28 03:19:53 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_wool": "2021-09-11 00:04:05 +0000"
@@ -5952,6 +6294,12 @@
   "ilikewood:recipes/tools/diamond_acacia_pickaxe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_post_from_acacia_log_sawmilling": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -6068,6 +6416,12 @@
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -6202,6 +6556,12 @@
     },
     "done": true
   },
+  "survive:recipes/main/wool_pants": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
@@ -6332,6 +6692,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_blinds": {
     "criteria": {
       "has_log": "2022-06-11 03:20:07 +0000"
@@ -6386,6 +6752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_desk": {
     "criteria": {
       "has_planks": "2022-02-27 17:50:01 +0000"
@@ -6407,6 +6779,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
     },
     "done": true
   },
@@ -6485,6 +6863,12 @@
   "cfm:recipes/cfm/dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2022-02-27 17:50:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_wall_from_acacia_log_sawmilling": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -6635,6 +7019,12 @@
   "ilikewood:recipes/combat/warped_crossbow": {
     "criteria": {
       "has_string": "2022-02-25 17:47:22 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_spruce_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -6794,6 +7184,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/acacia_wall": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
     "criteria": {
       "has_paper": "2021-09-12 13:46:12 +0000"
@@ -6890,6 +7286,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/immersivecooking/diorite_countertop_from_polished_diorite_slab_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2022-07-30 00:28:38 +0000"
@@ -6905,6 +7307,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-09-12 13:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-01-28 04:58:12 +0000"
     },
     "done": true
   },
@@ -6953,6 +7361,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2021-09-12 13:38:46 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_boots": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -7040,6 +7454,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/white_birch_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/warped_bow": {
     "criteria": {
       "has_string": "2022-02-25 17:47:22 +0000"
@@ -7049,6 +7469,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-09-11 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_jacket": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
     },
     "done": true
   },
@@ -7142,6 +7568,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_chair": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_oak_bed": {
+    "criteria": {
+      "has_wool": "2023-01-28 02:36:59 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_jungle_hoe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -7151,6 +7589,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2022-07-29 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2023-01-28 04:38:44 +0000"
     },
     "done": true
   },
@@ -7217,6 +7661,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-12 13:45:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:54 +0000"
     },
     "done": true
   },
@@ -7292,6 +7742,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2023-01-28 02:18:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2022-02-25 18:27:28 +0000"
@@ -7322,6 +7778,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2023-01-28 03:19:53 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2021-09-11 17:15:47 +0000"
@@ -7337,6 +7799,18 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-23 13:49:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2023-01-28 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2023-01-28 04:14:28 +0000"
     },
     "done": true
   },
@@ -7465,6 +7939,12 @@
       "has_material": "2022-02-25 18:27:28 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2023-01-28 02:18:56 +0000"
+    },
+    "done": false
   },
   "ilikewood:recipes/tools/stone_jungle_sword": {
     "criteria": {

@@ -2110,6 +2110,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2023-01-28 03:26:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2021-09-11 01:12:36 +0000"
@@ -2704,6 +2710,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2023-01-28 03:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-09-11 02:10:37 +0000"
@@ -2899,6 +2911,12 @@
   "ilikewood:recipes/tools/iron_dark_oak_sword": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2023-01-28 04:37:15 +0000"
     },
     "done": true
   },
@@ -3472,6 +3490,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2023-01-28 04:37:15 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_structural": {
     "criteria": {
       "has_steel_ingot": "2022-02-25 18:17:41 +0000"
@@ -3625,6 +3649,12 @@
   "ilikewood:recipes/tools/netherite_jungle_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-01-28 04:03:05 +0000"
     },
     "done": true
   },
@@ -3805,6 +3835,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-01-15 07:17:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2023-01-28 05:28:24 +0000"
     },
     "done": true
   },
@@ -4402,6 +4438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-01-28 04:03:05 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_warped_axe": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
@@ -4776,6 +4818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-01-28 04:03:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-09-11 16:16:32 +0000"
@@ -4935,6 +4983,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-09-16 23:31:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
+    "criteria": {
+      "has_item": "2023-01-28 04:37:15 +0000"
     },
     "done": true
   },
@@ -5450,6 +5504,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-09-11 15:47:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2023-01-28 04:37:15 +0000"
     },
     "done": true
   },
@@ -6201,6 +6261,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
+    "criteria": {
+      "has_item": "2023-01-28 04:37:15 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/white_acacia_bed_from_gray_acacia_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
@@ -6649,6 +6715,7 @@
       "rabbit_stew": "2022-04-23 00:33:31 +0000",
       "apple": "2022-04-16 00:29:04 +0000",
       "bread": "2022-01-30 01:27:38 +0000",
+      "cooked_rabbit": "2023-01-28 04:38:29 +0000",
       "cooked_salmon": "2021-09-12 15:47:56 +0000"
     },
     "done": false
@@ -7752,6 +7819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-01-28 04:03:05 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/spruce_torch": {
     "criteria": {
       "has_coal": "2022-02-25 17:52:29 +0000"
@@ -7992,6 +8065,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2023-01-28 02:03:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2022-02-25 18:17:41 +0000"
@@ -8061,6 +8140,12 @@
   "ilikewood:recipes/decorations/white_jungle_bed_from_orange_jungle_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2023-01-28 04:21:11 +0000"
     },
     "done": true
   },
@@ -8195,6 +8280,12 @@
       "has_material": "2022-02-25 18:17:41 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2023-01-28 02:16:59 +0000"
+    },
+    "done": false
   },
   "ilikewood:recipes/tools/stone_jungle_sword": {
     "criteria": {
