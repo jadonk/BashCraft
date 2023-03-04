@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fdae0d0f237808289283401f880f6e4f631bc0ee79f3c32f25803268224cde29
-size 8326
+[03:01:09] [INFO] Hello, World! (You will see this line every time server resources reload)
+[03:01:09] [INFO] Loaded script server_scripts:script.js in 0.018 s
+[03:01:09] [INFO] Loaded 1/1 KubeJS server scripts in 0.042 s
+[03:01:09] [INFO] Scripts loaded
+[03:01:10] [INFO] Scanning recipes...
+[03:01:10] [INFO] [blocks] Found 230 tags, added 0 objects, removed 0 objects
+[03:01:10] [INFO] [items] Found 368 tags, added 0 objects, removed 0 objects
+[03:01:10] [INFO] [fluids] Found 17 tags, added 0 objects, removed 0 objects
+[03:01:10] [INFO] [entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[03:01:10] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[03:01:10] [INFO] [tile_entity_types] Found 2 tags, added 0 objects, removed 0 objects
+[03:01:10] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:flag_light_blue_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:flag_light_blue_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flaglight_blue'
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:flag_green_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:flag_green_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggreen'
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:flag_light_gray_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:flag_light_gray_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_16[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_17[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_18[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_19[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_12[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_13[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_14[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_15[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_10[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_11[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_23[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_20[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_21[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_22[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:flag_orange_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:flag_orange_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagorange'
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:flag_gray_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:flag_gray_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:fraggray'
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_8[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_7[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_6[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_5[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_4[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_3[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_2[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_1[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:hammer_dup_fix_recpie_9[minecraft:crafting_shaped]': {"item":"minecraft:air","count":1} is not a valid result!
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:flag_magenta_recpie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:flag_magenta_recpie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:flagmagenta'
+[03:01:10] [WARN] Failed to parse recipe 'boss_tools:moonslabrezept[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+[03:01:10] [WARN] Failed to parse recipe boss_tools:moonslabrezept[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'boss_tools:moon_slabe'
+[03:01:11] [WARN] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
+[03:01:11] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[03:01:11] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
