@@ -5723,6 +5723,12 @@
     },
     "done": true
   },
+  "wilds:enter_peaceful_swamp": {
+    "criteria": {
+      "enter_peaceful_swamp": "2023-03-18 03:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2022-04-09 01:26:01 +0000"
@@ -5930,6 +5936,7 @@
       "minecraft:swamp": "2022-02-12 04:53:30 +0000",
       "environmental:blossom_woods": "2022-06-11 02:23:42 +0000",
       "minecraft:snowy_taiga_hills": "2022-10-09 04:14:30 +0000",
+      "autumnity:orange_spotted_dark_forest": "2023-03-18 03:45:53 +0000",
       "minecraft:cold_ocean": "2021-09-10 23:55:43 +0000",
       "minecraft:forest": "2021-09-12 15:09:04 +0000",
       "minecraft:desert_hills": "2022-02-12 03:55:57 +0000",

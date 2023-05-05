@@ -5407,6 +5407,12 @@
     },
     "done": true
   },
+  "wilds:enter_peaceful_swamp": {
+    "criteria": {
+      "enter_peaceful_swamp": "2023-03-18 03:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2021-09-12 13:46:12 +0000"
@@ -6144,6 +6150,12 @@
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:badger_attack": {
+    "criteria": {
+      "badger_attack": "2023-03-18 03:51:25 +0000"
     },
     "done": true
   },
