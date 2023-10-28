@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/jungle_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-09-11 00:04:05 +0000"
@@ -884,6 +890,12 @@
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2022-02-25 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/warped_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
     },
     "done": true
   },
@@ -1966,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_log": "2023-01-28 04:38:44 +0000"
@@ -2545,6 +2563,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-27 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/dark_oak_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
     },
     "done": true
   },
@@ -3766,6 +3790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/andesite_countertop_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_spruce_sword": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
@@ -3865,6 +3895,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-09-11 01:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
     },
     "done": true
   },
@@ -4555,6 +4591,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/crimson_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_spruce_axe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -4840,6 +4882,12 @@
   "ilikewood:recipes/redstone/birch_lectern": {
     "criteria": {
       "has_book": "2022-02-28 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/birch_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
     },
     "done": true
   },
@@ -5685,6 +5733,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/spruce_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk": {
     "criteria": {
       "has_log": "2023-01-28 04:38:44 +0000"
@@ -5781,9 +5835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/andesite_countertop_from_polished_andesite_slab_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_spruce_shovel": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
     },
     "done": true
   },
@@ -6147,6 +6213,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/oak_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
@@ -6400,6 +6472,7 @@
       "beef": "2022-02-24 16:46:17 +0000",
       "porkchop": "2022-07-29 23:53:40 +0000",
       "mutton": "2022-02-24 18:10:36 +0000",
+      "environmental:cooked_venison": "2023-10-28 00:40:17 +0000",
       "cooked_mutton": "2022-06-11 03:17:16 +0000",
       "apple": "2022-01-15 08:18:04 +0000",
       "bread": "2021-09-11 03:42:53 +0000",
@@ -7454,6 +7527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_log": "2022-06-11 03:20:07 +0000"
@@ -7739,6 +7818,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2022-12-09 21:18:56 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/acacia_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 02:47:49 +0000"
     },
     "done": true
   },

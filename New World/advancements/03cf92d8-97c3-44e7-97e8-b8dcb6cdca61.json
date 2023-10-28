@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_acacia_axe": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
@@ -857,6 +863,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/jungle_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-09-12 12:54:54 +0000"
@@ -962,6 +974,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2022-06-11 02:09:11 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/warped_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -1448,6 +1466,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2022-07-29 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_table": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
@@ -2002,6 +2026,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-09-11 16:16:32 +0000"
@@ -2122,6 +2152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/gray_dark_oak_bed": {
     "criteria": {
       "has_wool": "2022-09-10 00:27:45 +0000"
@@ -2167,6 +2203,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2021-09-11 16:21:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
     },
     "done": true
   },
@@ -2362,6 +2404,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
@@ -2536,6 +2584,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/misc/warped_stick_from_warped_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/netherite_dark_oak_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
@@ -2632,6 +2686,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/dark_oak_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_acacia_axe": {
     "criteria": {
       "has_material": "2022-02-25 17:52:29 +0000"
@@ -2716,6 +2776,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/building_blocks/warped_panels_slab_from_warped_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-09-11 02:10:37 +0000"
@@ -2770,6 +2836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 16:48:46 +0000"
@@ -2803,6 +2875,12 @@
   "cfm:recipes/cfm/gray_sofa": {
     "criteria": {
       "has_wool": "2022-09-10 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
     },
     "done": true
   },
@@ -2965,6 +3043,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2022-04-09 01:26:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_fence": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
     },
     "done": true
   },
@@ -3520,6 +3610,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-10-28 00:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2022-02-12 16:13:45 +0000"
@@ -3577,6 +3673,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2021-09-11 18:08:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_chair": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
@@ -3655,6 +3757,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2023-01-28 04:03:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
     },
     "done": true
   },
@@ -4054,6 +4162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/andesite_countertop_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_spruce_sword": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
@@ -4114,6 +4228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2021-09-16 23:31:17 +0000"
@@ -4153,6 +4273,12 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2022-04-09 00:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -4504,6 +4630,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2023-10-28 00:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-09-11 16:16:32 +0000"
@@ -4720,6 +4852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2021-09-12 18:51:27 +0000"
@@ -4780,6 +4918,7 @@
       "dead_forest": "2021-09-12 19:19:28 +0000",
       "highland_crag": "2021-09-12 14:21:49 +0000",
       "meadow": "2021-09-11 03:57:01 +0000",
+      "golden_prairie": "2023-10-28 00:30:28 +0000",
       "burnt_forest": "2021-09-12 19:18:26 +0000",
       "fir_clearing": "2021-09-11 04:04:29 +0000",
       "snowy_coniferous_forest": "2021-09-04 02:11:12 +0000",
@@ -4787,6 +4926,12 @@
       "gravel_beach": "2021-09-10 23:56:27 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/warped_desk": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -4833,6 +4978,12 @@
   "ilikewood:recipes/decorations/light_gray_crimson_bed": {
     "criteria": {
       "has_wool": "2022-07-29 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/crimson_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -4929,6 +5080,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-09-11 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/building_blocks/warped_panels_from_warped_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
@@ -5150,6 +5307,12 @@
   "ilikewood:recipes/redstone/birch_lectern": {
     "criteria": {
       "has_book": "2022-02-25 18:31:47 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/birch_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -5723,6 +5886,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/building_blocks/warped_panels_stairs_from_warped_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "wilds:enter_peaceful_swamp": {
     "criteria": {
       "enter_peaceful_swamp": "2023-03-18 03:43:01 +0000"
@@ -5738,6 +5907,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-02-12 16:13:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
@@ -5843,6 +6018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/white_warped_bed": {
     "criteria": {
       "has_wool": "2022-06-11 02:17:49 +0000"
@@ -5921,6 +6102,7 @@
       "minecraft:frozen_river": "2021-09-14 22:28:32 +0000",
       "autumnity:maple_forest_hills": "2022-06-11 02:41:32 +0000",
       "minecraft:birch_forest": "2022-02-12 02:07:37 +0000",
+      "minecraft:jungle_hills": "2023-05-06 00:57:19 +0000",
       "minecraft:bamboo_jungle": "2022-02-25 18:30:09 +0000",
       "minecraft:savanna_plateau": "2022-01-15 08:32:35 +0000",
       "minecraft:beach": "2021-09-12 15:29:10 +0000",
@@ -5938,6 +6120,8 @@
       "minecraft:snowy_taiga_hills": "2022-10-09 04:14:30 +0000",
       "autumnity:orange_spotted_dark_forest": "2023-03-18 03:45:53 +0000",
       "minecraft:cold_ocean": "2021-09-10 23:55:43 +0000",
+      "environmental:blossom_highlands": "2023-05-06 02:44:43 +0000",
+      "environmental:blossom_valleys": "2023-05-06 02:44:36 +0000",
       "minecraft:forest": "2021-09-12 15:09:04 +0000",
       "minecraft:desert_hills": "2022-02-12 03:55:57 +0000",
       "autumnity:yellow_spotted_forest": "2022-06-11 02:27:15 +0000",
@@ -5945,6 +6129,7 @@
       "minecraft:deep_cold_ocean": "2021-09-10 23:55:54 +0000",
       "minecraft:desert": "2022-01-15 07:54:57 +0000",
       "minecraft:deep_frozen_ocean": "2021-09-12 19:47:25 +0000",
+      "minecraft:jungle": "2023-05-06 00:56:21 +0000",
       "minecraft:snowy_beach": "2021-09-04 02:19:43 +0000",
       "minecraft:warm_ocean": "2022-04-09 00:28:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-09-12 19:56:17 +0000",
@@ -5983,6 +6168,12 @@
   "ilikewood:recipes/decorations/white_acacia_bed_from_cyan_acacia_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
     },
     "done": true
   },
@@ -6031,6 +6222,12 @@
   "ilikewood:recipes/tools/netherite_acacia_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/spruce_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -6136,9 +6333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/immersivecooking/andesite_countertop_from_polished_andesite_slab_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_spruce_shovel": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -6502,6 +6711,12 @@
     },
     "done": true
   },
+  "immersivecooking:recipes/immersivecooking/oak_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2022-02-27 00:32:48 +0000"
@@ -6706,6 +6921,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_crate": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/brown_spruce_bed": {
     "criteria": {
       "has_wool": "2022-07-29 22:39:37 +0000"
@@ -6720,6 +6941,7 @@
       "salmon": "2022-02-27 02:09:33 +0000",
       "cooked_chicken": "2022-12-09 21:16:16 +0000",
       "rabbit_stew": "2022-04-23 00:33:31 +0000",
+      "environmental:cooked_venison": "2023-10-28 00:40:20 +0000",
       "apple": "2022-04-16 00:29:04 +0000",
       "bread": "2022-01-30 01:27:38 +0000",
       "cooked_rabbit": "2023-01-28 04:38:29 +0000",
@@ -6861,6 +7083,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-09-12 20:40:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-28 04:04:56 +0000"
     },
     "done": true
   },
@@ -7502,6 +7730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper": {
     "criteria": {
       "has_ore_copper": "2021-09-11 16:35:21 +0000"
@@ -7586,6 +7820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_dark_oak_sword": {
     "criteria": {
       "has_material": "2022-02-25 17:52:29 +0000"
@@ -7601,6 +7841,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2022-02-27 00:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
@@ -7760,9 +8006,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_park_bench": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_log": "2022-06-11 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
@@ -8030,6 +8294,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_cabinet": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/waterwheel_segment": {
     "criteria": {
       "has_treated_planks": "2022-06-11 01:52:14 +0000"
@@ -8057,6 +8327,12 @@
   "ilikewood:recipes/decorations/brown_acacia_bed": {
     "criteria": {
       "has_wool": "2022-07-29 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "immersivecooking:recipes/immersivecooking/acacia_andesite_pantry": {
+    "criteria": {
+      "has_polished_andesite": "2023-10-28 01:42:42 +0000"
     },
     "done": true
   },
@@ -8246,6 +8522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2022-02-25 18:17:41 +0000"
@@ -8387,6 +8669,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2022-02-25 18:11:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2023-10-28 00:15:52 +0000"
     },
     "done": true
   },
