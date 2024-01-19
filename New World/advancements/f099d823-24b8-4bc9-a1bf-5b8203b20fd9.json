@@ -1043,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2023-11-04 03:20:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2021-09-11 17:15:47 +0000"
@@ -1505,6 +1511,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/crimson_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2021-09-11 00:40:53 +0000"
@@ -1514,6 +1526,12 @@
   "cfm:recipes/cfm/granite_table": {
     "criteria": {
       "has_planks": "2022-07-29 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/spruce_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
     },
     "done": true
   },
@@ -1544,6 +1562,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
     "criteria": {
       "has_alu_ingot": "2021-09-12 20:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-11-26 17:55:07 +0000"
     },
     "done": true
   },
@@ -1706,6 +1730,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_redstone": {
     "criteria": {
       "has_aluminum_ingot": "2021-09-12 20:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-11-04 03:04:19 +0000"
     },
     "done": true
   },
@@ -2113,6 +2143,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_purple_dye": "2021-09-12 20:07:59 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
     },
     "done": true
   },
@@ -2992,6 +3028,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2023-11-04 03:46:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_cooler": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
@@ -3025,6 +3067,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2021-09-12 13:38:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/warped_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
     },
     "done": true
   },
@@ -4518,7 +4566,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "deep_bayou": "2023-11-24 23:54:30 +0000",
       "seasonal_pumpkin_patch": "2022-02-27 16:28:26 +0000",
+      "bayou_mangrove": "2023-11-26 16:35:33 +0000",
       "alps_foothills": "2022-02-26 03:17:50 +0000",
       "redwood_forest_edge": "2021-09-12 19:56:33 +0000",
       "highland": "2021-09-12 13:33:20 +0000",
@@ -4528,10 +4578,14 @@
       "meadow_forest": "2021-09-11 04:01:05 +0000",
       "cold_desert": "2022-02-26 03:18:29 +0000",
       "tundra_bog": "2021-09-12 19:34:41 +0000",
+      "rainforest_floodplain": "2023-11-04 02:19:07 +0000",
       "orchard": "2022-02-12 05:08:15 +0000",
       "snowy_maple_forest": "2021-09-10 23:41:34 +0000",
       "coniferous_forest": "2021-09-11 02:28:01 +0000",
+      "redwood_hills": "2023-11-04 02:18:58 +0000",
+      "alps": "2023-11-26 16:35:39 +0000",
       "tall_dead_forest": "2022-02-12 05:38:44 +0000",
+      "redwood_forest": "2023-11-04 02:18:50 +0000",
       "coniferous_lakes": "2021-09-11 03:09:37 +0000",
       "cherry_blossom_grove": "2022-01-15 07:46:37 +0000",
       "seasonal_orchard": "2021-09-12 19:39:12 +0000",
@@ -4540,12 +4594,19 @@
       "highland_crag": "2021-09-12 13:35:03 +0000",
       "dead_forest": "2021-09-12 19:19:20 +0000",
       "meadow": "2021-09-11 03:54:00 +0000",
+      "golden_prairie": "2023-11-04 02:19:27 +0000",
       "fir_clearing": "2021-09-11 04:04:32 +0000",
       "burnt_forest": "2021-09-12 19:18:47 +0000",
+      "grassland": "2023-11-04 02:19:43 +0000",
+      "dense_marsh": "2023-11-26 17:06:02 +0000",
+      "prairie": "2023-11-26 19:29:17 +0000",
       "snowy_coniferous_forest": "2021-09-10 23:40:00 +0000",
       "snowy_fir_clearing": "2021-09-10 23:42:12 +0000",
+      "rainbow_hills": "2023-11-26 19:29:35 +0000",
       "tundra": "2021-09-12 19:33:45 +0000",
-      "gravel_beach": "2021-09-10 23:40:41 +0000"
+      "gravel_beach": "2021-09-10 23:40:41 +0000",
+      "origin_valley": "2023-11-26 19:29:28 +0000",
+      "rainforest": "2023-11-26 17:05:27 +0000"
     },
     "done": false
   },
@@ -4741,6 +4802,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2023-11-04 03:46:16 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/acacia_bow": {
     "criteria": {
       "has_string": "2022-02-25 17:47:22 +0000"
@@ -4776,6 +4843,12 @@
       "minecraft:stray": "2022-06-11 02:49:18 +0000"
     },
     "done": false
+  },
+  "ilikewood:recipes/decorations/oak_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -4930,6 +5003,12 @@
   "immersiveposts:recipes/immersiveposts/has_nickel_rod": {
     "criteria": {
       "has_nickel_ingot": "2022-01-30 01:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-11-04 03:04:19 +0000"
     },
     "done": true
   },
@@ -5575,6 +5654,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/acacia_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-09-11 03:33:12 +0000"
@@ -5636,7 +5721,10 @@
       "minecraft:swamp": "2022-02-12 04:15:03 +0000",
       "environmental:blossom_woods": "2022-06-11 02:23:42 +0000",
       "minecraft:snowy_taiga_hills": "2022-02-12 03:46:14 +0000",
+      "autumnity:orange_spotted_dark_forest": "2023-11-26 17:44:39 +0000",
       "minecraft:cold_ocean": "2021-09-10 23:45:02 +0000",
+      "environmental:blossom_highlands": "2023-11-04 02:31:59 +0000",
+      "environmental:blossom_valleys": "2023-11-04 02:31:33 +0000",
       "minecraft:forest": "2021-09-12 15:26:02 +0000",
       "minecraft:desert_hills": "2022-01-15 07:46:50 +0000",
       "autumnity:yellow_spotted_forest": "2022-06-11 02:27:16 +0000",
@@ -5883,6 +5971,12 @@
     },
     "done": true
   },
+  "survive:recipes/main/canteen": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_picket_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
@@ -6096,6 +6190,12 @@
   "cfm:recipes/cfm/stripped_acacia_coffee_table": {
     "criteria": {
       "has_planks": "2023-01-28 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2023-11-04 03:04:19 +0000"
     },
     "done": true
   },
@@ -6504,6 +6604,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/dark_oak_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2023-01-28 04:38:44 +0000"
@@ -6539,6 +6645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-11-04 03:04:19 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_jungle_pickaxe": {
     "criteria": {
       "has_material": "2022-02-27 04:39:43 +0000"
@@ -6554,6 +6666,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-04-09 01:24:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2023-11-12 03:00:58 +0000"
     },
     "done": true
   },
@@ -6734,6 +6852,12 @@
   "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_item_frame": {
+    "criteria": {
+      "has_leather": "2023-11-04 04:17:41 +0000"
     },
     "done": true
   },

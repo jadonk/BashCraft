@@ -1,260 +1,1262 @@
-[28Oct2023 00:04:44.525] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
-[28Oct2023 00:04:49.445] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48c8f25f
-[28Oct2023 00:04:49.461] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BashTag3[/192.168.0.68:59552] logged in with entity id 746 at (-498.5, 64.01829999089242, -938.4495218393248)
-[28Oct2023 00:04:49.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag3 joined the game
-[28Oct2023 00:05:06.014] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[28Oct2023 00:14:55.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[28Oct2023 00:15:19.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8990ms or 179 ticks behind
-[28Oct2023 00:15:37.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3978ms or 79 ticks behind
-[28Oct2023 00:16:08.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[28Oct2023 00:16:32.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9013ms or 180 ticks behind
-[28Oct2023 00:16:51.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4246ms or 84 ticks behind
-[28Oct2023 00:17:09.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2887ms or 57 ticks behind
-[28Oct2023 00:20:27.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[28Oct2023 00:20:50.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7891ms or 157 ticks behind
-[28Oct2023 00:21:08.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
-[28Oct2023 00:21:29.564] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BashTag1 is f099d823-24b8-4bc9-a1bf-5b8203b20fd9
-[28Oct2023 00:21:35.529] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@79a243d7
-[28Oct2023 00:21:35.579] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BashTag1[/172.17.0.1:50248] logged in with entity id 887 at (-5126.105656133102, 63.0, 214.518406374262)
-[28Oct2023 00:21:35.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag1 joined the game
-[28Oct2023 00:21:35.737] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:21:35.737] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[28Oct2023 00:21:35.738] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:21:35.738] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[28Oct2023 00:21:35.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[28Oct2023 00:21:36.088] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityReindeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:21:36.089] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:21:36.812] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:21:36.813] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:21:42.635] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[28Oct2023 00:21:58.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7605ms or 152 ticks behind
-[28Oct2023 00:22:21.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7590ms or 151 ticks behind
-[28Oct2023 00:22:43.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7351ms or 147 ticks behind
-[28Oct2023 00:23:04.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
-[28Oct2023 00:23:19.388] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityWhale from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[28Oct2023 00:23:24.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5553ms or 111 ticks behind
-[28Oct2023 00:23:44.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5199ms or 103 ticks behind
-[28Oct2023 00:24:05.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5910ms or 118 ticks behind
-[28Oct2023 00:24:26.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5580ms or 111 ticks behind
-[28Oct2023 00:24:36.933] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag3 lost connection: Disconnected
-[28Oct2023 00:24:36.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag3 left the game
-[28Oct2023 00:26:54.369] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag1 moved too quickly! 4515.367365372531,4.0,-1068.3154449035542
-[28Oct2023 00:27:05.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Oct2023 00:27:24.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
-[28Oct2023 00:27:57.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Oct2023 00:28:16.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
-[28Oct2023 00:28:20.563] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
-[28Oct2023 00:28:27.311] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7f831b26
-[28Oct2023 00:28:27.328] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BashTag3[/192.168.0.68:59758] logged in with entity id 1508 at (-498.510576179989, 64.1, -888.2654017580635)
-[28Oct2023 00:28:27.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag3 joined the game
-[28Oct2023 00:28:35.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
-[28Oct2023 00:28:39.693] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[28Oct2023 00:28:53.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
-[28Oct2023 00:29:11.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3329ms or 66 ticks behind
-[28Oct2023 00:29:30.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
-[28Oct2023 00:29:48.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
-[28Oct2023 00:30:07.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
-[28Oct2023 00:32:15.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [BashTag3: Teleported BashTag3 to BashTag1]
-[28Oct2023 00:37:28.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[28Oct2023 00:37:46.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
-[28Oct2023 00:42:13.511] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag3 moved too quickly! -25.15556182621785,-17.57746794571561,340.1147719442247
-[28Oct2023 00:42:14.795] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of BashTag1) moved wrongly! 0.3742212988944118
-[28Oct2023 00:42:56.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [BashTag3: Set own game mode to Survival Mode]
-[28Oct2023 00:43:02.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [BashTag3: Set own game mode to Creative Mode]
-[28Oct2023 00:46:53.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [BashTag1: Set own game mode to Survival Mode]
-[28Oct2023 00:46:56.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag1 was slain by Ender Dragon
-[28Oct2023 00:47:48.992] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag3 moved too quickly! 7.708499860167784,5.0627646802300035,4.061769754832415
-[28Oct2023 00:47:48.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[28Oct2023 00:47:51.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [BashTag1: Set own game mode to Creative Mode]
-[28Oct2023 00:48:25.862] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.monster.SpiderEntity from class net.spicybanana.wilds.entity.KoalaEntity$CustomEntity
-[28Oct2023 00:48:41.912] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag3 moved too quickly! 1166.962906810797,12.0,4129.209858523954
-[28Oct2023 01:54:46.602] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag3 lost connection: Disconnected
-[28Oct2023 01:54:46.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag3 left the game
-[28Oct2023 01:54:54.931] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
-[28Oct2023 01:54:59.614] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@323381a5
-[28Oct2023 01:54:59.631] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BashTag3[/192.168.0.68:60458] logged in with entity id 3100 at (-725.2233692000649, 64.0, 208.9172627306878)
-[28Oct2023 01:54:59.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag3 joined the game
-[28Oct2023 01:55:05.455] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[28Oct2023 02:47:16.105] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class blizzardfenix/webasemod/init/ModKeyBindings for invalid dist DEDICATED_SERVER
-[28Oct2023 02:47:16.106] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.RuntimeException: Attempted to load class blizzardfenix/webasemod/init/ModKeyBindings for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.26.jar:36.2]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_212]
-	at blizzardfenix.webasemod.items.ItemHelperFunctions.tryThrow(ItemHelperFunctions.java:249) ~[webasemod:1.16.5-1.3.1]
-	at blizzardfenix.webasemod.server.WebaseMessage.lambda$handle$1(WebaseMessage.java:73) ~[webasemod:1.16.5-1.3.1]
-	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:215) ~[forge:?]
-	at blizzardfenix.webasemod.server.WebaseMessage.handle(WebaseMessage.java:51) ~[webasemod:1.16.5-1.3.1]
-	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:128) ~[forge:?]
-	at java.util.Optional.ifPresent(Optional.java:159) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:128) ~[forge:?]
-	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162) ~[forge:?]
-	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80) ~[forge:?]
-	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86) ~[forge:?]
-	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:91) ~[forge:?]
-	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:91) ~[forge:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
-	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
-	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
-[28Oct2023 02:47:17.455] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class blizzardfenix/webasemod/init/ModKeyBindings for invalid dist DEDICATED_SERVER
-[28Oct2023 02:47:17.455] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.RuntimeException: Attempted to load class blizzardfenix/webasemod/init/ModKeyBindings for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.26.jar:36.2]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_212]
-	at blizzardfenix.webasemod.items.ItemHelperFunctions.tryThrow(ItemHelperFunctions.java:249) ~[webasemod:1.16.5-1.3.1]
-	at blizzardfenix.webasemod.server.WebaseMessage.lambda$handle$1(WebaseMessage.java:73) ~[webasemod:1.16.5-1.3.1]
-	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:215) ~[forge:?]
-	at blizzardfenix.webasemod.server.WebaseMessage.handle(WebaseMessage.java:51) ~[webasemod:1.16.5-1.3.1]
-	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:128) ~[forge:?]
-	at java.util.Optional.ifPresent(Optional.java:159) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:128) ~[forge:?]
-	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162) ~[forge:?]
-	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80) ~[forge:?]
-	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
-	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86) ~[forge:?]
-	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:91) ~[forge:?]
-	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_212]
-	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:91) ~[forge:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
-	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
-	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
-[28Oct2023 04:09:13.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[28Oct2023 04:10:23.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Oct2023 04:10:40.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
-[28Oct2023 04:10:57.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
-[28Oct2023 04:11:15.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
-[28Oct2023 04:11:32.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
-[28Oct2023 04:11:50.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
-[28Oct2023 04:12:07.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
-[28Oct2023 04:12:25.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
-[28Oct2023 04:12:43.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
-[28Oct2023 04:13:02.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3895ms or 77 ticks behind
-[28Oct2023 04:13:20.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
-[28Oct2023 04:13:39.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
-[28Oct2023 04:13:57.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
-[28Oct2023 04:14:15.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
-[28Oct2023 04:14:33.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
-[28Oct2023 04:14:50.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
-[28Oct2023 04:15:08.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
-[28Oct2023 04:15:26.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
-[28Oct2023 04:15:43.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
-[28Oct2023 04:16:00.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
-[28Oct2023 04:16:17.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[28Oct2023 04:16:36.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
-[28Oct2023 04:16:53.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
-[28Oct2023 04:17:10.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[28Oct2023 04:17:27.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
-[28Oct2023 04:17:44.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[28Oct2023 04:18:01.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[28Oct2023 04:18:19.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[28Oct2023 04:18:36.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[28Oct2023 04:18:53.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
-[28Oct2023 04:19:10.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[28Oct2023 04:19:27.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
-[28Oct2023 04:19:44.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
-[28Oct2023 04:20:02.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
-[28Oct2023 04:20:19.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
-[28Oct2023 04:20:37.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
-[28Oct2023 04:20:54.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
-[28Oct2023 04:21:02.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [BashTag3: Teleported BashTag3 to BashTag1]
-[28Oct2023 04:51:06.512] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag3 lost connection: Disconnected
-[28Oct2023 04:51:06.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag3 left the game
-[28Oct2023 04:51:11.410] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BashTag1 lost connection: Disconnected
-[28Oct2023 04:51:11.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BashTag1 left the game
-[28Oct2023 04:52:16.685] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /127.0.0.1 started
-[28Oct2023 04:52:18.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
-[28Oct2023 04:52:21.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Stopping the server]
-[28Oct2023 04:52:21.536] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
-[28Oct2023 04:52:21.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[28Oct2023 04:52:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[28Oct2023 04:52:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[28Oct2023 04:52:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
-[28Oct2023 04:52:22.041] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Oct2023 04:52:22.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
-[28Oct2023 04:52:22.042] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Oct2023 04:52:22.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
-[28Oct2023 04:52:22.043] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Oct2023 04:52:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/mushroom_fox:forgotten_keep
-[28Oct2023 04:52:22.044] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
-[28Oct2023 04:52:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars_orbit
-[28Oct2023 04:52:22.044] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[28Oct2023 04:52:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
-[28Oct2023 04:52:22.046] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[28Oct2023 04:52:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus_orbit
-[28Oct2023 04:52:22.046] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[28Oct2023 04:52:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
-[28Oct2023 04:52:22.048] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[28Oct2023 04:52:22.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:overworld_orbit
-[28Oct2023 04:52:22.048] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
-[28Oct2023 04:52:22.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus
-[28Oct2023 04:52:22.049] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[28Oct2023 04:52:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon_orbit
-[28Oct2023 04:52:22.050] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[28Oct2023 04:52:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
-[28Oct2023 04:52:22.051] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[28Oct2023 04:52:22.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury_orbit
-[28Oct2023 04:52:22.052] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[28Oct2023 04:52:22.080] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Oct2023 04:52:22.087] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Oct2023 04:52:22.128] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Oct2023 04:52:22.231] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
-[28Oct2023 04:52:22.231] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[28Oct2023 04:52:22.231] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[28Oct2023 04:52:22.231] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[28Oct2023 04:52:22.232] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[28Oct2023 04:52:22.232] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
-[28Oct2023 04:52:22.232] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[28Oct2023 04:52:22.232] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[28Oct2023 04:52:22.232] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[28Oct2023 04:52:22.233] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[28Oct2023 04:52:22.235] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Oct2023 04:52:22.246] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
-[28Oct2023 04:52:22.250] [RCON Client /127.0.0.1 #2/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /127.0.0.1 shutting down
-[28Oct2023 04:52:22.250] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /127.0.0.1 stopped
-[28Oct2023 04:52:22.251] [RCON Client /127.0.0.1 #3/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /127.0.0.1 shutting down
-[28Oct2023 04:52:22.251] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /127.0.0.1 stopped
+[30Nov2023 01:35:39.819] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[30Nov2023 01:35:39.823] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_212 by IcedTea
+[30Nov2023 01:35:41.525] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30Nov2023 01:35:41.614] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/data/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[30Nov2023 01:35:42.333] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /data/mods/curios-forge-1.16.5-4.0.7.0-api.jar is missing mods.toml file
+[30Nov2023 01:35:42.334] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /data/mods/curios-forge-1.16.5-4.0.7.0-api.jar has been ignored - it is invalid
+[30Nov2023 01:35:43.710] [main/ERROR] [mixin/]: Mixin config unionlib.mixins.json does not specify "minVersion" property
+[30Nov2023 01:35:43.752] [main/ERROR] [mixin/]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
+[30Nov2023 01:35:43.877] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[30Nov2023 01:35:44.102] [main/WARN] [mixin/]: Reference map 'immersivecooking.refmap.json' for immersivecooking.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Nov2023 01:36:30.519] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_1`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:30.519] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_2`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:30.520] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `reusable_rockets` for name `reusable_rocket_tier_3`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:30.574] [modloading-worker-11/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:registerConfig:279]: Registered the config for union
+[30Nov2023 01:36:30.596] [modloading-worker-11/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:loadConfig:295]: /data/config
+[30Nov2023 01:36:30.624] [modloading-worker-11/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:loadConfig:295]: /data/config
+[30Nov2023 01:36:30.629] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.26, for MC 1.16.5 with MCP 20210115.111550
+[30Nov2023 01:36:30.629] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.26 Initialized
+[30Nov2023 01:36:31.008] [modloading-worker-11/INFO] [STDOUT/]: [com.stereowalker.unionlib.ClientCape:loadCapes:46]: Found the cape Json file on GitHub
+[30Nov2023 01:36:31.091] [modloading-worker-15/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:registerConfig:279]: Registered the config for survive
+[30Nov2023 01:36:31.103] [modloading-worker-15/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:loadConfig:295]: /data/config
+[30Nov2023 01:36:31.119] [modloading-worker-11/INFO] [STDOUT/]: [com.stereowalker.unionlib.ClientCape:loadCapes:61]: Internet is not connected
+[30Nov2023 01:36:31.123] [modloading-worker-15/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:loadConfig:295]: /data/config
+[30Nov2023 01:36:31.134] [modloading-worker-15/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:registerConfig:279]: Registered the config for survive-server
+[30Nov2023 01:36:31.135] [modloading-worker-15/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:loadConfig:295]: /data/config
+[30Nov2023 01:36:31.180] [modloading-worker-11/INFO] [STDOUT/]: [cam72cam.mod.ModCore:<init>:69]: Welcome to UniversalModCore!
+[30Nov2023 01:36:31.198] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.367] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.372] [modloading-worker-4/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[30Nov2023 01:36:32.394] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.399] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.511] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.512] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rolling_stock_component`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.513] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_large_wrench`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.539] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_hook`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.539] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_augment`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.541] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.541] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_manual`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.541] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_rail_part`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.541] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_plate`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.541] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_cast_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.542] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_conductor_whistle`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.542] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_paint_brush`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.542] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_golden_spike`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.545] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_radio_control_card`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.545] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_switch_key`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:32.545] [modloading-worker-11/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `item_track_exchanger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:35.958] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:distillationtower} has been registered twice for the same name immersivepetroleum:distillationtower.
+[30Nov2023 01:36:35.958] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:pumpjack} has been registered twice for the same name immersivepetroleum:pumpjack.
+[30Nov2023 01:36:35.958] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:cokerunit} has been registered twice for the same name immersivepetroleum:cokerunit.
+[30Nov2023 01:36:35.958] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:hydrotreater} has been registered twice for the same name immersivepetroleum:hydrotreater.
+[30Nov2023 01:36:37.143] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_preview`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.143] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail_gag`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.143] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `block_rail`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.143] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `multiblock`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carfreight`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `carpassenger`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `cartank`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `handcar`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivediesel`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `locomotivesteam`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.212] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `immersiverailroading` for name `tender`, expected `universalmodcore`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.219] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.219] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2023 01:36:37.427] [main/INFO] [immersivepetroleum/]: Loading sounds.
+[30Nov2023 01:36:37.750] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:load:361]: Loading all values from the config files into their respective configuration variables
+[30Nov2023 01:36:37.751] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:load:365]: Loading union's config
+[30Nov2023 01:36:37.752] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:load:365]: Loading survive's config
+[30Nov2023 01:36:37.752] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:load:365]: Loading survive-server's config
+[30Nov2023 01:36:37.753] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in union's config file. Reloading values
+[30Nov2023 01:36:37.753] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive's config file. Reloading values
+[30Nov2023 01:36:37.753] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive-server's config file. Reloading values
+[30Nov2023 01:36:37.754] [main/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:onReload:342]: From the event itself
+[30Nov2023 01:36:37.754] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in union's config file. Reloading values
+[30Nov2023 01:36:37.757] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive's config file. Reloading values
+[30Nov2023 01:36:37.757] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive-server's config file. Reloading values
+[30Nov2023 01:36:37.757] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in union's config file. Reloading values
+[30Nov2023 01:36:37.758] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive's config file. Reloading values
+[30Nov2023 01:36:37.758] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive-server's config file. Reloading values
+[30Nov2023 01:36:37.758] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:onReload:342]: From the event itself
+[30Nov2023 01:36:37.759] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in union's config file. Reloading values
+[30Nov2023 01:36:37.759] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive's config file. Reloading values
+[30Nov2023 01:36:37.759] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive-server's config file. Reloading values
+[30Nov2023 01:36:37.759] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in union's config file. Reloading values
+[30Nov2023 01:36:37.760] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive's config file. Reloading values
+[30Nov2023 01:36:37.760] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:reload:355]: Detected change in survive-server's config file. Reloading values
+[30Nov2023 01:36:37.760] [Thread-1/INFO] [STDOUT/]: [com.stereowalker.unionlib.config.ConfigBuilder:onReload:342]: From the event itself
+[30Nov2023 01:36:37.806] [modloading-worker-6/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
+[30Nov2023 01:36:37.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unionlib] Starting version check at https://raw.githubusercontent.com/Stereowalker/UnionLib/1.16-forge/src/main/resources/META-INF/update.json?token=AIP6TBTIHETPW7EI7336PL3AHEHKG
+[30Nov2023 01:36:37.821] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[30Nov2023 01:36:37.836] [modloading-worker-15/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[30Nov2023 01:36:37.850] [modloading-worker-5/INFO] [yamahari.ilikewood.proxy.CommonProxy/]: common setup
+[30Nov2023 01:36:37.914] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading stock models.
+[30Nov2023 01:36:39.875] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.FileNotFoundException: https://raw.githubusercontent.com/Stereowalker/UnionLib/1.16-forge/src/main/resources/META-INF/update.json?token=AIP6TBTIHETPW7EI7336PL3AHEHKG
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_212]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_212]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_212]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_212]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1944) ~[?:1.8.0_212]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1939) ~[?:1.8.0_212]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_212]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1938) ~[?:1.8.0_212]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1508) ~[?:1.8.0_212]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492) ~[?:1.8.0_212]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:263) ~[?:1.8.0_212]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:171) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_212]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:139) [forge:?]
+Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Stereowalker/UnionLib/1.16-forge/src/main/resources/META-INF/update.json?token=AIP6TBTIHETPW7EI7336PL3AHEHKG
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1890) ~[?:1.8.0_212]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492) ~[?:1.8.0_212]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_212]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347) ~[?:1.8.0_212]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:155) ~[forge:?]
+	... 3 more
+[30Nov2023 01:36:39.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[30Nov2023 01:36:40.432] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Loading Models 1% : E6 Atlantic Tender
+[30Nov2023 01:36:40.432] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Loading Models 3% : Cooke Tender
+[30Nov2023 01:36:40.433] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Loading Models 5% : Russell Snow Plow
+[30Nov2023 01:36:40.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA_OUTDATED Current: 1.5.3 Target: 1.5.4
+[30Nov2023 01:36:40.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[30Nov2023 01:36:40.568] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Loading Models 7% : Firefly
+[30Nov2023 01:36:40.569] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 9% : Rail & Tie Car
+[30Nov2023 01:36:40.847] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 11% : Waycar
+[30Nov2023 01:36:40.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.6.1 Target: 1.6.1
+[30Nov2023 01:36:40.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Nov2023 01:36:40.905] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Loading Models 13% : K4 Pacific Tender
+[30Nov2023 01:36:40.934] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Loading Models 15% : 1000 Series Gondola
+[30Nov2023 01:36:40.939] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Models 17% : PRR P70 Coach 1
+[30Nov2023 01:36:40.985] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Loading Models 19% : GE B40-8
+[30Nov2023 01:36:41.058] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Loading Models 21% : ATTX Flatcar 1
+[30Nov2023 01:36:41.075] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Loading Models 23% : Rodgers Ten Wheeler
+[30Nov2023 01:36:41.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.26 Target: 36.2.34
+[30Nov2023 01:36:41.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+[30Nov2023 01:36:41.164] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Loading Models 25% : Iron Duke
+[30Nov2023 01:36:41.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveposts] Found status: OUTDATED Current: 4.1.0 Target: 4.3.0-1
+[30Nov2023 01:36:41.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
+[30Nov2023 01:36:41.303] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Loading Models 26% : Class B-B-70/70-4HM829 Boxcab
+[30Nov2023 01:36:41.322] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Loading Models 28% : DW Gondola
+[30Nov2023 01:36:41.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: OUTDATED Current: 1.16.5-5.0.6-141 Target: 1.16.5-5.1.0-148
+[30Nov2023 01:36:41.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [webasemod] Starting version check at https://raw.githubusercontent.com/BlizzardFenix/Weaponized-Baseball-Mod/1.16/UpdateChecker.json
+[30Nov2023 01:36:41.348] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 30% : 5500 Series Stockcar
+[30Nov2023 01:36:41.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [webasemod] Found status: UP_TO_DATE Current: 1.16.5-1.3.1 Target: null
+[30Nov2023 01:36:41.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[30Nov2023 01:36:41.576] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Loading Models 32% : Class 38 Tender
+[30Nov2023 01:36:41.595] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Loading Models 34% : 3000 Series Boxcar
+[30Nov2023 01:36:41.636] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Loading Models 36% : GE B40-8w
+[30Nov2023 01:36:41.650] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Models 38% : Box Car X26
+[30Nov2023 01:36:41.659] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Loading Models 40% : BR Coach MK1
+[30Nov2023 01:36:41.689] [modloading-worker-9/INFO] [cam72cam.mod.ModCore/]: Loading Models 42% : Skookum 2-4-4-2
+[30Nov2023 01:36:41.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 7.0.1.15 Target: null
+[30Nov2023 01:36:41.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[30Nov2023 01:36:41.740] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 44% : Slag Car 1
+[30Nov2023 01:36:41.748] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Loading Models 46% : 70T Hopper SLSF
+[30Nov2023 01:36:41.832] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Loading Models 48% : USRA Hopper 55T
+[30Nov2023 01:36:41.838] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Loading Models 50% : USRA Boxcar Class RR-40
+[30Nov2023 01:36:41.838] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 51% : Hand Car
+[30Nov2023 01:36:41.844] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Loading Models 53% : K36 Tender
+[30Nov2023 01:36:41.847] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Loading Models 55% : A5 Slope Tender
+[30Nov2023 01:36:41.858] [modloading-worker-9/INFO] [cam72cam.mod.ModCore/]: Loading Models 57% : Skookum Tender
+[30Nov2023 01:36:41.870] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Loading Models 59% : GE C44-9CW
+[30Nov2023 01:36:41.945] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Loading Models 61% : E6 Atlantic
+[30Nov2023 01:36:41.980] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Loading Models 63% : Rodgers Ten Wheeler Tender
+[30Nov2023 01:36:42.034] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Models 65% : PRR B70 Baggage
+[30Nov2023 01:36:42.036] [modloading-worker-9/INFO] [cam72cam.mod.ModCore/]: Loading Models 67% : drg class 01 tender
+[30Nov2023 01:36:42.044] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Loading Models 69% : D&RGW K36
+[30Nov2023 01:36:42.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA_OUTDATED Current: 2.0.3 Target: 2.1.13
+[30Nov2023 01:36:42.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [survive] Starting version check at https://raw.githubusercontent.com/Stereowalker/Survive/1.16-forge/update.json
+[30Nov2023 01:36:42.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [survive] Found status: OUTDATED Current: 1.16.5-3.4.8 Target: 3.4.4
+[30Nov2023 01:36:42.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[30Nov2023 01:36:42.199] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Loading Models 71% : SW1500
+[30Nov2023 01:36:42.219] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 73% : Kamx T
+[30Nov2023 01:36:42.252] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Loading Models 75% : Tank US 2
+[30Nov2023 01:36:42.269] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Loading Models 76% : br01
+[30Nov2023 01:36:42.405] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Loading Models 78% : N5c Caboose
+[30Nov2023 01:36:42.481] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Loading Models 80% : A1 Peppercorn Tender
+[30Nov2023 01:36:42.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Found status: BETA_OUTDATED Current: 0.6.2 Target: 0.6.3
+[30Nov2023 01:36:42.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vehicle] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/vehicle/update.json
+[30Nov2023 01:36:42.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vehicle] Found status: BETA Current: 0.45.2 Target: null
+[30Nov2023 01:36:42.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[30Nov2023 01:36:42.753] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Loading Models 82% : PRR Flatcar 1
+[30Nov2023 01:36:42.775] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Loading Models 84% : RS-1
+[30Nov2023 01:36:42.784] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Models 86% : A5 Switcher
+[30Nov2023 01:36:42.787] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Loading Models 88% : Class 38
+[30Nov2023 01:36:42.912] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Loading Models 90% : DSP&P Mogul
+[30Nov2023 01:36:43.028] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Loading Models 92% : Big Boy (4000 class) Tender
+[30Nov2023 01:36:43.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre22 Target: null
+[30Nov2023 01:36:43.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reusable_rockets] Starting version check at https://maxhenkel.de/update/reusable_rockets.json
+[30Nov2023 01:36:43.135] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Loading Models 94% : Big Boy (4000 class)
+[30Nov2023 01:36:43.149] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Loading Models 96% : A1 Peppercorn
+[30Nov2023 01:36:43.200] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Loading Models 98% : EMD SD40-2
+[30Nov2023 01:36:43.209] [modloading-worker-9/INFO] [cam72cam.mod.ModCore/]: Loading Models 100% : K4 Pacific
+[30Nov2023 01:36:43.210] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Generating height maps.
+[30Nov2023 01:36:43.211] [modloading-worker-9/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 1% : PRR P70 Coach 1
+[30Nov2023 01:36:43.211] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 3% : Skookum Tender
+[30Nov2023 01:36:43.211] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 5% : Cooke Tender
+[30Nov2023 01:36:43.211] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 7% : DW Gondola
+[30Nov2023 01:36:43.212] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 9% : GE C44-9CW
+[30Nov2023 01:36:43.212] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 11% : USRA Boxcar Class RR-40
+[30Nov2023 01:36:43.212] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 13% : Russell Snow Plow
+[30Nov2023 01:36:43.212] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 15% : Rail & Tie Car
+[30Nov2023 01:36:43.212] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 17% : ATTX Flatcar 1
+[30Nov2023 01:36:43.212] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 19% : 70T Hopper SLSF
+[30Nov2023 01:36:43.212] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 21% : PRR B70 Baggage
+[30Nov2023 01:36:43.212] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 23% : Box Car X26
+[30Nov2023 01:36:43.699] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 25% : Waycar
+[30Nov2023 01:36:43.716] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 26% : USRA Hopper 55T
+[30Nov2023 01:36:43.730] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 28% : N5c Caboose
+[30Nov2023 01:36:43.739] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 30% : PRR Flatcar 1
+[30Nov2023 01:36:43.748] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 32% : BR Coach MK1
+[30Nov2023 01:36:43.773] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 34% : Rodgers Ten Wheeler Tender
+[30Nov2023 01:36:43.794] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 36% : K36 Tender
+[30Nov2023 01:36:43.804] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 38% : SW1500
+[30Nov2023 01:36:43.822] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 40% : Slag Car 1
+[30Nov2023 01:36:43.834] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 42% : 5500 Series Stockcar
+[30Nov2023 01:36:43.835] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 44% : Kamx T
+[30Nov2023 01:36:43.837] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 46% : Hand Car
+[30Nov2023 01:36:43.837] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 48% : 1000 Series Gondola
+[30Nov2023 01:36:43.838] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 50% : drg class 01 tender
+[30Nov2023 01:36:43.839] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 51% : 3000 Series Boxcar
+[30Nov2023 01:36:43.841] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 53% : Tank US 2
+[30Nov2023 01:36:43.842] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 55% : Skookum 2-4-4-2
+[30Nov2023 01:36:43.848] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 57% : E6 Atlantic
+[30Nov2023 01:36:43.851] [modloading-worker-10/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 59% : Big Boy (4000 class)
+[30Nov2023 01:36:43.855] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 61% : Firefly
+[30Nov2023 01:36:43.856] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 63% : A1 Peppercorn
+[30Nov2023 01:36:43.857] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 65% : K4 Pacific
+[30Nov2023 01:36:43.857] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 67% : Class 38
+[30Nov2023 01:36:43.859] [modloading-worker-15/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 69% : D&RGW K36
+[30Nov2023 01:36:43.861] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 71% : Iron Duke
+[30Nov2023 01:36:43.868] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 73% : A5 Switcher
+[30Nov2023 01:36:43.870] [modloading-worker-8/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 75% : DSP&P Mogul
+[30Nov2023 01:36:43.882] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 76% : Rodgers Ten Wheeler
+[30Nov2023 01:36:43.887] [modloading-worker-12/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 78% : EMD SD40-2
+[30Nov2023 01:36:43.892] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 80% : E6 Atlantic Tender
+[30Nov2023 01:36:43.939] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 82% : K4 Pacific Tender
+[30Nov2023 01:36:43.943] [modloading-worker-5/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 84% : GE B40-8
+[30Nov2023 01:36:43.948] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 86% : A1 Peppercorn Tender
+[30Nov2023 01:36:43.954] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 88% : Class 38 Tender
+[30Nov2023 01:36:43.963] [modloading-worker-6/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 90% : Big Boy (4000 class) Tender
+[30Nov2023 01:36:43.968] [modloading-worker-13/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 92% : A5 Slope Tender
+[30Nov2023 01:36:43.975] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 94% : br01
+[30Nov2023 01:36:43.976] [modloading-worker-11/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 96% : Class B-B-70/70-4HM829 Boxcab
+[30Nov2023 01:36:43.980] [modloading-worker-3/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 98% : GE B40-8w
+[30Nov2023 01:36:43.981] [modloading-worker-2/INFO] [cam72cam.mod.ModCore/]: Generating Heightmap 100% : RS-1
+[30Nov2023 01:36:44.103] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading tracks.
+[30Nov2023 01:36:44.125] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Tracks 33% : default
+[30Nov2023 01:36:44.147] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Tracks 66% : concrete
+[30Nov2023 01:36:44.152] [modloading-worker-4/INFO] [cam72cam.mod.ModCore/]: Loading Tracks 100% : railsonly
+[30Nov2023 01:36:44.180] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30Nov2023 01:36:44.185] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:pygro, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:mogler, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:alien_zombie, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:star_crawler, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t1, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[30Nov2023 01:36:44.186] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier2Entity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t2, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RocketTier3Entity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rocket_t3, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:lander, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.mrscauthd.boss_tools.entity.RocketTier1Entity from class net.mrscauthd.boss_tools.entity.RoverEntity
+[30Nov2023 01:36:44.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for boss_tools:rover, use EntityAttributeCreationEvent instead.
+[30Nov2023 01:36:44.313] [modloading-worker-6/WARN] [cam72cam.mod.ModCore/]: Unsafe tag access before load, try to avoid this if possible
+[30Nov2023 01:36:44.313] [modloading-worker-6/WARN] [cam72cam.mod.ModCore/]: Unsafe tag access before load, try to avoid this if possible
+[30Nov2023 01:36:44.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reusable_rockets] Found status: OUTDATED Current: 1.16.5-1.0.1 Target: 1.16.5-1.1.2
+[30Nov2023 01:36:48.838] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: Mods loaded with 1 warnings
+[30Nov2023 01:36:48.844] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: File curios-forge-1.16.5-4.0.7.0-api.jar is not a valid mod file
+[30Nov2023 01:36:48.979] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Spread too big: 8 > 5
+[30Nov2023 01:36:48.979] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Spread too big: 6 > 5
+[30Nov2023 01:36:49.087] [main/ERROR] [net.minecraft.world.biome.BiomeGenerationSettings/]: Feature: Not a JSON object: "minecraft:patch_pumpkin"; Not a JSON object: "minecraft:patch_sugar_cane"; Not a JSON object: "minecraft:patch_tall_grass"; Not a JSON object: "minecraft:patch_berry_decorated"
+[30Nov2023 01:36:49.140] [main/ERROR] [net.minecraft.world.biome.BiomeGenerationSettings/]: Feature: Not a JSON object: "minecraft:red_mushroom_swamp"; Not a JSON object: "minecraft:brown_mushroom_swamp"; Not a JSON object: "minecraft:patch_waterlilly"; Not a JSON object: "minecraft:patch_dead_bush"; Not a JSON object: "minecraft:patch_grass_normal"; Not a JSON object: "minecraft:flower_swamp"; Not a JSON object: "minecraft:swamp_tree"
+[30Nov2023 01:36:49.430] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Nov2023 01:36:49.921] [main/INFO] [webasemod Mod Event Subscriber/]: Registered commands
+[30Nov2023 01:36:49.970] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Nov2023 01:36:49.971] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Nov2023 01:36:49.972] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Nov2023 01:36:49.973] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Nov2023 01:36:49.973] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Nov2023 01:36:49.974] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[30Nov2023 01:36:49.975] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[30Nov2023 01:36:49.985] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, reusable_rockets-1.16.5-1.0.1.jar, obfuscate-0.6.2-1.16.3.jar, forge-1.16.5-36.2.26-universal.jar, BiomesOPlenty-1.16.5-13.1.0.477-universal.jar, Space-BossTools-1.16.5-5.5d.jar, Waystones_1.16.5-7.4.0.jar, architectury-1.32.66.jar, journeymap-1.16.5-5.7.1.jar, ImmersiveEngineering-1.16.5-5.0.6-141.jar, ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar, TrackAPI-1.16.4-forge-1.2.1.jar, Borealis-1.1.6.jar, UniversalModCore-1.16.4-forge-1.0.1.jar, instantbuildings-1-16-5-1-0-1.jar, buildinggadgets-1.16.5-3.8.0.jar, cc-tweaked-1.16.4-1.95.3.jar, movingelevators-1.2.34-mc1.16.5.jar, ImmersivePetroleum-1.16.5-3.3.0-11.jar, immersiveposts-1.16.5-4.1.0.jar, simpleplanes-1.16.5-4.6.0.jar, jeiintegration_1.16.5-7.0.1.15.jar, worldedit-mod-7.2.5-dist.jar, spIIfix.jar, FarmersDelight-1.16.5-0.5.4.jar, immersivecooking-1.0.1.jar, MushroomFoxMod_V.4.2_1.16.5.jar, jei-1.16.5-7.7.1.150.jar, abnormals_core-1.16.5-3.3.0.jar, personality-1.16.5-1.0.3.jar, upgrade_aquatic-1.16.5-3.1.2.jar, Wilds+Version+2.8.jar, extraboats-1.16.5-2.1.1.jar, autumnity-1.16.5-2.1.2.jar, configured-1.5.3-1.16.5.jar, YungsApi-1.16.4-Forge-13.jar, backpacked-2.0.3-mc1.16.5.jar, environmental-1.16.5-1.1.1.jar, vehicle-mod-0.45.2-1.16.3.jar, bamboo_blocks-1.16.5-3.0.1.jar, cfm-7.0.0pre22-1.16.3.jar, ilikewood-1.16.5-6.3.0.0.jar, TravelersTitles-1.16.4-1.5.jar, exlinefurniture-1.16.5-2.0.jar, TConstruct-1.16.5-3.3.4.335.jar, webasemod-1.16.5-1.3.1.jar, Mantle-1.16.5-1.6.157.jar, catalogue-1.6.1-1.16.5.jar, UnionLib-1.16.5-3.3.7.jar, betteranimalsplus-1.16.5-11.0.8-forge.jar, curios-forge-1.16.5-4.0.7.0.jar, Survive-1.16.5-3.4.8.jar
+[30Nov2023 01:36:50.352] [ForkJoinPool.commonPool-worker-15/INFO] [survive/]: Found entity temperature modifier for the entity minecraft:fireball
+[30Nov2023 01:36:50.353] [ForkJoinPool.commonPool-worker-15/INFO] [survive/]: Found entity temperature modifier for the entity minecraft:small_fireball
+[30Nov2023 01:36:50.358] [ForkJoinPool.commonPool-worker-6/INFO] [survive/]: Found biome temperature modifier for the biome minecraft:birch_forest
+[30Nov2023 01:36:50.367] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:chainmail_boots
+[30Nov2023 01:36:50.367] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:chainmail_chestplate
+[30Nov2023 01:36:50.367] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:chainmail_helmet
+[30Nov2023 01:36:50.367] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:chainmail_leggings
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:diamond_boots
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:diamond_chestplate
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:diamond_helmet
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:diamond_leggings
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:golden_boots
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:golden_chestplate
+[30Nov2023 01:36:50.368] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:golden_helmet
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:golden_leggings
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:iron_boots
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:iron_chestplate
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:iron_helmet
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:iron_leggings
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:leather_boots
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:leather_chestplate
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:leather_helmet
+[30Nov2023 01:36:50.369] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:leather_leggings
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:netherite_boots
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:netherite_chestplate
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:netherite_helmet
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:netherite_leggings
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:stiffened_honey_boots
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:stiffened_honey_chestplate
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:stiffened_honey_helmet
+[30Nov2023 01:36:50.370] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:stiffened_honey_leggings
+[30Nov2023 01:36:50.371] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item minecraft:turtle_helmet
+[30Nov2023 01:36:50.371] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:wool_boots
+[30Nov2023 01:36:50.371] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:wool_hat
+[30Nov2023 01:36:50.371] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:wool_jacket
+[30Nov2023 01:36:50.371] [ForkJoinPool.commonPool-worker-4/INFO] [survive/]: Found armor modifier for the item survive:wool_pants
+[30Nov2023 01:36:50.374] [ForkJoinPool.commonPool-worker-11/INFO] [survive/]: Found potion drink data for minecraft:water
+[30Nov2023 01:36:50.374] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:beetroot_soup
+[30Nov2023 01:36:50.374] [ForkJoinPool.commonPool-worker-2/WARN] [survive/]: No such item exists with the id survive:example_consumable_item!
+[30Nov2023 01:36:50.374] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:honey_bottle
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:melon_slice
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:poisonous_potato
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:potion
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:pufferfish
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:pumpkin_pie
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for survive:purified_water_bottle
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for survive:purified_water_bowl
+[30Nov2023 01:36:50.375] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for survive:purified_water_canteen
+[30Nov2023 01:36:50.376] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:rotten_flesh
+[30Nov2023 01:36:50.376] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for survive:sugar_water_bottle
+[30Nov2023 01:36:50.376] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for minecraft:sweet_berries
+[30Nov2023 01:36:50.376] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for survive:water_bowl
+[30Nov2023 01:36:50.376] [ForkJoinPool.commonPool-worker-2/INFO] [survive/]: Found item consummable data for survive:water_canteen
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:blast_furnace
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:blue_ice
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:campfire
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:fire
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:furnace
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:ice
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:lantern
+[30Nov2023 01:36:50.385] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:lava
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:magma_block
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:packed_ice
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:smoker
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:snow
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:snow_block
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:soul_fire
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:soul_lantern
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:soul_torch
+[30Nov2023 01:36:50.386] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:soul_wall_torch
+[30Nov2023 01:36:50.387] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:torch
+[30Nov2023 01:36:50.387] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:wall_torch
+[30Nov2023 01:36:50.387] [ForkJoinPool.commonPool-worker-13/INFO] [survive/]: Found block temperature modifier for the item minecraft:water
+[30Nov2023 01:36:51.656] [Worker-Main-14/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
+[30Nov2023 01:36:51.694] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_white_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.719] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe immersiverailroading:item_switch_key-84006989511034654597 as it's serializer returned null
+[30Nov2023 01:36:51.726] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe immersiverailroading:item_manual55986923111034654597 as it's serializer returned null
+[30Nov2023 01:36:51.728] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe immersiverailroading:item_large_wrench212634435111034654597 as it's serializer returned null
+[30Nov2023 01:36:51.737] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_light_gray_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.763] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_cyan_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.766] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_gray_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.778] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe cfm:craft_sofa
+com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
+	at com.mrcrayfish.vehicle.crafting.VehicleRecipeSerializer.read(VehicleRecipeSerializer.java:48) ~[vehicle:0.45.2-1.16.3]
+	at com.mrcrayfish.vehicle.crafting.VehicleRecipeSerializer.func_199425_a_(VehicleRecipeSerializer.java:23) ~[vehicle:0.45.2-1.16.3]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.778] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe immersiverailroading:item_rail181945806511034654597 as it's serializer returned null
+[30Nov2023 01:36:51.784] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_orange_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.788] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_brown_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.802] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe vehicle:boost_ramp
+com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.806] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_yellow_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.813] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe immersiverailroading:item_hook-11685643911034654597 as it's serializer returned null
+[30Nov2023 01:36:51.819] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe vehicle:steep_boost_ramp
+com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.830] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_black_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.832] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[30Nov2023 01:36:51.841] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_purple_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.848] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_lime_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.860] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_light_blue_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.865] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe vehicle:boost_pad
+com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.870] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_red_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.871] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_green_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.877] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_blue_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.890] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_pink_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.891] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:acacia_chair_magenta_recipe2
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:acaia_chair'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.892] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:oak_bird_house_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_bird_house'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.913] [Worker-Main-14/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe exlinefurniture:spruce_chair_purple_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:light_purplet'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:51.918] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 60 recipes
+[30Nov2023 01:36:51.969] [Worker-Main-14/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 11 sets of modifiers
+[30Nov2023 01:36:52.516] [Worker-Main-14/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table exlinefurniture:blocks/oak_dog_house
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'exlinefurniture:oak_dog_house'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:881) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1289) ~[?:1.8.0_212]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:52.560] [Worker-Main-14/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table exlinefurniture:blocks/oak_bird_house
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'exlinefurniture:oak_bird_house'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_212]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:881) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1289) ~[?:1.8.0_212]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:561) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:635) ~[?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_212]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:529) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:653) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595) [?:1.8.0_212]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1582) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_212]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_212]
+[30Nov2023 01:36:52.896] [Worker-Main-14/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3773 advancements
+[30Nov2023 01:36:52.901] [Worker-Main-14/INFO] [immersivepetroleum/]: Loading Distillation Recipes.
+[30Nov2023 01:36:52.903] [Worker-Main-14/INFO] [immersivepetroleum/]: Loading Reservoirs.
+[30Nov2023 01:36:52.903] [Worker-Main-14/INFO] [immersivepetroleum/]: Loading Coker-Unit Recipes.
+[30Nov2023 01:36:52.904] [Worker-Main-14/INFO] [immersivepetroleum/]: Loading Sulfur Recovery Recipes.
+[30Nov2023 01:36:53.041] [Worker-Main-14/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 126 milliseconds
+[30Nov2023 01:36:53.051] [Worker-Main-14/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 55 Slabfish Types
+[30Nov2023 01:36:53.052] [Worker-Main-14/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 16 Sweater Types
+[30Nov2023 01:36:53.052] [Worker-Main-14/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 19 Backpack Types
+[30Nov2023 01:36:53.058] [Worker-Main-14/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 58 materials in 5.345894 ms
+[30Nov2023 01:36:53.098] [Worker-Main-14/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 128 stats loaded for 67 materials in 39.005405 ms
+[30Nov2023 01:36:53.132] [Worker-Main-14/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 56 traits loaded for 67 materials in 33.93636 ms
+[30Nov2023 01:36:53.151] [Worker-Main-14/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 16.800568 ms
+[30Nov2023 01:36:53.177] [Worker-Main-14/INFO] [immersiveengineering/]: Recipes for potions: minecraft:poison, upgrade_aquatic:insomnia, minecraft:slowness, minecraft:water_breathing, minecraft:long_night_vision, minecraft:long_invisibility, minecraft:strong_leaping, minecraft:fire_resistance, autumnity:extension, minecraft:slow_falling, minecraft:long_leaping, upgrade_aquatic:vibing_long, upgrade_aquatic:repellence, minecraft:long_regeneration, minecraft:long_fire_resistance, survive:strong_heat_resistance, minecraft:strength, minecraft:turtle_master, minecraft:long_swiftness, minecraft:thick, minecraft:awkward, minecraft:swiftness, survive:strong_cold_resistance, minecraft:invisibility, survive:cold_resistance, minecraft:mundane, upgrade_aquatic:vibing, minecraft:water, minecraft:long_slowness, upgrade_aquatic:repellence_long, minecraft:harming, minecraft:long_slow_falling, upgrade_aquatic:insomnia_strong, minecraft:strong_slowness, minecraft:strong_regeneration, minecraft:leaping, minecraft:long_turtle_master, survive:long_heat_resistance, minecraft:strong_healing, minecraft:long_poison, upgrade_aquatic:restfulness, environmental:vitality_strong, minecraft:long_strength, upgrade_aquatic:vibing_strong, environmental:vitality, minecraft:strong_turtle_master, survive:heat_resistance, minecraft:strong_swiftness, minecraft:long_water_breathing, minecraft:regeneration, minecraft:weakness, minecraft:healing, upgrade_aquatic:restfulness_strong, minecraft:strong_strength, survive:long_cold_resistance, minecraft:strong_poison, minecraft:night_vision, minecraft:strong_harming, minecraft:long_weakness, upgrade_aquatic:repellence_strong
+[30Nov2023 01:37:01.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[30Nov2023 01:37:01.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Nov2023 01:37:01.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: CREATIVE
+[30Nov2023 01:37:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Nov2023 01:37:01.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Nov2023 01:37:01.698] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[30Nov2023 01:37:01.897] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2023 01:37:01.898] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2023 01:37:01.898] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2023 01:37:01.904] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[30Nov2023 01:37:01.904] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[30Nov2023 01:37:01.904] [Thread-1/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[30Nov2023 01:37:01.904] [Thread-1/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[30Nov2023 01:37:01.905] [Thread-1/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
+[30Nov2023 01:37:01.905] [Thread-1/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[30Nov2023 01:37:02.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Nov2023 01:37:02.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Nov2023 01:37:03.755] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2023 01:37:03.755] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2023 01:37:03.756] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2023 01:37:04.291] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1612 ms
+[30Nov2023 01:37:04.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.408s)! For help, type "help"
+[30Nov2023 01:37:04.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[30Nov2023 01:37:04.300] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener started
+[30Nov2023 01:37:04.300] [Server thread/INFO] [net.minecraft.network.rcon.MainThread/]: RCON running on 0.0.0.0:25575
+[30Nov2023 01:37:05.273] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2e2d86cf]
+[30Nov2023 01:37:05.727] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[30Nov2023 01:37:06.236] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[30Nov2023 03:27:06.272] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /127.0.0.1 started
+[30Nov2023 03:27:06.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Stopping the server]
+[30Nov2023 03:27:06.283] [RCON Client /127.0.0.1 #2/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /127.0.0.1 shutting down
+[30Nov2023 03:27:06.325] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[30Nov2023 03:27:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Nov2023 03:27:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Nov2023 03:27:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Nov2023 03:27:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:overworld
+[30Nov2023 03:27:06.654] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2023 03:27:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_nether
+[30Nov2023 03:27:06.655] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2023 03:27:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/minecraft:the_end
+[30Nov2023 03:27:06.656] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2023 03:27:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/mushroom_fox:forgotten_keep
+[30Nov2023 03:27:06.656] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
+[30Nov2023 03:27:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars_orbit
+[30Nov2023 03:27:06.656] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[30Nov2023 03:27:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury
+[30Nov2023 03:27:06.657] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[30Nov2023 03:27:06.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus_orbit
+[30Nov2023 03:27:06.657] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[30Nov2023 03:27:06.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mars
+[30Nov2023 03:27:06.657] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[30Nov2023 03:27:06.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:overworld_orbit
+[30Nov2023 03:27:06.658] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[30Nov2023 03:27:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:venus
+[30Nov2023 03:27:06.658] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[30Nov2023 03:27:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon_orbit
+[30Nov2023 03:27:06.659] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[30Nov2023 03:27:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:moon
+[30Nov2023 03:27:06.659] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[30Nov2023 03:27:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bash World]'/boss_tools:mercury_orbit
+[30Nov2023 03:27:06.660] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[30Nov2023 03:27:06.686] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2023 03:27:06.688] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2023 03:27:06.688] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2023 03:27:06.688] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (forgotten_keep): All chunks are saved
+[30Nov2023 03:27:06.688] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[30Nov2023 03:27:06.688] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[30Nov2023 03:27:06.688] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[30Nov2023 03:27:06.689] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[30Nov2023 03:27:06.689] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[30Nov2023 03:27:06.689] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[30Nov2023 03:27:06.689] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[30Nov2023 03:27:06.689] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[30Nov2023 03:27:06.689] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[30Nov2023 03:27:06.691] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2023 03:27:06.698] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
