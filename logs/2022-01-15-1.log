@@ -1,0 +1,67 @@
+[06:05:19] [User Authenticator #1/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[06:05:22] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5cc90a1b
+[06:05:22] [Server thread/INFO]: BashTag3[/192.168.0.10:51592] logged in with entity id 190 at (-559.5290961510898, 56.0, -1583.699999988079)
+[06:05:22] [Server thread/INFO]: BashTag3 joined the game
+[06:14:51] [Server thread/INFO]: Villager VillagerEntity['Villager'/677, l='ServerLevel[Bash World]', x=-480.52, y=64.00, z=-833.48] died, message: 'Villager hit the ground too hard'
+[06:17:13] [User Authenticator #2/INFO]: UUID of player BashTag1 is f099d823-24b8-4bc9-a1bf-5b8203b20fd9
+[06:17:19] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@367036aa
+[06:17:19] [Server thread/INFO]: BashTag1[/192.168.0.11:64091] logged in with entity id 1294 at (-536.3000000119209, 76.0, -82.30000001192093)
+[06:17:19] [Server thread/INFO]: BashTag1 joined the game
+[06:17:43] [Server thread/INFO]: [BashTag1: Teleported BashTag1 to BashTag1]
+[06:17:50] [Server thread/INFO]: [BashTag1: Teleported BashTag1 to BashTag3]
+[06:18:38] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[06:19:51] [Server thread/INFO]: Villager VillagerEntity['Villager'/566, l='ServerLevel[Bash World]', x=-487.15, y=64.50, z=-834.26] died, message: 'Villager hit the ground too hard'
+[06:22:40] [Server thread/INFO]: Villager VillagerEntity['Villager'/591, l='ServerLevel[Bash World]', x=-486.33, y=64.50, z=-833.30] died, message: 'Villager hit the ground too hard'
+[06:23:02] [Server thread/INFO]: Villager VillagerEntity['Villager'/581, l='ServerLevel[Bash World]', x=-481.22, y=64.00, z=-833.53] died, message: 'Villager hit the ground too hard'
+[06:34:47] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
+[06:35:04] [Server thread/INFO]: [BashTag1: Teleported BashTag1 to BashTag3]
+[06:36:59] [Server thread/INFO]: [BashTag1: Set own game mode to Survival Mode]
+[06:39:47] [Server thread/INFO]: [BashTag1: Set the time to 1000]
+[06:45:25] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[06:50:16] [Server thread/INFO]: [BashTag3: Set the time to 1000]
+[07:11:12] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
+[07:16:33] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[07:17:56] [Server thread/INFO]: BashTag3 has made the advancement [Take Aim]
+[07:19:13] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
+[07:19:54] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[07:21:44] [Server thread/INFO]: [BashTag1: Set own game mode to Creative Mode]
+[07:23:45] [Server thread/INFO]: [BashTag1: Set own game mode to Survival Mode]
+[07:28:25] [Server thread/WARN]: Fetching packet for removed entity ItemEntity['Air'/5552, l='ServerLevel[Bash World]', x=-517.42, y=70.00, z=-1274.11]
+[07:33:24] [Server thread/WARN]: BashTag3 moved too quickly! 0.0,-10.468469440538584,0.0
+[07:40:53] [Server thread/INFO]: [BashTag3: Set the time to 1000]
+[07:41:09] [Server thread/INFO]: [BashTag1: Set the weather to clear]
+[07:42:10] [Server thread/INFO]: [BashTag3: Set the weather to clear]
+[07:45:34] [Server thread/INFO]: [BashTag1: Teleported BashTag3 to BashTag1]
+[07:45:34] [Server thread/WARN]: BashTag3 moved too quickly! -188.04085664132276,-25.37547788642449,169.21174270022925
+[07:50:06] [Server thread/INFO]: [BashTag3: Set the time to 1000]
+[07:54:36] [Server thread/INFO]: [BashTag1: Teleported BashTag3 to BashTag1]
+[07:54:36] [Server thread/WARN]: BashTag3 moved too quickly! -197.82147361257148,-37.565554540771075,273.1285939973644
+[08:00:08] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
+[08:00:44] [Server thread/INFO]: BashTag1 lost connection: Timed out
+[08:00:44] [Server thread/INFO]: BashTag1 left the game
+[08:00:44] [Server thread/WARN]: handleDisconnection() called twice
+[08:00:48] [Server thread/INFO]: BashTag3 lost connection: Timed out
+[08:00:48] [Server thread/INFO]: BashTag3 left the game
+[08:02:57] [User Authenticator #3/INFO]: UUID of player BashTag1 is f099d823-24b8-4bc9-a1bf-5b8203b20fd9
+[08:03:03] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1422b6aa
+[08:03:03] [Server thread/INFO]: BashTag1[/192.168.0.11:65534] logged in with entity id 10919 at (-1288.4267955402547, 66.0, -614.5914121341117)
+[08:03:03] [Server thread/INFO]: BashTag1 joined the game
+[08:03:06] [User Authenticator #4/INFO]: UUID of player BashTag3 is 03cf92d8-97c3-44e7-97e8-b8dcb6cdca61
+[08:03:08] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f8bc62e
+[08:03:08] [Server thread/INFO]: BashTag3[/192.168.0.10:51990] logged in with entity id 11099 at (-1290.3377689150448, 66.0, -613.1679675809758)
+[08:03:08] [Server thread/INFO]: BashTag3 joined the game
+[08:05:07] [Server thread/INFO]: <BashTag3> e
+[08:05:38] [Server thread/INFO]: [BashTag1: Gamerule keepInventory is now set to: true]
+[08:06:08] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[08:09:04] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
+[08:15:05] [Server thread/INFO]: BashTag1 has made the advancement [Eye Spy]
+[08:15:17] [Server thread/INFO]: BashTag3 has made the advancement [Eye Spy]
+[08:20:17] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[08:23:16] [Server thread/INFO]: BashTag3 has made the advancement [Isn't It Iron Pick]
+[08:29:06] [Server thread/INFO]: [BashTag3: Set own game mode to Survival Mode]
+[08:31:14] [Server thread/INFO]: [BashTag3: Set own game mode to Creative Mode]
+[08:41:20] [Server thread/INFO]: [BashTag1: Set the time to 13000]
+[08:49:05] [Server thread/INFO]: BashTag3 lost connection: Disconnected
+[08:49:05] [Server thread/INFO]: BashTag3 left the game
+[08:55:46] [Server thread/INFO]: BashTag1 lost connection: Disconnected
+[08:55:46] [Server thread/INFO]: BashTag1 left the game

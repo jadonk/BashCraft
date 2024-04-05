@@ -1,0 +1,113 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 3/26/21, 4:33 PM
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.fml.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:85) ~[forge:?] {re:classloading}
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:51) ~[forge:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:51) ~[forge-1.16.5-36.1.0.jar:36.1] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.0.9.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.0.9.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.0.9.jar:?] {}
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63) [forge-1.16.5-36.1.0.jar:?] {}
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60) [forge-1.16.5-36.1.0.jar:?] {}
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57) [forge-1.16.5-36.1.0.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Stacktrace:
+	at me.shedaniel.architectury.event.forge.EventHandlerImpl.lambda$registerCommon$1(EventHandlerImpl.java:37) ~[architectury:?] {re:classloading,pl:runtimedistcleaner:A}
+-- MOD architectury --
+Details:
+	Mod File: architectury-1.8.130-forge.jar
+	Failure message: Architectury (architectury) has failed to load correctly
+		java.lang.IllegalStateException: Where is architectury?
+	Mod Version: 1.8.130
+	Mod Issue URL: https://github.com/shedaniel/architectury/issues
+	Exception message: java.lang.IllegalStateException: Where is architectury?
+Stacktrace:
+	at me.shedaniel.architectury.event.forge.EventHandlerImpl.lambda$registerCommon$1(EventHandlerImpl.java:37) ~[architectury:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:?] {}
+	at me.shedaniel.architectury.event.forge.EventHandlerImpl.registerCommon(EventHandlerImpl.java:37) ~[architectury:?] {re:classloading,pl:runtimedistcleaner:A}
+	at me.shedaniel.architectury.event.EventHandler.registerCommon(EventHandler.java) ~[architectury:?] {re:classloading,pl:runtimedistcleaner:A}
+	at me.shedaniel.architectury.event.EventHandler.init(EventHandler.java:41) ~[architectury:?] {re:classloading,pl:runtimedistcleaner:A}
+	at me.shedaniel.architectury.forge.ArchitecturyForge.<init>(ArchitecturyForge.java:33) ~[architectury:?] {re:classloading}
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?] {re:classloading,re:classloading,re:classloading}
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?] {re:classloading,re:classloading,re:classloading}
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?] {re:classloading,re:classloading,re:classloading}
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?] {}
+	at java.lang.Class.newInstance(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:81) ~[forge:36.1] {re:classloading}
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:120) ~[forge:?] {re:classloading}
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Linux (amd64) version 5.8.0-44-generic
+	Java Version: 11.0.10, AdoptOpenJDK
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), AdoptOpenJDK
+	Memory: 693399552 bytes (661 MB) / 1073741824 bytes (1024 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 3 total; -XX:+UseG1GC -Xms1G -Xmx1G
+	ModLauncher: 8.0.9+86+master.3cf110c
+	ModLauncher launch target: fmlserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.2.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.1.0.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.1.0.jar runtime_enum_extender PLUGINSERVICE 
+		/forge-1.16.5-36.1.0.jar capability_inject_definalize PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.1.0.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.2.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.1.0.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.1
+	Forge: net.minecraftforge:36.1.0
+	FML Language Providers: 
+		javafml@36.1
+		minecraft@1
+	Mod List: 
+		forge-1.16.5-36.1.0-server.jar                    |Minecraft                     |minecraft                     |1.16.5              |CREATE_REG|NOSIGNATURE
+		rhino-1.7.13-build.14.jar                         |Rhino                         |rhino                         |1.7.13-build.14     |CREATE_REG|NOSIGNATURE
+		obfuscate-0.6.0-1.16.3.jar                        |Obfuscate                     |obfuscate                     |0.6.0               |CREATE_REG|e1:59:1a:56:ec:97:b3:d0:b3:4b:25:06:1f:83:b0:f4:fd:0c:24:e3:6d:ea:94:b1:9f:22:b0:38:13:60:88:ea
+		ImmersiveEngineering-1.16.5-4.2.4-134.jar         |Immersive Engineering         |immersiveengineering          |1.16.5-4.2.4-134    |CREATE_REG|44:39:94:cf:1d:8c:be:3c:7f:a9:ee:f4:1e:63:a5:ac:61:f9:c2:87:d5:5b:d9:d6:8c:b5:3e:96:5d:8e:3f:b7
+		BiomesOPlenty-1.16.4-13.0.0.431-universal.jar     |Biomes O' Plenty              |biomesoplenty                 |1.16.4-13.0.0.431   |CREATE_REG|NOSIGNATURE
+		architectury-1.8.130-forge.jar                    |Architectury                  |architectury                  |1.8.130             |ERROR     |NOSIGNATURE
+		kubejs-1605.3.6-build.172-forge.jar               |KubeJS                        |kubejs                        |1605.3.6-build.172  |CREATE_REG|NOSIGNATURE
+		ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar     |Immersive Railroading         |immersiverailroading          |1.16.4-forge-1.8.0  |CREATE_REG|NOSIGNATURE
+		reusable_rockets-1.16.5-1.0.1.jar                 |Reusable Rockets              |reusable_rockets              |1.16.5-1.0.1        |CREATE_REG|NOSIGNATURE
+		Dronecraft2_0.2.3.jar                             |DRONECRAFT 2                  |dronecraft_2                  |0.0.1               |CREATE_REG|NOSIGNATURE
+		kubejs-immersive-engineering-1604.1.0.12.jar      |KubeJS Immersive Engineering  |kubejs_immersive_engineering  |1604.1.0.12         |CREATE_REG|NOSIGNATURE
+		TrackAPI-1.16.4-forge-1.2.1.jar                   |TrackAPI                      |trackapi                      |1.2                 |CREATE_REG|NOSIGNATURE
+		forge-1.16.5-36.1.0-universal.jar                 |Forge                         |forge                         |36.1.0              |CREATE_REG|22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		kubejs-ui-1605.1.1-build.19-forge.jar             |KubeJS UI                     |kubejs_ui                     |1605.1.1-build.19   |CREATE_REG|NOSIGNATURE
+		Space-Bosstools-1.16.4-4.6.jar                    |Space-Bosstools               |boss_tools                    |4.4                 |CREATE_REG|NOSIGNATURE
+		Borealis-1.1.6.jar                                |Borealis                      |borealis                      |1.1.6               |CREATE_REG|NOSIGNATURE
+		KubeJSBorealis-1.0.8.jar                          |KubeJSBorealis                |kubejsborealis                |1.0.8               |CREATE_REG|NOSIGNATURE
+		Waystones_1.16.5-7.4.0.jar                        |Waystones                     |waystones                     |7.4.0               |CREATE_REG|NOSIGNATURE
+		journeymap-1.16.5-5.7.1.jar                       |Journeymap                    |journeymap                    |5.7.1               |CREATE_REG|NOSIGNATURE
+		UniversalModCore-1.16.4-forge-1.0.1.jar           |Universal Mod Core            |universalmodcore              |1.0.1               |CREATE_REG|NOSIGNATURE
+	Crash Report UUID: 63c1e261-7918-4c73-a35e-1fa677a232a4
