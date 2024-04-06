@@ -3511,6 +3511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-04-05 23:19:45 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_spruce_shovel": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
