@@ -1408,6 +1408,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2024-04-26 23:26:10 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_oak_sword": {
     "criteria": {
       "has_material": "2022-02-25 17:52:29 +0000"
@@ -1873,6 +1879,12 @@
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2022-02-12 02:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-04-26 23:26:10 +0000"
     },
     "done": true
   },
@@ -3484,6 +3496,12 @@
   "ilikewood:recipes/decorations/white_warped_bed_from_brown_warped_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2024-04-26 23:26:10 +0000"
     },
     "done": true
   },
@@ -8393,6 +8411,12 @@
   "cfm:recipes/cfm/crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2023-11-12 02:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-04-26 23:26:10 +0000"
     },
     "done": true
   },
