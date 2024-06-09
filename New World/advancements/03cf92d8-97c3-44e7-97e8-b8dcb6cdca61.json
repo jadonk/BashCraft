@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2022-07-29 22:39:37 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2022-02-12 16:13:45 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/building_blocks/birch_panels_slab_from_birch_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -533,6 +545,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/netherite_jungle_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
@@ -641,6 +659,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/yellow_spruce_bed_from_white_spruce_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_jungle_axe": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
@@ -683,6 +707,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-06-08 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/spruce_post_from_spruce_log_sawmilling": {
     "criteria": {
       "has_log": "2022-06-11 03:19:59 +0000"
@@ -692,6 +734,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_chest": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
     },
     "done": true
   },
@@ -806,6 +854,12 @@
   "ilikewood:recipes/decorations/white_birch_bed_from_green_birch_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -1276,6 +1330,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_planks": "2022-02-25 17:52:29 +0000"
@@ -1546,6 +1606,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "boarhead_dark_brown": "2024-06-08 21:24:20 +0000"
+    },
+    "done": false
+  },
   "ilikewood:recipes/tools/netherite_crimson_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
@@ -1627,6 +1693,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-09-11 02:10:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_jungle_bed_from_white_jungle_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -1780,11 +1852,23 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head15": "2024-06-08 21:24:20 +0000"
+    },
+    "done": false
+  },
   "tconstruct:smeltery/melter": {
     "criteria": {
       "seared_table": "2023-11-04 02:47:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
@@ -1807,6 +1891,12 @@
   "ilikewood:recipes/decorations/white_oak_bed_from_magenta_oak_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -2194,6 +2284,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-06-08 20:36:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2022-02-25 18:10:38 +0000"
@@ -2335,6 +2431,12 @@
   "cfm:recipes/cfm/stone_chair": {
     "criteria": {
       "has_planks": "2022-02-25 17:52:29 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_oak_bed_from_white_oak_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -2506,6 +2608,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2022-02-12 02:33:28 +0000"
@@ -2527,6 +2635,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2021-09-11 11:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-06-07 18:43:03 +0000"
     },
     "done": true
   },
@@ -2665,6 +2779,12 @@
   "ilikewood:recipes/decorations/white_crimson_bed_from_red_crimson_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_crate": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -2924,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/white_acacia_bed": {
     "criteria": {
       "has_wool": "2022-06-11 02:17:49 +0000"
@@ -3118,6 +3244,12 @@
   "cfm:recipes/cfm/granite_cabinet": {
     "criteria": {
       "has_planks": "2022-07-29 23:34:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
+    "criteria": {
+      "has_item": "2024-06-08 20:36:56 +0000"
     },
     "done": true
   },
@@ -3334,6 +3466,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-02-12 16:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -3655,6 +3793,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2022-06-11 04:07:06 +0000"
@@ -3670,6 +3814,12 @@
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2022-09-10 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_birch_bed_from_white_birch_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -3871,6 +4021,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-06-08 20:28:24 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_crimson_hoe": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
@@ -3927,6 +4083,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2021-09-11 01:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -4455,6 +4617,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 16:48:46 +0000"
@@ -4689,6 +4857,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_cabinet": {
     "criteria": {
       "has_planks": "2023-10-28 00:15:52 +0000"
@@ -4773,6 +4947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/white_jungle_bed_from_orange_jungle_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
@@ -4788,6 +4968,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_warped_bed_from_white_warped_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -4857,6 +5043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2024-06-08 21:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2023-11-24 23:56:45 +0000"
@@ -4920,6 +5112,12 @@
   "immersivecooking:recipes/immersivecooking/acacia_diorite_pantry": {
     "criteria": {
       "has_polished_diorite": "2022-03-05 02:02:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/building_blocks/birch_panels_stairs_from_birch_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -5097,6 +5295,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2022-02-12 15:50:38 +0000"
@@ -5223,6 +5427,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2024-06-08 21:12:57 +0000"
+    },
+    "done": true
+  },
   "simpleplanes:recipes/plane": {
     "criteria": {
       "in_fire": "2022-02-12 04:23:19 +0000"
@@ -5340,6 +5550,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2022-02-26 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head15": "2024-06-08 21:24:20 +0000"
     },
     "done": true
   },
@@ -5568,6 +5784,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-06-11 04:07:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -5967,6 +6189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-06-08 21:37:36 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_horizontal_from_slab": {
     "criteria": {
       "has_treated_wood_horizontal": "2022-06-11 01:52:14 +0000"
@@ -6240,6 +6468,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2022-02-25 18:13:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },
@@ -6543,6 +6777,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/part_builder": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_acacia_shovel": {
     "criteria": {
       "has_material": "2022-02-25 17:52:29 +0000"
@@ -6831,6 +7071,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "snowy_coniferous_forest": "2021-09-04 02:11:12 +0000"
@@ -7083,6 +7329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourished": "2022-02-26 22:17:52 +0000"
@@ -7128,6 +7380,12 @@
   "ilikewood:recipes/tools/diamond_jungle_sword": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-06-08 20:51:23 +0000"
     },
     "done": true
   },
@@ -7227,9 +7485,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-02-25 18:50:49 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_crimson_bed_from_white_crimson_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -7434,6 +7704,12 @@
   "cfm:recipes/cfm/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2022-06-11 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-06-06 14:17:48 +0000"
     },
     "done": true
   },
@@ -7797,6 +8073,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2022-04-23 00:43:17 +0000"
@@ -7920,6 +8202,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/speedloader": {
     "criteria": {
       "has_steel_ingot": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_acacia_bed_from_white_acacia_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -8254,6 +8542,7 @@
       "minecraft:snowy_taiga_hills": "2022-10-09 04:14:30 +0000",
       "autumnity:orange_spotted_dark_forest": "2023-03-18 03:45:53 +0000",
       "environmental:mushroom_marsh": "2023-11-26 17:24:22 +0000",
+      "autumnity:pumpkin_fields": "2024-06-07 16:54:17 +0000",
       "minecraft:cold_ocean": "2021-09-10 23:55:43 +0000",
       "environmental:blossom_highlands": "2023-05-06 02:44:43 +0000",
       "environmental:blossom_valleys": "2023-05-06 02:44:36 +0000",
@@ -8444,6 +8733,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/building_blocks/birch_panels_from_birch_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "netherite_knife": "2022-02-26 20:57:57 +0000"
@@ -8594,6 +8889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 16:48:46 +0000"
@@ -8699,7 +9000,9 @@
       "cooked_chicken": "2022-12-09 21:16:16 +0000",
       "rabbit_stew": "2022-04-23 00:33:31 +0000",
       "environmental:cooked_venison": "2023-10-28 00:40:20 +0000",
+      "cooked_mutton": "2024-06-08 20:51:30 +0000",
       "apple": "2022-04-16 00:29:04 +0000",
+      "cooked_cod": "2024-06-08 21:32:00 +0000",
       "bread": "2022-01-30 01:27:38 +0000",
       "golden_apple": "2023-11-04 04:18:13 +0000",
       "cooked_rabbit": "2023-01-28 04:38:29 +0000",
@@ -8851,6 +9154,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/misc/birch_stick_from_birch_planks_sawmilling": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/netherite_acacia_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
@@ -8902,6 +9211,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2021-10-09 02:41:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-06-08 21:16:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2024-06-08 21:12:39 +0000"
     },
     "done": true
   },
@@ -9034,6 +9355,12 @@
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2022-10-16 21:33:05 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/yellow_dark_oak_bed_from_white_dark_oak_bed": {
+    "criteria": {
+      "has_dye": "2024-06-08 21:37:36 +0000"
     },
     "done": true
   },
@@ -9226,6 +9553,12 @@
   "ilikewood:recipes/tools/golden_oak_shovel": {
     "criteria": {
       "has_material": "2022-02-25 18:17:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-06-06 14:23:41 +0000"
     },
     "done": true
   },

@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/red_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-11 16:31:38 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/brown_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -176,6 +188,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-09-11 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/magenta_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -374,6 +392,12 @@
   "cfm:recipes/cfm/warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/yellow_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -737,6 +761,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/lime_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-23 13:49:56 +0000"
@@ -884,6 +914,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2024-06-08 19:02:48 +0000"
     },
     "done": true
   },
@@ -1100,6 +1136,12 @@
   "ilikewood:recipes/decorations/crimson_torch": {
     "criteria": {
       "has_coal": "2022-02-27 17:55:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-06-08 21:38:46 +0000"
     },
     "done": true
   },
@@ -1523,6 +1565,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/blue_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_crimson_pickaxe": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
@@ -1754,6 +1802,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2023-01-28 04:58:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/black_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -1993,6 +2047,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-09-12 12:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-06-08 18:55:42 +0000"
     },
     "done": true
   },
@@ -2467,6 +2527,12 @@
   "immersiverailroading:recipes/immersiverailroading.main/item_radio_control_card52037455611": {
     "criteria": {
       "hasingotIron4": "2021-09-11 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/cyan_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -3070,6 +3136,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/light_gray_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 16:51:13 +0000"
@@ -3307,6 +3379,12 @@
   "cfm:recipes/cfm/black_picket_gate": {
     "criteria": {
       "has_gate": "2022-04-09 00:28:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/pink_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -3625,6 +3703,12 @@
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_log": "2022-06-11 03:28:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-06-08 21:18:59 +0000"
     },
     "done": true
   },
@@ -4012,6 +4096,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-06-08 20:49:32 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver": {
     "criteria": {
       "has_ore_silver": "2021-09-11 16:18:40 +0000"
@@ -4351,6 +4441,12 @@
   "ilikewood:recipes/building_blocks/spruce_panels_from_spruce_log_sawmilling": {
     "criteria": {
       "has_log": "2022-06-11 03:20:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/orange_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -4927,7 +5023,8 @@
       "minecraft:zombified_piglin": "2022-02-26 02:09:02 +0000",
       "minecraft:husk": "2022-02-25 18:39:27 +0000",
       "minecraft:cave_spider": "2022-06-11 02:51:41 +0000",
-      "minecraft:stray": "2022-06-11 02:49:18 +0000"
+      "minecraft:stray": "2022-06-11 02:49:18 +0000",
+      "minecraft:zombie": "2024-06-08 20:49:48 +0000"
     },
     "done": false
   },
@@ -5171,6 +5268,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
+    "criteria": {
+      "has_item": "2024-06-08 21:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2022-04-23 00:43:34 +0000"
@@ -5246,6 +5349,12 @@
   "cfm:recipes/cfm/dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2022-02-27 17:50:01 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/white_washcloth": {
+    "criteria": {
+      "has_string": "2024-06-08 20:50:22 +0000"
     },
     "done": true
   },
@@ -5414,6 +5523,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-09-11 03:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-06-08 21:00:09 +0000"
     },
     "done": true
   },
@@ -5615,6 +5730,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_dark_oak_axe": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
@@ -5738,6 +5859,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-09-11 03:11:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/clear_glass_pane": {
+    "criteria": {
+      "has_block": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -6139,6 +6266,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/white_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
@@ -6469,6 +6602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-06-08 18:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2022-01-30 00:35:56 +0000"
@@ -6673,6 +6812,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-06-08 21:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-07-29 23:59:30 +0000",
@@ -6684,8 +6829,10 @@
       "environmental:cooked_venison": "2023-10-28 00:40:17 +0000",
       "cooked_mutton": "2022-06-11 03:17:16 +0000",
       "apple": "2022-01-15 08:18:04 +0000",
+      "cooked_cod": "2024-06-08 21:09:26 +0000",
       "bread": "2021-09-11 03:42:53 +0000",
       "upgrade_aquatic:lionfish": "2024-04-05 23:26:15 +0000",
+      "cooked_rabbit": "2024-06-08 19:34:01 +0000",
       "carrot": "2022-02-23 16:19:56 +0000"
     },
     "done": false
@@ -6836,6 +6983,12 @@
   "cfm:recipes/cfm/andesite_chair": {
     "criteria": {
       "has_planks": "2022-02-27 18:00:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-06-08 21:00:09 +0000"
     },
     "done": true
   },
@@ -7104,6 +7257,12 @@
   "ilikewood:recipes/decorations/red_jungle_bed_from_white_jungle_bed": {
     "criteria": {
       "has_dye": "2022-02-25 17:47:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/light_blue_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },
@@ -7449,6 +7608,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-06-08 18:55:42 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_wallmount": {
     "criteria": {
       "has_steel_ingot": "2022-02-27 04:39:43 +0000"
@@ -7488,6 +7653,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-02-23 12:45:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2024-06-08 19:02:48 +0000"
     },
     "done": true
   },
@@ -8205,6 +8376,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/glass/green_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-27 02:00:51 +0000"
@@ -8214,6 +8391,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2022-04-23 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-06-08 18:55:27 +0000"
     },
     "done": true
   },
@@ -8334,6 +8517,12 @@
   "ilikewood:recipes/tools/stone_spruce_sword": {
     "criteria": {
       "has_material": "2022-02-27 17:59:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/glass/gray_clear_stained_glass": {
+    "criteria": {
+      "has_clear_glass": "2024-06-07 17:57:46 +0000"
     },
     "done": true
   },

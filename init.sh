@@ -1,5 +1,6 @@
 #!/bin/sh
-docker run -d -v /home/jkridner/workspace/bashcraft:/data \
+docker run -d \
+    --mount type=bind,source="/home/jkridner/workspace/bashcraft",target=/data \
     --dns 192.168.0.1 \
     -e TYPE=FORGE \
     -e MEMORY=4G \
