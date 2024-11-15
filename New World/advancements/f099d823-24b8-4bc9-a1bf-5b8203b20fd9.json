@@ -1559,6 +1559,12 @@
     },
     "done": true
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2024-06-09 23:34:15 +0000"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/fence_gold": {
     "criteria": {
       "has_gold_ingot": "2021-09-11 16:51:13 +0000"
@@ -1664,6 +1670,12 @@
   "ilikewood:recipes/redstone/dark_oak_lectern": {
     "criteria": {
       "has_book": "2022-02-28 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-06-10 00:45:22 +0000"
     },
     "done": true
   },
@@ -1999,6 +2011,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-09-11 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2024-06-10 00:45:18 +0000"
     },
     "done": true
   },
