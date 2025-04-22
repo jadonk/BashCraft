@@ -3820,6 +3820,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/hepatizon_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-21 16:23:08 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2021-09-11 17:15:47 +0000"
@@ -5808,6 +5814,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/windmill_blade": {
     "criteria": {
       "has_treated_planks": "2022-02-28 00:47:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-04-05 01:23:04 +0000"
     },
     "done": true
   },

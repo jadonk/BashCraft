@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-21 14:56:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-02-27 03:57:42 +0000"
@@ -608,6 +614,12 @@
   "cfm:recipes/cfm/dye_yellow_picket_gate": {
     "criteria": {
       "has_dye": "2024-06-08 21:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-05 00:56:47 +0000"
     },
     "done": true
   },
@@ -2148,6 +2160,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_alu": {
+    "criteria": {
+      "has_metal_ladder": "2025-04-05 01:06:32 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2022-02-12 02:33:28 +0000"
@@ -3114,6 +3132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-05 00:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-12 05:15:35 +0000"
@@ -3283,6 +3307,12 @@
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2022-02-27 16:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-05 00:56:47 +0000"
     },
     "done": true
   },
@@ -3467,6 +3497,7 @@
   },
   "tconstruct:tools/tool_smith": {
     "criteria": {
+      "dagger": "2025-04-05 23:22:24 +0000",
       "pickaxe": "2024-12-20 22:53:13 +0000"
     },
     "done": false
@@ -5043,6 +5074,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
     "criteria": {
       "has_hemp_fabric": "2022-02-25 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-05 00:56:47 +0000"
     },
     "done": true
   },
@@ -6704,7 +6741,9 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "copper": "2024-12-20 22:53:13 +0000"
+      "copper": "2024-12-20 22:53:13 +0000",
+      "necrotic_bone": "2025-04-05 23:22:24 +0000",
+      "stone": "2025-04-05 23:22:24 +0000"
     },
     "done": false
   },
@@ -7467,6 +7506,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray": {
     "criteria": {
       "has_sheetmetal": "2024-01-23 21:47:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_floodlight": {
+    "criteria": {
+      "floodlight": "2025-04-21 15:30:33 +0000"
     },
     "done": true
   },
@@ -8274,6 +8319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-21 15:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-12-31 17:45:47 +0000"
@@ -8337,6 +8388,12 @@
   "ilikewood:recipes/decorations/white_birch_bed_from_lime_birch_bed": {
     "criteria": {
       "has_dye": "2022-02-27 16:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-05 00:56:47 +0000"
     },
     "done": true
   },
@@ -8799,6 +8856,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-07 16:59:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_steel": {
+    "criteria": {
+      "has_metal_ladder": "2025-04-05 01:06:32 +0000"
     },
     "done": true
   },
@@ -9980,6 +10043,12 @@
   "ilikewood:recipes/decorations/light_gray_acacia_bed": {
     "criteria": {
       "has_wool": "2022-07-29 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-05 00:56:47 +0000"
     },
     "done": true
   },
