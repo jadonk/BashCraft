@@ -1,0 +1,24 @@
+services:
+  bashcraft:
+    image: itzg/minecraft-server:java8
+    tty: true
+    stdin_open: true
+    volumes:
+      - "/home/ubuntu/workspace/bashcraft:/data:rw"
+    environment:
+      SKIP_CHOWN_DATA: true
+      TYPE: FORGE
+      MEMORY: 4G
+      RCON_PASSWORD: JAnBwaBrgBNrDTZ
+      VERSION: 1.16.5
+      FORGEVERSION: 36.2.34
+    restart: unless-stopped
+  router:
+    image: itzg/mc-router
+    depends_on:
+      - bashcraft
+    restart: unless-stopped
+    ports:
+      - 25565:25565
+    command: --mapping=bashcraft.swk.rocks=bashcraft:25565
+
