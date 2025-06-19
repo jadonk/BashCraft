@@ -1,4 +1,20 @@
 services:
+  vanilla:
+    image: itzg/minecraft-server:latest
+    volumes:
+      - "/home/ubuntu/workspace/bashcraft/vanilla:/data:rw"
+    environment:
+      EULA: true
+      VERSION: 1.21.6
+      FORCE_GAMEMODE: true
+      SKIP_CHOWN_DATA: true
+      MEMORY: 2G
+      RCON_PASSWORD: JAnBwaBrgBNrDTZ
+      MOTD: Vanilla
+      DIFFICULTY: easy
+      MODE: survival
+      SERVER_NAME: SWK Rocks Vanilla
+    restart: unless-stopped
   bashcraft:
     image: itzg/minecraft-server:java8
     tty: true
@@ -6,12 +22,14 @@ services:
     volumes:
       - "/home/ubuntu/workspace/bashcraft:/data:rw"
     environment:
+      EULA: true
       SKIP_CHOWN_DATA: true
       TYPE: FORGE
       MEMORY: 4G
       RCON_PASSWORD: JAnBwaBrgBNrDTZ
       VERSION: 1.16.5
       FORGEVERSION: 36.2.34
+      MOTD: BashCraft
     restart: unless-stopped
   router:
     image: itzg/mc-router
@@ -20,5 +38,11 @@ services:
     restart: unless-stopped
     ports:
       - 25565:25565
-    command: --mapping=bashcraft.swk.rocks=bashcraft:25565
+      - 19132:19132
+    environment:
+      MAPPING: |
+        bashcraft.swk.rocks=bashcraft:25565
+        bashcraftx.swk.rocks=bashcraft:19132
+        vanilla.swk.rocks=vanilla:25565
+        vanillax.swk.rocks=vanilla:19132
 
