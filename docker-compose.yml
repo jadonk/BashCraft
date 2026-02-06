@@ -5,7 +5,7 @@ services:
       - "/home/ubuntu/workspace/bashcraft/vanilla:/data:rw"
     environment:
       EULA: true
-      VERSION: 1.21.6
+      TYPE: PAPER
       FORCE_GAMEMODE: true
       SKIP_CHOWN_DATA: true
       MEMORY: 2G

@@ -1919,6 +1919,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-10-16 22:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2024-04-05 23:28:37 +0000"
@@ -1990,6 +1996,12 @@
       "has_iron_ingot": "2021-09-11 17:20:01 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "hepatizon": "2025-10-16 22:22:51 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_uranium_hammering": {
     "criteria": {
@@ -3664,6 +3676,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/fancy_frame/clear": {
+    "criteria": {
+      "has_item": "2026-01-10 01:10:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2022-02-25 18:27:39 +0000"
@@ -4225,6 +4243,12 @@
   "ilikewood:recipes/tools/iron_jungle_sword": {
     "criteria": {
       "has_material": "2022-02-25 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-10-16 23:01:13 +0000"
     },
     "done": true
   },
@@ -5314,7 +5338,9 @@
     "criteria": {
       "minecraft:skeleton": "2022-04-23 01:05:26 +0000",
       "minecraft:zoglin": "2022-09-10 00:35:32 +0000",
+      "minecraft:elder_guardian": "2025-10-16 22:39:29 +0000",
       "minecraft:spider": "2022-06-11 02:49:25 +0000",
+      "minecraft:creeper": "2025-10-16 22:13:57 +0000",
       "minecraft:zombified_piglin": "2022-02-26 02:09:02 +0000",
       "minecraft:husk": "2022-02-25 18:39:27 +0000",
       "minecraft:ender_dragon": "2025-02-09 03:32:13 +0000",
@@ -5480,6 +5506,12 @@
       "has_material": "2022-02-27 17:59:40 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "dagger": "2025-10-16 22:22:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -6322,6 +6354,7 @@
       "minecraft:wooded_mountains": "2021-12-19 19:46:01 +0000",
       "autumnity:maple_forest": "2022-06-11 02:41:25 +0000",
       "minecraft:stone_shore": "2021-09-14 22:17:32 +0000",
+      "autumnity:red_spotted_taiga": "2025-09-03 20:42:19 +0000",
       "minecraft:swamp": "2022-02-12 04:15:03 +0000",
       "environmental:blossom_woods": "2022-06-11 02:23:42 +0000",
       "minecraft:snowy_taiga_hills": "2022-02-12 03:46:14 +0000",
