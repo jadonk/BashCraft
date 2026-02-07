@@ -1,40 +1,57 @@
-[23:12:19] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[23:12:19] [Server thread/INFO]: [Rcon: Stopping the server]
-[23:12:19] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[23:12:19] [Server thread/INFO]: Stopping server
-[23:12:20] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.2-SNAPSHOT
-[23:12:20] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[23:12:20] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[23:12:20] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[23:12:20] [Server thread/INFO]: Saving players
-[23:12:20] [Server thread/INFO]: Saving worlds
-[23:12:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[23:12:20] [WebSocketConnectReadThread-54530/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[23:12:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[23:12:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[23:12:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[23:12:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:12:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:12:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:12:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:12:20] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[23:12:20] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[23:12:20] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[23:12:20] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[23:31:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-LTS; Eclipse Adoptium Temurin-21.0.7+6) on Linux 6.14.0-1018-aws (aarch64)
+[23:31:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-69-main@94d0c97 (2025-12-30T20:33:30Z) for Minecraft 1.21.11
+[23:31:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:31:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[23:31:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Geyser-Spigot (2.7.2-SNAPSHOT), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[23:31:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:32:01] [ServerMain/INFO]: Loaded 1470 recipes
+[23:32:01] [ServerMain/INFO]: Loaded 1584 advancements
+[23:32:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:32:02] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 582.6ms
+[23:32:02] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[23:32:02] [Server thread/INFO]: Loading properties
+[23:32:02] [Server thread/INFO]: This server is running Paper version 1.21.11-69-main@94d0c97 (2025-12-30T20:33:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[23:32:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:32:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:32:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:32:03] [Server thread/INFO]: [MoonriseCommon] Paper is using 12 worker threads, 1 I/O threads
+[23:32:03] [Server thread/INFO]: Default game type: SURVIVAL
+[23:32:03] [Server thread/INFO]: Generating keypair
+[23:32:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:32:03] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[23:32:03] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux aarch64) cipher from Velocity.
+[23:32:04] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[23:32:05] [Server thread/INFO]: [floodgate] Took 1,064ms to boot Floodgate
+[23:32:05] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.2-SNAPSHOT
+[23:32:06] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:32:06] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:32:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:32:06] [Server thread/INFO]: Preparing level "world"
+[23:32:07] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[23:32:07] [Server thread/INFO]: Preparing spawn area: 100%
+[23:32:07] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:32:07] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[23:32:07] [Server thread/INFO]: Preparing spawn area: 100%
+[23:32:07] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:32:07] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[23:32:07] [Server thread/INFO]: Prepared spawn area in 0 ms
+[23:32:07] [Server thread/INFO]: Done preparing level "world" (0.895s)
+[23:32:07] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[23:32:07] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.2-SNAPSHOT
+[23:32:08] [Server thread/INFO]: [spark] Starting background profiler...
+[23:32:08] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:32:08] [Server thread/INFO]: [Geyser-Spigot] 
+[23:32:08] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.2-b860 (git-master-115d709)
+[23:32:08] [Server thread/INFO]: [Geyser-Spigot] 
+[23:32:08] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:32:13] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[23:32:13] [Server thread/INFO]: [Geyser-Spigot] Done (5.464s)! Run /geyser help for help!
+[23:32:13] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.5). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[23:32:13] [ForkJoinPool.commonPool-worker-19/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.132. Download it here: https://geysermc.org/download
+[23:32:14] [Server thread/INFO]: Starting remote control listener
+[23:32:14] [Server thread/INFO]: Thread RCON Listener started
+[23:32:14] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[23:32:14] [Server thread/INFO]: Running delayed init tasks
+[23:32:14] [Server thread/INFO]: Done (23.470s)! For help, type "help"
+[23:33:14] [Server thread/INFO]: Server empty for 60 seconds, pausing

@@ -25,12 +25,14 @@ services:
       EULA: true
       SKIP_CHOWN_DATA: true
       TYPE: FORGE
-      MEMORY: 4G
+      MEMORY: 8G
       RCON_PASSWORD: JAnBwaBrgBNrDTZ
       VERSION: 1.16.5
       FORGEVERSION: 36.2.34
       MOTD: BashCraft
     restart: unless-stopped
+    ports:
+      - 8100:58100
   router:
     image: itzg/mc-router
     depends_on:

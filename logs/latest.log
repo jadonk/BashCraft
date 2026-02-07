@@ -1,14 +1,14 @@
-[06Feb2026 23:11:25.255] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
-[06Feb2026 23:11:25.259] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_312 by Temurin
-[06Feb2026 23:11:26.889] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[06Feb2026 23:11:27.157] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/data/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[06Feb2026 23:11:28.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /data/mods/curios-forge-1.16.5-4.0.7.0-api.jar is missing mods.toml file
-[06Feb2026 23:11:28.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /data/mods/curios-forge-1.16.5-4.0.7.0-api.jar has been ignored - it is invalid
-[06Feb2026 23:11:30.324] [main/ERROR] [mixin/]: Mixin config unionlib.mixins.json does not specify "minVersion" property
-[06Feb2026 23:11:30.340] [main/ERROR] [mixin/]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
-[06Feb2026 23:11:30.599] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [mcinterface1165.mixin.MixinConnector]
-[06Feb2026 23:11:30.600] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
-[06Feb2026 23:11:30.623] [main/WARN] [mixin/]: Reference map 'immersivecooking.refmap.json' for immersivecooking.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Feb2026 23:11:31.424] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[06Feb2026 23:11:31.425] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
-[06Feb2026 23:11:31.425] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found mts.mixins.json:common.MinecraftMixin
+[07Feb2026 13:38:26.642] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[07Feb2026 13:38:26.645] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_312 by Temurin
+[07Feb2026 13:38:26.897] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[07Feb2026 13:38:26.951] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/data/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[07Feb2026 13:38:27.521] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /data/mods/curios-forge-1.16.5-4.0.7.0-api.jar is missing mods.toml file
+[07Feb2026 13:38:27.521] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /data/mods/curios-forge-1.16.5-4.0.7.0-api.jar has been ignored - it is invalid
+[07Feb2026 13:38:28.632] [main/ERROR] [mixin/]: Mixin config unionlib.mixins.json does not specify "minVersion" property
+[07Feb2026 13:38:28.643] [main/ERROR] [mixin/]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
+[07Feb2026 13:38:28.746] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [mcinterface1165.mixin.MixinConnector]
+[07Feb2026 13:38:28.748] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[07Feb2026 13:38:28.755] [main/WARN] [mixin/]: Reference map 'immersivecooking.refmap.json' for immersivecooking.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Feb2026 13:38:29.199] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2026 13:38:29.199] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
+[07Feb2026 13:38:29.200] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found mts.mixins.json:common.MinecraftMixin

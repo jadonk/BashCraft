@@ -1841,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-02-06 23:48:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_seeds": {
     "criteria": {
       "has_tomato": "2023-01-28 03:26:03 +0000"
@@ -7062,6 +7068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-02-06 23:48:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_from_blasting": {
     "criteria": {
       "has_ore_lead": "2023-11-04 04:49:43 +0000"
@@ -9987,6 +9999,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-02-27 17:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-02-07 00:00:36 +0000"
     },
     "done": true
   },
